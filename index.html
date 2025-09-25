@@ -13,7 +13,7 @@
 </head>
 <body>
   <h1>Papers Weekly</h1>
-  <p>Ranked by Reddit + HN + Bluesky + OpenAlex (last 7 days).</p>
+  <p>Ranked by Reddit + HN + Bluesky (last 7 days).</p>
   <div id="list">Loading…</div>
   <script>
     fetch("./public/generated/weekly.json")
@@ -32,7 +32,6 @@
               <span class="badge">Reddit ${p.signals.reddit_mentions}</span>
               <span class="badge">HN ${p.signals.hn_mentions}</span>
               <span class="badge">Bluesky ${p.signals.bluesky_mentions}</span>
-              <span class="badge">New cites ${p.signals.new_citations_this_week}</span>
               <a class="badge" href="${p.pdf_url}" target="_blank" rel="noopener">PDF</a>
             </div>`;
           el.appendChild(div);
