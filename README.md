@@ -1,10 +1,11 @@
-# Papers Weekly (free signals)
+# ML Papers Weekly (free signals)
+
+Twitter removed their free API, which sucks, so I will use Reddit, HackerNews and Bluesky.
 
 Ranks last-7-day arXiv ML papers by free social/citation signals:
 - Reddit (OAuth client credentials)
 - Hacker News (Algolia)
 - Bluesky (public AppView)
-- OpenAlex (new citations in window)
 
 ## Setup
 
