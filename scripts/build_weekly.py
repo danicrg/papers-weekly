@@ -13,7 +13,6 @@ load_dotenv()
 # -------- Config --------
 CATEGORIES = ["cs.LG", "cs.AI", "stat.ML"]
 DAYS_BACK = int(os.getenv("DAYS_BACK", "7"))
-MAX_ARXIV_RESULTS = int(os.getenv("MAX_ARXIV_RESULTS", "300"))
 TOP_N = int(os.getenv("TOP_N", "50"))
 OUT_PATH = os.getenv("OUT_PATH", "public/generated/weekly.json")
 
@@ -29,7 +28,7 @@ BSKY_CONCURRENCY = int(os.getenv("BSKY_CONCURRENCY", "10"))
 # Backoff/safety
 SLEEP_SHORT = 0.4
 UA = "papers-weekly/0.5 (https://github.com/you/papers-weekly)"
-ARXIV_PAGE = 200
+ARXIV_PAGE = 400
 
 # -------- Shared HTTP session (keep-alive) --------
 SESSION = requests.Session()
