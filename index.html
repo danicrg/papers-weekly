@@ -16,7 +16,7 @@
   <p>Ranked by Reddit + HN + Bluesky + OpenAlex (last 7 days).</p>
   <div id="list">Loading…</div>
   <script>
-    fetch("./generated/weekly.json")
+    fetch("./public/generated/weekly.json")
       .then(r => r.json())
       .then(d => {
         const el = document.getElementById('list');
