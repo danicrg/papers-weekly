@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Papers Weekly (free signals)</title>
+  <style>
+    body{font-family:system-ui,Arial,sans-serif;max-width:900px;margin:2rem auto;padding:0 1rem}
+    .paper{padding:12px 0;border-bottom:1px solid #eee}
+    .meta{font-size:0.9rem;color:#555}
+    .badge{display:inline-block;margin-right:.5rem;font-size:.8rem;padding:.15rem .4rem;border:1px solid #ddd;border-radius:6px}
+  </style>
+</head>
+<body>
+  <h1>Papers Weekly</h1>
+  <p>Ranked by Reddit + HN + Bluesky + OpenAlex (last 7 days).</p>
+  <div id="list">Loading…</div>
+  <script>
+    fetch("./generated/weekly.json")
+      .then(r => r.json())
+      .then(d => {
+        const el = document.getElementById('list');
+        el.innerHTML = "";
+        d.papers.forEach((p,i) => {
+          const div = document.createElement('div');
+          div.className = 'paper';
+          div.innerHTML = `
+            <div class="meta">#${i+1} · Score ${p.score}</div>
+            <h3><a href="${p.abs_url}" target="_blank" rel="noopener">${p.title}</a></h3>
+            <div class="meta">${(p.authors||[]).join(", ")}</div>
+            <div style="margin-top:.25rem">
+              <span class="badge">Reddit ${p.signals.reddit_mentions}</span>
+              <span class="badge">HN ${p.signals.hn_mentions}</span>
+              <span class="badge">Bluesky ${p.signals.bluesky_mentions}</span>
+              <span class="badge">New cites ${p.signals.new_citations_this_week}</span>
+              <a class="badge" href="${p.pdf_url}" target="_blank" rel="noopener">PDF</a>
+            </div>`;
+          el.appendChild(div);
+        });
+      })
+      .catch(err => {
+        document.getElementById('list').textContent = 'No data yet. Did the Action run?';
+        console.error(err);
+      });
+  </script>
+</body>
+</html>
