@@ -1,0 +1,41 @@
+name: Update Weekly Papers
+
+on:
+  schedule:
+    - cron: "35 7 * * *"  # daily 07:35 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Build weekly JSON
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
+          DAYS_BACK: "7"
+          TOP_N: "50"
+        run: python scripts/build_weekly.py
+
+      - name: Commit updates
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name  "papers-weekly-bot"
+            git config user.email "bot@example.com"
+            git add public/generated/weekly.json
+            git commit -m "auto: update weekly feed"
+            git push
+          else
+            echo "No changes"
+          fi
