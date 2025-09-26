@@ -13,7 +13,7 @@
 </head>
 <body>
   <h1>ML Papers Weekly</h1>
-  <p>Ranked by Reddit + HN + HF (last 7 days).</p>
+  <p>Ranked by Reddit + HN + HF + GitHub Stars (last 7 days).</p>
   <div id="list">Loading…</div>
   <script>
     fetch("./public/generated/weekly.json")
@@ -32,6 +32,7 @@
               <span class="badge">Reddit ${p.signals.reddit_mentions}</span>
               <span class="badge">HN ${p.signals.hn_mentions}</span>
               <span class="badge">HF ${p.signals.hf_count}</span>
+              <span class="badge">GH ⭐ ${p.signals.gh_stars}</span>
               <a class="badge" href="${p.pdf_url}" target="_blank" rel="noopener">PDF</a>
             </div>`;
           el.appendChild(div);
