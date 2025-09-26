@@ -6,6 +6,7 @@ import feedparser
 from dotenv import load_dotenv
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
+from huggingface_hub import HfApi
 
 
 load_dotenv()
@@ -17,7 +18,7 @@ TOP_N = int(os.getenv("TOP_N", "50"))
 OUT_PATH = os.getenv("OUT_PATH", "public/generated/weekly.json")
 
 # Scoring weights
-W_REDDIT, W_HN, W_BSKY = 3.0, 2.0, 1.5
+W_REDDIT, W_HN, W_HF = 3.0, 2.0, 1.5
 
 # Concurrency knobs (tune as needed)
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", "24"))   # total concurrent papers scored
@@ -34,6 +35,7 @@ ARXIV_PAGE = 1000
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": UA})
 
+api = HfApi()
 
 # --- add near top ---
 import threading, time
@@ -195,21 +197,40 @@ def count_hn_mentions(abs_url: str) -> int:
     print(f"[hn] {abs_url.split('/')[-1]}: {n} in {time.time() - start_time:.1f}s")
     return n
 
-# -------- Bluesky AppView (free, no auth) --------
-def count_bluesky_mentions(abs_url: str) -> int:
+# --- replace your hf_signals(...) with this ---
+
+def hf_signals_precise(abs_url: str, max_models: int | None = None, max_datasets: int | None = None):
+    """
+    Count HF repos that explicitly tag this paper: `arxiv:<id>`.
+    Streams all results; optionally cap with max_models/max_datasets to bound runtime.
+    """
     start_time = time.time()
-    params = {"q": f"\"{abs_url}\"",}
+    arxiv_id = abs_url.split("/")[-1]  # extract id if full URL given
+    # Models citing the paper
+    m_count = 0
+    m_downloads = 0
     with _sema_bsky:
-        r = SESSION.get("https://api.bsky.app/xrpc/app.bsky.feed.searchPosts",
-                        params=params, timeout=20)
-        time.sleep(SLEEP_SHORT)
-    if r.status_code != 200:
-        return 0
-    js = r.json()
-    posts = js.get("posts", []) or js.get("hits", []) or []
-    n = len(posts)
-    print(f"[bsky] {abs_url.split('/')[-1]}: {n} in {time.time() - start_time:.1f}s")
-    return n
+        for i, m in enumerate(api.list_models(filter=[f"arxiv:{arxiv_id}"], sort="downloads", direction=-1)):
+            m_count += 1
+            m_downloads += int(getattr(m, "downloads", 0) or 0)
+            if max_models and i + 1 >= max_models:
+                break
+
+        # Datasets citing the paper
+        d_count = 0
+        d_downloads = 0
+        for i, d in enumerate(api.list_datasets(filter=[f"arxiv:{arxiv_id}"], sort="downloads", direction=-1)):
+            d_count += 1
+            d_downloads += int(getattr(d, "downloads", 0) or 0)
+            if max_datasets and i + 1 >= max_datasets:
+                break
+    print(f"[hf] {arxiv_id}: {m_count} models (+{m_downloads} dl), {d_count} datasets (+{d_downloads} dl) in {time.time() - start_time:.1f}s")
+    return {
+        "hf_model_count": m_count,
+        "hf_model_downloads": m_downloads,
+        "hf_dataset_count": d_count,
+        "hf_dataset_downloads": d_downloads,
+    }
 
 # -------- Per-paper scorer (runs provider calls in parallel) --------
 def score_one(paper: Dict[str, Any], token: Optional[str]) -> Dict[str, Any]:
@@ -219,16 +240,16 @@ def score_one(paper: Dict[str, Any], token: Optional[str]) -> Dict[str, Any]:
     with ThreadPoolExecutor(max_workers=3) as local_pool:
         fut_reddit = local_pool.submit(count_reddit_mentions, abs_url, token)
         fut_hn     = local_pool.submit(count_hn_mentions, abs_url)
-        fut_bsky   = local_pool.submit(count_bluesky_mentions, abs_url)
+        fut_hf   = local_pool.submit(hf_signals_precise, abs_url)
 
         reddit_mentions = fut_reddit.result()
         hn_mentions     = fut_hn.result()
-        bsky_mentions   = fut_bsky.result()
+        hf_signals   = fut_hf.result()
 
     score = (
         W_REDDIT * log1p(reddit_mentions) +
         W_HN     * log1p(hn_mentions) +
-        W_BSKY   * log1p(bsky_mentions)
+        W_HF   * log1p(hf_signals["hf_model_count"] + hf_signals["hf_dataset_count"])
     )
 
     return {
@@ -241,7 +262,7 @@ def score_one(paper: Dict[str, Any], token: Optional[str]) -> Dict[str, Any]:
         "signals": {
             "reddit_mentions": reddit_mentions,
             "hn_mentions": hn_mentions,
-            "bluesky_mentions": bsky_mentions,
+            "hf_count": hf_signals["hf_model_count"] + hf_signals["hf_dataset_count"],
         },
         "score": round(score, 4),
     }
