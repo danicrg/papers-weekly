@@ -28,7 +28,7 @@ BSKY_CONCURRENCY = int(os.getenv("BSKY_CONCURRENCY", "10"))
 # Backoff/safety
 SLEEP_SHORT = 0.4
 UA = "papers-weekly/0.5 (https://github.com/you/papers-weekly)"
-ARXIV_PAGE = 400
+ARXIV_PAGE = 1000
 
 # -------- Shared HTTP session (keep-alive) --------
 SESSION = requests.Session()
@@ -100,7 +100,7 @@ def fetch_arxiv_since(categories, since_dt):
                 return out
             out.append(e)
         start += ARXIV_PAGE
-        time.sleep(0.2)
+        time.sleep(3.2)
     return out
 
 # -------- Reddit (free OAuth client credentials) --------
@@ -198,7 +198,7 @@ def count_hn_mentions(abs_url: str) -> int:
 # -------- Bluesky AppView (free, no auth) --------
 def count_bluesky_mentions(abs_url: str) -> int:
     start_time = time.time()
-    params = {"q": abs_url}
+    params = {"q": f"\"{abs_url}\"",}
     with _sema_bsky:
         r = SESSION.get("https://api.bsky.app/xrpc/app.bsky.feed.searchPosts",
                         params=params, timeout=20)
