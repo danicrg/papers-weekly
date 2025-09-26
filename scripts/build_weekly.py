@@ -232,6 +232,25 @@ def hf_signals_precise(abs_url: str, max_models: int | None = None, max_datasets
         "hf_dataset_downloads": d_downloads,
     }
 
+
+def hf_paper_github_stars(arxiv_id: str) -> dict:
+    # 1) Try the Papers API
+    with _sema_bsky:
+        r = SESSION.get(f"https://huggingface.co/api/papers/{arxiv_id}", timeout=20)
+        time.sleep(SLEEP_SHORT)
+        if r.status_code == 200:
+            try:
+                js = r.json()
+                print(f"[hf] paper {arxiv_id}: {js.get('githubStars', 0) or 0} stars")
+                return {
+                    "github_stars": js.get("githubStars", 0) or 0
+                }
+            except Exception as ex:
+                print(f"[hf] paper {arxiv_id} parse error: {ex}")
+    return {
+        "github_stars": 0
+    }
+
 # -------- Per-paper scorer (runs provider calls in parallel) --------
 def score_one(paper: Dict[str, Any], token: Optional[str]) -> Dict[str, Any]:
     abs_url = paper["abs_url"]
@@ -241,15 +260,18 @@ def score_one(paper: Dict[str, Any], token: Optional[str]) -> Dict[str, Any]:
         fut_reddit = local_pool.submit(count_reddit_mentions, abs_url, token)
         fut_hn     = local_pool.submit(count_hn_mentions, abs_url)
         fut_hf   = local_pool.submit(hf_signals_precise, abs_url)
+        fut_stars = local_pool.submit(hf_paper_github_stars, paper["id"])
 
         reddit_mentions = fut_reddit.result()
         hn_mentions     = fut_hn.result()
         hf_signals   = fut_hf.result()
+        gh_stars       = fut_stars.result().get("github_stars", 0)
 
     score = (
         W_REDDIT * log1p(reddit_mentions) +
         W_HN     * log1p(hn_mentions) +
         W_HF   * log1p(hf_signals["hf_model_count"] + hf_signals["hf_dataset_count"])
+        + 0.1 * math.sqrt(gh_stars)
     )
 
     return {
@@ -263,6 +285,7 @@ def score_one(paper: Dict[str, Any], token: Optional[str]) -> Dict[str, Any]:
             "reddit_mentions": reddit_mentions,
             "hn_mentions": hn_mentions,
             "hf_count": hf_signals["hf_model_count"] + hf_signals["hf_dataset_count"],
+            "gh_stars": gh_stars,
         },
         "score": round(score, 4),
     }
