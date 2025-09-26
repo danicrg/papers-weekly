@@ -29,7 +29,7 @@ BSKY_CONCURRENCY = int(os.getenv("BSKY_CONCURRENCY", "10"))
 # Backoff/safety
 SLEEP_SHORT = 0.4
 UA = "papers-weekly/0.5 (https://github.com/you/papers-weekly)"
-ARXIV_PAGE = 1000
+ARXIV_PAGE = 200
 
 # -------- Shared HTTP session (keep-alive) --------
 SESSION = requests.Session()
@@ -79,31 +79,59 @@ def days_ago(n: int) -> datetime.datetime:
 def ymd(d: datetime.datetime) -> str:
     return d.strftime("%Y-%m-%d")
 
-def fetch_arxiv_since(categories, since_dt):
+def _fetch_category_since(category: str, since_dt: datetime.datetime) -> list:
     start = 0
     out = []
-    query = " OR ".join(f"cat:{c}" for c in categories)
+    query = f"cat:{category}"
+
     while True:
-        url = ("https://export.arxiv.org/api/query?" + urllib.parse.urlencode({
-            "search_query": query,
-            "sortBy": "submittedDate",
-            "sortOrder": "descending",
-            "start": start,
-            "max_results": ARXIV_PAGE,
-        }))
+        url = (
+            "https://export.arxiv.org/api/query?"
+            + urllib.parse.urlencode({
+                "search_query": query,
+                "sortBy": "submittedDate",
+                "sortOrder": "descending",
+                "start": start,
+                "max_results": ARXIV_PAGE,
+            })
+        )
         r = SESSION.get(url, timeout=30)
         feed = feedparser.parse(r.text)
         if not feed.entries:
             break
+
+        stop = False
         for e in feed.entries:
             pub = e.get("published") or e.get("updated")
             dt = datetime.datetime.strptime(pub[:19], "%Y-%m-%dT%H:%M:%S")
             if dt < since_dt:
-                return out
+                stop = True
+                break
             out.append(e)
+
+        if stop:
+            break
         start += ARXIV_PAGE
-        time.sleep(3.2)
+        time.sleep(3.2)  # respect arXiv throttle
+
     return out
+
+def fetch_arxiv_since(categories: list, since_dt: datetime.datetime) -> list:
+    seen_ids = set()
+    combined = []
+
+    for cat in categories:
+        entries = _fetch_category_since(cat, since_dt)
+        for e in entries:
+            # Extract stable arXiv id without version suffix
+            raw_id = e.get("id", "")
+            short_id = raw_id.split("/")[-1].split("v")[0]
+            if short_id in seen_ids:
+                continue
+            seen_ids.add(short_id)
+            combined.append(e)
+
+    return combined
 
 # -------- Reddit (free OAuth client credentials) --------
 def reddit_token(client_id: str, client_secret: str) -> Optional[str]:
