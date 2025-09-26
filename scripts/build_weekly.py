@@ -184,7 +184,7 @@ def count_reddit_mentions(abs_url: str, token: Optional[str]) -> int:
 # -------- Hacker News via Algolia (free) --------
 def count_hn_mentions(abs_url: str) -> int:
     start_time = time.time()
-    params = {"query": abs_url, "tags": "story"}
+    params = {"query": f"\"{abs_url}\"", "tags": "story"}
     with _sema_hn:
         r = SESSION.get("https://hn.algolia.com/api/v1/search", params=params, timeout=20)
         time.sleep(SLEEP_SHORT)
