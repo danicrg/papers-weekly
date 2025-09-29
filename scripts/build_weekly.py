@@ -131,6 +131,31 @@ def fetch_arxiv_since(categories: list, since_dt: datetime.datetime) -> list:
             seen_ids.add(short_id)
             combined.append(e)
 
+    n = len(combined)
+
+    # Just in case, add the ones in the json already that are in the window
+    try:
+        with open(OUT_PATH, "r", encoding="utf-8") as f:
+            old = json.load(f)
+            for p in old.get("papers", []):
+                pub = p.get("published")
+                if not pub:
+                    continue
+                dt = datetime.datetime.strptime(pub[:19], "%Y-%m-%dT%H:%M:%S")
+                if dt >= since_dt and p["id"] not in seen_ids:
+                    combined.append({
+                        "id": p["id"],
+                        "title": p["title"],
+                        "authors": [{"name": a} for a in p.get("authors", [])],
+                        "abs_url": p["abs_url"],
+                        "pdf_url": p["pdf_url"],
+                        "published": pub,
+                    })
+                    seen_ids.add(p["id"])
+        print(f"[info] re-added {len(combined) - n} papers from existing json")
+    except Exception:
+        pass
+
     return combined
 
 # -------- Reddit (free OAuth client credentials) --------
