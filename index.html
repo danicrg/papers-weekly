@@ -3,18 +3,129 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>ML Papers Weekly (free signals)</title>
+  <title>ML Papers Weekly</title>
   <style>
-    body{font-family:system-ui,Arial,sans-serif;max-width:900px;margin:2rem auto;padding:0 1rem}
-    .paper{padding:12px 0;border-bottom:1px solid #eee}
-    .meta{font-size:0.9rem;color:#555}
-    .badge{display:inline-block;margin-right:.5rem;font-size:.8rem;padding:.15rem .4rem;border:1px solid #ddd;border-radius:6px}
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      background: #0a0a0a;
+      color: #e0e0e0;
+      line-height: 1.6;
+      padding: 2rem 1rem;
+      min-height: 100vh;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    
+    h1 {
+      font-size: 2rem;
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 0.5rem;
+      letter-spacing: -0.02em;
+    }
+    
+    .subtitle {
+      color: #888;
+      font-size: 0.95rem;
+      margin-bottom: 3rem;
+    }
+    
+    .paper {
+      padding: 1.5rem 0;
+      border-bottom: 1px solid #1a1a1a;
+      transition: opacity 0.2s;
+    }
+    
+    .paper:hover {
+      opacity: 0.8;
+    }
+    
+    .rank {
+      font-size: 0.85rem;
+      color: #666;
+      margin-bottom: 0.5rem;
+      font-weight: 500;
+    }
+    
+    .paper h3 {
+      font-size: 1.1rem;
+      font-weight: 500;
+      margin-bottom: 0.5rem;
+    }
+    
+    .paper h3 a {
+      color: #fff;
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    
+    .paper h3 a:hover {
+      color: #60a5fa;
+    }
+    
+    .authors {
+      font-size: 0.85rem;
+      color: #888;
+      margin-bottom: 0.75rem;
+    }
+    
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    
+    .badge {
+      font-size: 0.8rem;
+      padding: 0.25rem 0.6rem;
+      background: #151515;
+      border: 1px solid #252525;
+      border-radius: 4px;
+      color: #aaa;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+    
+    .badge:hover {
+      background: #1a1a1a;
+      border-color: #333;
+      color: #fff;
+    }
+    
+    #list {
+      color: #666;
+    }
+    
+    @media (max-width: 640px) {
+      body {
+        padding: 1.5rem 1rem;
+      }
+      
+      h1 {
+        font-size: 1.5rem;
+      }
+      
+      .paper {
+        padding: 1.25rem 0;
+      }
+    }
   </style>
 </head>
 <body>
-  <h1>ML Papers Weekly</h1>
-  <p>Ranked by Reddit + HN + HF + GitHub Stars (last 7 days).</p>
-  <div id="list">Loading…</div>
+  <div class="container">
+    <h1>ML Papers Weekly</h1>
+    <p class="subtitle">ML Papers published in the past week ranked by Reddit, Hacker News, HuggingFace and GitHub Stars.<br>Updated Daily.</p> 
+    <div id="list">Loading…</div>
+  </div>
   <script>
     fetch("./public/generated/weekly.json")
       .then(r => r.json())
@@ -25,10 +136,10 @@
           const div = document.createElement('div');
           div.className = 'paper';
           div.innerHTML = `
-            <div class="meta">#${i+1} · Score ${p.score}</div>
+            <div class="rank">#${i+1} · Score ${p.score}</div>
             <h3><a href="${p.abs_url}" target="_blank" rel="noopener">${p.title}</a></h3>
-            <div class="meta">${(p.authors||[]).join(", ")}</div>
-            <div style="margin-top:.25rem">
+            <div class="authors">${(p.authors||[]).join(", ")}</div>
+            <div class="badges">
               <span class="badge">Reddit ${p.signals.reddit_mentions}</span>
               <span class="badge">HN ${p.signals.hn_mentions}</span>
               <span class="badge">HF ${p.signals.hf_count}</span>
