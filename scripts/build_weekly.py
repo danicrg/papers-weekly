@@ -151,7 +151,6 @@ def fetch_arxiv_since(categories: list, since_dt: datetime.datetime) -> list:
                         "pdf_url": p["pdf_url"],
                         "published": pub,
                     })
-                    print(combined[-1])
                     seen_ids.add(p["id"])
         print(f"[info] re-added {len(combined) - n} papers from existing json")
     except Exception:
