@@ -144,13 +144,14 @@ def fetch_arxiv_since(categories: list, since_dt: datetime.datetime) -> list:
                 dt = datetime.datetime.strptime(pub[:19], "%Y-%m-%dT%H:%M:%S")
                 if dt >= since_dt and p["id"] not in seen_ids:
                     combined.append({
-                        "id": p["id"],
+                        "id": p["abs_url"],
                         "title": p["title"],
                         "authors": [{"name": a} for a in p.get("authors", [])],
                         "abs_url": p["abs_url"],
                         "pdf_url": p["pdf_url"],
                         "published": pub,
                     })
+                    print(combined[-1])
                     seen_ids.add(p["id"])
         print(f"[info] re-added {len(combined) - n} papers from existing json")
     except Exception:
@@ -342,6 +343,9 @@ def score_one(paper: Dict[str, Any], token: Optional[str]) -> Dict[str, Any]:
         },
         "score": round(score, 4),
     }
+
+
+
 
 # -------- Main build --------
 def build():
