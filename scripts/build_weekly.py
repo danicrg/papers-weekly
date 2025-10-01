@@ -18,7 +18,7 @@ TOP_N = int(os.getenv("TOP_N", "50"))
 OUT_PATH = os.getenv("OUT_PATH", "public/generated/weekly.json")
 
 # Scoring weights
-W_REDDIT, W_HN, W_HF = 3.0, 2.0, 1.5
+W_REDDIT, W_HN, W_HF = 2.0, 2.0, 2.0
 
 # Concurrency knobs (tune as needed)
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", "24"))   # total concurrent papers scored
