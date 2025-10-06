@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-10-05T08:37:12.650065Z",
+  "generated_utc": "2025-10-06T08:25:56.362112Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -8,6 +8,27 @@
   ],
   "top_n": 50,
   "papers": [
+    {
+      "id": "2509.26507",
+      "title": "The Dragon Hatchling: The Missing Link between the Transformer and   Models of the Brain",
+      "authors": [
+        "Adrian Kosowski",
+        "Przemys\u0142aw Uzna\u0144ski",
+        "Jan Chorowski",
+        "Zuzanna Stamirowska",
+        "Micha\u0142 Bartoszkiewicz"
+      ],
+      "abs_url": "https://arxiv.org/abs/2509.26507",
+      "pdf_url": "https://arxiv.org/pdf/2509.26507.pdf",
+      "published": "2025-09-30T16:49:01Z",
+      "signals": {
+        "reddit_mentions": 6,
+        "hn_mentions": 5,
+        "hf_count": 0,
+        "gh_stars": 2433
+      },
+      "score": 12.4079
+    },
     {
       "id": "2510.02250",
       "title": "The Unreasonable Effectiveness of Scaling Agents for Computer Use",
@@ -26,30 +47,30 @@
         "reddit_mentions": 2,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 6579
+        "gh_stars": 6632
       },
-      "score": 10.3083
+      "score": 10.3409
     },
     {
-      "id": "2509.26507",
-      "title": "The Dragon Hatchling: The Missing Link between the Transformer and   Models of the Brain",
+      "id": "2509.26476",
+      "title": "Regression Language Models for Code",
       "authors": [
-        "Adrian Kosowski",
-        "Przemys\u0142aw Uzna\u0144ski",
-        "Jan Chorowski",
-        "Zuzanna Stamirowska",
-        "Micha\u0142 Bartoszkiewicz"
+        "Yash Akhauri",
+        "Xingyou Song",
+        "Arissa Wongpanich",
+        "Bryan Lewandowski",
+        "Mohamed S. Abdelfattah"
       ],
-      "abs_url": "https://arxiv.org/abs/2509.26507",
-      "pdf_url": "https://arxiv.org/pdf/2509.26507.pdf",
-      "published": "2025-09-30T16:49:01Z",
+      "abs_url": "https://arxiv.org/abs/2509.26476",
+      "pdf_url": "https://arxiv.org/pdf/2509.26476.pdf",
+      "published": "2025-09-30T16:25:23Z",
       "signals": {
         "reddit_mentions": 1,
-        "hn_mentions": 4,
-        "hf_count": 0,
-        "gh_stars": 2075
+        "hn_mentions": 1,
+        "hf_count": 3,
+        "gh_stars": 257
       },
-      "score": 9.1604
+      "score": 7.1483
     },
     {
       "id": "2510.00553",
@@ -108,30 +129,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 4538
+        "gh_stars": 4542
       },
-      "score": 6.7365
-    },
-    {
-      "id": "2509.26476",
-      "title": "Regression Language Models for Code",
-      "authors": [
-        "Yash Akhauri",
-        "Xingyou Song",
-        "Arissa Wongpanich",
-        "Bryan Lewandowski",
-        "Mohamed S. Abdelfattah"
-      ],
-      "abs_url": "https://arxiv.org/abs/2509.26476",
-      "pdf_url": "https://arxiv.org/pdf/2509.26476.pdf",
-      "published": "2025-09-30T16:25:23Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 3,
-        "gh_stars": 249
-      },
-      "score": 5.7369
+      "score": 6.7394
     },
     {
       "id": "2510.00492",
@@ -264,9 +264,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 158
+        "gh_stars": 161
       },
-      "score": 4.0296
+      "score": 4.0414
     },
     {
       "id": "2510.01179",
@@ -287,9 +287,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 4,
-        "gh_stars": 50
+        "gh_stars": 56
       },
-      "score": 3.926
+      "score": 3.9672
     },
     {
       "id": "2509.24945",
@@ -340,6 +340,46 @@
       "score": 3.7385
     },
     {
+      "id": "2510.01141",
+      "title": "Apriel-1.5-15b-Thinker",
+      "authors": [
+        "Shruthan Radhakrishna",
+        "Aman Tiwari",
+        "Aanjaneya Shukla",
+        "Masoud Hashemi",
+        "Rishabh Maheshwary",
+        "Shiva Krishna Reddy Malay",
+        "Jash Mehta",
+        "Pulkit Pattnaik",
+        "Saloni Mittal",
+        "Khalil Slimi",
+        "Kelechi Ogueji",
+        "Akintunde Oladipo",
+        "Soham Parikh",
+        "Oluwanifemi Bamgbose",
+        "Toby Liang",
+        "Ahmed Masry",
+        "Khyati Mahajan",
+        "Sai Rajeswar Mudumba",
+        "Vikas Yadav",
+        "Sathwik Tejaswi Madhusudhan",
+        "Torsten Scholak",
+        "Sagar Davasam",
+        "Srinivas Sunkara",
+        "Nicholas Chapados"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.01141",
+      "pdf_url": "https://arxiv.org/pdf/2510.01141.pdf",
+      "published": "2025-10-01T17:29:35Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 0
+      },
+      "score": 3.5835
+    },
+    {
       "id": "2509.25455",
       "title": "PIPer: On-Device Environment Setup via Online Reinforcement Learning",
       "authors": [
@@ -361,38 +401,6 @@
       "score": 3.4638
     },
     {
-      "id": "2509.24007",
-      "title": "Sequential Diffusion Language Models",
-      "authors": [
-        "Yangzhou Liu",
-        "Yue Cao",
-        "Hao Li",
-        "Gen Luo",
-        "Zhe Chen",
-        "Weiyun Wang",
-        "Xiaobo Liang",
-        "Biqing Qi",
-        "Lijun Wu",
-        "Changyao Tian",
-        "Yanting Zhang",
-        "Yuqiang Li",
-        "Tong Lu",
-        "Yu Qiao",
-        "Jifeng Dai",
-        "Wenhai Wang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2509.24007",
-      "pdf_url": "https://arxiv.org/pdf/2509.24007.pdf",
-      "published": "2025-09-28T17:59:15Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 3,
-        "gh_stars": 37
-      },
-      "score": 3.3809
-    },
-    {
       "id": "2509.25176",
       "title": "SIRI: Scaling Iterative Reinforcement Learning with Interleaved   Compression",
       "authors": [
@@ -404,25 +412,6 @@
       "abs_url": "https://arxiv.org/abs/2509.25176",
       "pdf_url": "https://arxiv.org/pdf/2509.25176.pdf",
       "published": "2025-09-29T17:59:08Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 0
-      },
-      "score": 3.2189
-    },
-    {
-      "id": "2509.24107",
-      "title": "Fathom-DeepResearch: Unlocking Long Horizon Information Retrieval and   Synthesis for SLMs",
-      "authors": [
-        "Shreyas Singh",
-        "Kunal Singh",
-        "Pradeep Moturi"
-      ],
-      "abs_url": "https://arxiv.org/abs/2509.24107",
-      "pdf_url": "https://arxiv.org/pdf/2509.24107.pdf",
-      "published": "2025-09-28T22:58:11Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -520,9 +509,9 @@
         "reddit_mentions": 2,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 41
+        "gh_stars": 44
       },
-      "score": 2.8375
+      "score": 2.8605
     },
     {
       "id": "2509.25149",
@@ -630,41 +619,20 @@
       "score": 2.7726
     },
     {
-      "id": "2510.01141",
-      "title": "Apriel-1.5-15b-Thinker",
+      "id": "2509.25085",
+      "title": "jina-reranker-v3: Last but Not Late Interaction for Document Reranking",
       "authors": [
-        "Shruthan Radhakrishna",
-        "Aman Tiwari",
-        "Aanjaneya Shukla",
-        "Masoud Hashemi",
-        "Rishabh Maheshwary",
-        "Shiva Krishna Reddy Malay",
-        "Jash Mehta",
-        "Pulkit Pattnaik",
-        "Saloni Mittal",
-        "Khalil Slimi",
-        "Kelechi Ogueji",
-        "Akintunde Oladipo",
-        "Soham Parikh",
-        "Oluwanifemi Bamgbose",
-        "Toby Liang",
-        "Ahmed Masry",
-        "Khyati Mahajan",
-        "Sai Rajeswar Mudumba",
-        "Vikas Yadav",
-        "Sathwik Tejaswi Madhusudhan",
-        "Torsten Scholak",
-        "Sagar Davasam",
-        "Srinivas Sunkara",
-        "Nicholas Chapados"
+        "Feng Wang",
+        "Yuqing Li",
+        "Han Xiao"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.01141",
-      "pdf_url": "https://arxiv.org/pdf/2510.01141.pdf",
-      "published": "2025-10-01T17:29:35Z",
+      "abs_url": "https://arxiv.org/abs/2509.25085",
+      "pdf_url": "https://arxiv.org/pdf/2509.25085.pdf",
+      "published": "2025-09-29T17:23:54Z",
       "signals": {
-        "reddit_mentions": 1,
+        "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 1,
+        "hf_count": 3,
         "gh_stars": 0
       },
       "score": 2.7726
@@ -693,50 +661,26 @@
       "score": 2.7726
     },
     {
-      "id": "2509.25085",
-      "title": "jina-reranker-v3: Last but Not Late Interaction for Document Reranking",
+      "id": "2510.02240",
+      "title": "RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via   Multi-Stage Reinforcement Learning",
       "authors": [
-        "Feng Wang",
-        "Yuqing Li",
-        "Han Xiao"
+        "Sicheng Feng",
+        "Kaiwen Tuo",
+        "Song Wang",
+        "Lingdong Kong",
+        "Jianke Zhu",
+        "Huan Wang"
       ],
-      "abs_url": "https://arxiv.org/abs/2509.25085",
-      "pdf_url": "https://arxiv.org/pdf/2509.25085.pdf",
-      "published": "2025-09-29T17:23:54Z",
+      "abs_url": "https://arxiv.org/abs/2510.02240",
+      "pdf_url": "https://arxiv.org/pdf/2510.02240.pdf",
+      "published": "2025-10-02T17:29:46Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 3,
-        "gh_stars": 0
+        "hf_count": 2,
+        "gh_stars": 26
       },
-      "score": 2.7726
-    },
-    {
-      "id": "2509.24361",
-      "title": "UI-UG: A Unified MLLM for UI Understanding and Generation",
-      "authors": [
-        "Hao Yang",
-        "Weijie Qiu",
-        "Ru Zhang",
-        "Zhou Fang",
-        "Ruichao Mao",
-        "Xiaoyu Lin",
-        "Maji Huang",
-        "Zhaosong Huang",
-        "Teng Guo",
-        "Shuoyang Liu",
-        "Hai Rao"
-      ],
-      "abs_url": "https://arxiv.org/abs/2509.24361",
-      "pdf_url": "https://arxiv.org/pdf/2509.24361.pdf",
-      "published": "2025-09-29T06:59:09Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 3,
-        "gh_stars": 0
-      },
-      "score": 2.7726
+      "score": 2.7071
     },
     {
       "id": "2509.26603",
@@ -804,6 +748,55 @@
       "score": 2.2972
     },
     {
+      "id": "2510.00967",
+      "title": "QUASAR: Quantum Assembly Code Generation Using Tool-Augmented LLMs via   Agentic RL",
+      "authors": [
+        "Cong Yu",
+        "Valter Uotila",
+        "Shilong Deng",
+        "Qingyuan Wu",
+        "Tuo Shi",
+        "Songlin Jiang",
+        "Lei You",
+        "Bo Zhao"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.00967",
+      "pdf_url": "https://arxiv.org/pdf/2510.00967.pdf",
+      "published": "2025-10-01T14:40:04Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 1
+      },
+      "score": 2.2972
+    },
+    {
+      "id": "2510.02283",
+      "title": "Self-Forcing++: Towards Minute-Scale High-Quality Video Generation",
+      "authors": [
+        "Justin Cui",
+        "Jie Wu",
+        "Ming Li",
+        "Tao Yang",
+        "Xiaojie Li",
+        "Rui Wang",
+        "Andrew Bai",
+        "Yuanhao Ban",
+        "Cho-Jui Hsieh"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.02283",
+      "pdf_url": "https://arxiv.org/pdf/2510.02283.pdf",
+      "published": "2025-10-02T17:55:42Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 70
+      },
+      "score": 2.223
+    },
+    {
       "id": "2509.25559",
       "title": "Radiology's Last Exam (RadLE): Benchmarking Frontier Multimodal AI   Against Human Experts and a Taxonomy of Visual Reasoning Errors in Radiology",
       "authors": [
@@ -842,30 +835,6 @@
         "reddit_mentions": 2,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
-      "id": "2510.00967",
-      "title": "QUASAR: Quantum Assembly Code Generation Using Tool-Augmented LLMs via   Agentic RL",
-      "authors": [
-        "Cong Yu",
-        "Valter Uotila",
-        "Shilong Deng",
-        "Qingyuan Wu",
-        "Tuo Shi",
-        "Songlin Jiang",
-        "Lei You",
-        "Bo Zhao"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.00967",
-      "pdf_url": "https://arxiv.org/pdf/2510.00967.pdf",
-      "published": "2025-10-01T14:40:04Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
         "gh_stars": 0
       },
       "score": 2.1972
@@ -919,51 +888,28 @@
       "score": 2.1972
     },
     {
-      "id": "2509.24006",
-      "title": "SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable   Sparse-Linear Attention",
+      "id": "2510.02295",
+      "title": "VideoNSA: Native Sparse Attention Scales Video Understanding",
       "authors": [
-        "Jintao Zhang",
-        "Haoxu Wang",
-        "Kai Jiang",
-        "Shuo Yang",
-        "Kaiwen Zheng",
-        "Haocheng Xi",
-        "Ziteng Wang",
-        "Hongzhou Zhu",
-        "Min Zhao",
-        "Ion Stoica",
-        "Joseph E. Gonzalez",
-        "Jun Zhu",
-        "Jianfei Chen"
+        "Enxin Song",
+        "Wenhao Chai",
+        "Shusheng Yang",
+        "Ethan Armand",
+        "Xiaojun Shan",
+        "Haiyang Xu",
+        "Jianwen Xie",
+        "Zhuowen Tu"
       ],
-      "abs_url": "https://arxiv.org/abs/2509.24006",
-      "pdf_url": "https://arxiv.org/pdf/2509.24006.pdf",
-      "published": "2025-09-28T17:58:59Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 51
-      },
-      "score": 2.1004
-    },
-    {
-      "id": "2509.24335",
-      "title": "Hyperspherical Latents Improve Continuous-Token Autoregressive   Generation",
-      "authors": [
-        "Guolin Ke",
-        "Hui Xue"
-      ],
-      "abs_url": "https://arxiv.org/abs/2509.24335",
-      "pdf_url": "https://arxiv.org/pdf/2509.24335.pdf",
-      "published": "2025-09-29T06:34:24Z",
+      "abs_url": "https://arxiv.org/abs/2510.02295",
+      "pdf_url": "https://arxiv.org/pdf/2510.02295.pdf",
+      "published": "2025-10-02T17:58:54Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 35
+        "gh_stars": 34
       },
-      "score": 1.9779
+      "score": 1.9694
     },
     {
       "id": "2509.26536",
@@ -994,30 +940,6 @@
       "score": 1.9431
     },
     {
-      "id": "2510.02295",
-      "title": "VideoNSA: Native Sparse Attention Scales Video Understanding",
-      "authors": [
-        "Enxin Song",
-        "Wenhao Chai",
-        "Shusheng Yang",
-        "Ethan Armand",
-        "Xiaojun Shan",
-        "Haiyang Xu",
-        "Jianwen Xie",
-        "Zhuowen Tu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.02295",
-      "pdf_url": "https://arxiv.org/pdf/2510.02295.pdf",
-      "published": "2025-10-02T17:58:54Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 29
-      },
-      "score": 1.9248
-    },
-    {
       "id": "2509.25160",
       "title": "GSM8K-V: Can Vision Language Models Solve Grade School Math Word   Problems in Visual Contexts",
       "authors": [
@@ -1046,30 +968,6 @@
       "score": 1.9059
     },
     {
-      "id": "2509.24203",
-      "title": "Group-Relative REINFORCE Is Secretly an Off-Policy Algorithm:   Demystifying Some Myths About GRPO and Its Friends",
-      "authors": [
-        "Chaorui Yao",
-        "Yanxi Chen",
-        "Yuchang Sun",
-        "Yushuo Chen",
-        "Wenhao Zhang",
-        "Xuchen Pan",
-        "Yaliang Li",
-        "Bolin Ding"
-      ],
-      "abs_url": "https://arxiv.org/abs/2509.24203",
-      "pdf_url": "https://arxiv.org/pdf/2509.24203.pdf",
-      "published": "2025-09-29T02:34:54Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 357
-      },
-      "score": 1.8894
-    },
-    {
       "id": "2510.02245",
       "title": "ExGRPO: Learning to Reason from Experience",
       "authors": [
@@ -1089,9 +987,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 328
+        "gh_stars": 330
       },
-      "score": 1.8111
+      "score": 1.8166
     },
     {
       "id": "2509.24473",
@@ -1188,9 +1086,28 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 7
+        "gh_stars": 8
       },
-      "score": 1.6509
+      "score": 1.6691
+    },
+    {
+      "id": "2510.01174",
+      "title": "Code2Video: A Code-centric Paradigm for Educational Video Generation",
+      "authors": [
+        "Yanzhe Chen",
+        "Kevin Qinghong Lin",
+        "Mike Zheng Shou"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.01174",
+      "pdf_url": "https://arxiv.org/pdf/2510.01174.pdf",
+      "published": "2025-10-01T17:56:48Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 252
+      },
+      "score": 1.5875
     },
     {
       "id": "2509.26495",
@@ -1238,62 +1155,25 @@
       "score": 1.5595
     },
     {
-      "id": "2509.24285",
-      "title": "SCI-Verifier: Scientific Verifier with Thinking",
+      "id": "2510.01354",
+      "title": "WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents",
       "authors": [
-        "Shenghe Zheng",
-        "Chenyu Huang",
-        "Fangchen Yu",
-        "Junchi Yao",
-        "Jingqi Ye",
-        "Tao Chen",
-        "Yun Luo",
-        "Ning Ding",
-        "LEI BAI",
-        "Ganqu Cui",
-        "Peng Ye"
+        "Yinuo Liu",
+        "Ruohan Xu",
+        "Xilong Wang",
+        "Yuqi Jia",
+        "Neil Zhenqiang Gong"
       ],
-      "abs_url": "https://arxiv.org/abs/2509.24285",
-      "pdf_url": "https://arxiv.org/pdf/2509.24285.pdf",
-      "published": "2025-09-29T04:58:43Z",
+      "abs_url": "https://arxiv.org/abs/2510.01354",
+      "pdf_url": "https://arxiv.org/pdf/2510.01354.pdf",
+      "published": "2025-10-01T18:34:06Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 1
+        "gh_stars": 3
       },
-      "score": 1.4863
-    },
-    {
-      "id": "2509.24002",
-      "title": "MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP   Use",
-      "authors": [
-        "Zijian Wu",
-        "Xiangyan Liu",
-        "Xinyuan Zhang",
-        "Lingjun Chen",
-        "Fanqing Meng",
-        "Lingxiao Du",
-        "Yiran Zhao",
-        "Fanshi Zhang",
-        "Yaoqi Ye",
-        "Jiawei Wang",
-        "Zirui Wang",
-        "Jinjie Ni",
-        "Yufan Yang",
-        "Arvin Xu",
-        "Michael Qizhe Shieh"
-      ],
-      "abs_url": "https://arxiv.org/abs/2509.24002",
-      "pdf_url": "https://arxiv.org/pdf/2509.24002.pdf",
-      "published": "2025-09-28T17:53:27Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 213
-      },
-      "score": 1.4595
+      "score": 1.5595
     },
     {
       "id": "2510.01051",
@@ -1326,9 +1206,101 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 194
+        "gh_stars": 207
       },
-      "score": 1.3928
+      "score": 1.4387
+    },
+    {
+      "id": "2510.03222",
+      "title": "Low-probability Tokens Sustain Exploration in Reinforcement Learning   with Verifiable Reward",
+      "authors": [
+        "Guanhua Huang",
+        "Tingqiang Xu",
+        "Mingze Wang",
+        "Qi Yi",
+        "Xue Gong",
+        "Siheng Li",
+        "Ruibin Xiong",
+        "Kejiao Li",
+        "Yuhao Jiang",
+        "Bo Zhou"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.03222",
+      "pdf_url": "https://arxiv.org/pdf/2510.03222.pdf",
+      "published": "2025-10-03T17:56:13Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2510.03224",
+      "title": "Test-Time Defense Against Adversarial Attacks via Stochastic Resonance   of Latent Ensembles",
+      "authors": [
+        "Dong Lao",
+        "Yuxiang Zhang",
+        "Haniyeh Ehsani Oskouie",
+        "Yangchao Wu",
+        "Alex Wong",
+        "Stefano Soatto"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.03224",
+      "pdf_url": "https://arxiv.org/pdf/2510.03224.pdf",
+      "published": "2025-10-03T17:57:25Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2510.02263",
+      "title": "RLAD: Training LLMs to Discover Abstractions for Solving Reasoning   Problems",
+      "authors": [
+        "Yuxiao Qu",
+        "Anikait Singh",
+        "Yoonho Lee",
+        "Amrith Setlur",
+        "Ruslan Salakhutdinov",
+        "Chelsea Finn",
+        "Aviral Kumar"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.02263",
+      "pdf_url": "https://arxiv.org/pdf/2510.02263.pdf",
+      "published": "2025-10-02T17:44:23Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2510.02228",
+      "title": "xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity",
+      "authors": [
+        "Maximilian Beck",
+        "Kajetan Schweighofer",
+        "Sebastian B\u00f6ck",
+        "Sebastian Lehner",
+        "Sepp Hochreiter"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.02228",
+      "pdf_url": "https://arxiv.org/pdf/2510.02228.pdf",
+      "published": "2025-10-02T17:14:34Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
     }
   ]
 }
