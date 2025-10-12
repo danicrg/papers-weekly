@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-10-11T08:19:08.986076Z",
+  "generated_utc": "2025-10-12T08:23:16.463075Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -18,12 +18,30 @@
       "pdf_url": "https://arxiv.org/pdf/2510.04871.pdf",
       "published": "2025-10-06T14:58:08Z",
       "signals": {
-        "reddit_mentions": 7,
+        "reddit_mentions": 8,
         "hn_mentions": 3,
         "hf_count": 1,
-        "gh_stars": 3163
+        "gh_stars": 3590
       },
-      "score": 13.9418
+      "score": 14.545
+    },
+    {
+      "id": "2510.06105",
+      "title": "Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences",
+      "authors": [
+        "Batu El",
+        "James Zou"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.06105",
+      "pdf_url": "https://arxiv.org/pdf/2510.06105.pdf",
+      "published": "2025-10-07T16:37:15Z",
+      "signals": {
+        "reddit_mentions": 7,
+        "hn_mentions": 3,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 6.9315
     },
     {
       "id": "2510.07318",
@@ -43,27 +61,28 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 9,
-        "gh_stars": 65
+        "gh_stars": 69
       },
-      "score": 6.7977
+      "score": 6.8221
     },
     {
-      "id": "2510.06105",
-      "title": "Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences",
+      "id": "2510.05096",
+      "title": "Paper2Video: Automatic Video Generation from Scientific Papers",
       "authors": [
-        "Batu El",
-        "James Zou"
+        "Zeyu Zhu",
+        "Kevin Qinghong Lin",
+        "Mike Zheng Shou"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.06105",
-      "pdf_url": "https://arxiv.org/pdf/2510.06105.pdf",
-      "published": "2025-10-07T16:37:15Z",
+      "abs_url": "https://arxiv.org/abs/2510.05096",
+      "pdf_url": "https://arxiv.org/pdf/2510.05096.pdf",
+      "published": "2025-10-06T17:58:02Z",
       "signals": {
-        "reddit_mentions": 7,
-        "hn_mentions": 2,
-        "hf_count": 0,
-        "gh_stars": 0
+        "reddit_mentions": 1,
+        "hn_mentions": 1,
+        "hf_count": 1,
+        "gh_stars": 384
       },
-      "score": 6.3561
+      "score": 6.1185
     },
     {
       "id": "2510.04908",
@@ -110,11 +129,11 @@
       "published": "2025-10-06T09:30:18Z",
       "signals": {
         "reddit_mentions": 2,
-        "hn_mentions": 3,
+        "hn_mentions": 4,
         "hf_count": 0,
         "gh_stars": 0
       },
-      "score": 4.9698
+      "score": 5.4161
     },
     {
       "id": "2510.05318",
@@ -152,9 +171,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 273
+        "gh_stars": 275
       },
-      "score": 4.4249
+      "score": 4.4309
     },
     {
       "id": "2510.06557",
@@ -175,34 +194,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 4,
-        "gh_stars": 120
+        "gh_stars": 146
       },
-      "score": 4.3143
-    },
-    {
-      "id": "2510.05592",
-      "title": "In-the-Flow Agentic System Optimization for Effective Planning and Tool   Use",
-      "authors": [
-        "Zhuofeng Li",
-        "Haoxiang Zhang",
-        "Seungju Han",
-        "Sheng Liu",
-        "Jianwen Xie",
-        "Yu Zhang",
-        "Yejin Choi",
-        "James Zou",
-        "Pan Lu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.05592",
-      "pdf_url": "https://arxiv.org/pdf/2510.05592.pdf",
-      "published": "2025-10-07T05:32:44Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 368
-      },
-      "score": 4.1156
+      "score": 4.4272
     },
     {
       "id": "2510.06965",
@@ -225,23 +219,27 @@
       "score": 3.8918
     },
     {
-      "id": "2510.05096",
-      "title": "Paper2Video: Automatic Video Generation from Scientific Papers",
+      "id": "2510.06915",
+      "title": "LongRM: Revealing and Unlocking the Context Boundary of Reward Modeling",
       "authors": [
-        "Zeyu Zhu",
-        "Kevin Qinghong Lin",
-        "Mike Zheng Shou"
+        "Zecheng Tang",
+        "Baibei Ji",
+        "Quantong Qiu",
+        "Haitian Wang",
+        "Xiaobo Liang",
+        "Juntao Li",
+        "Min Zhang"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.05096",
-      "pdf_url": "https://arxiv.org/pdf/2510.05096.pdf",
-      "published": "2025-10-06T17:58:02Z",
+      "abs_url": "https://arxiv.org/abs/2510.06915",
+      "pdf_url": "https://arxiv.org/pdf/2510.06915.pdf",
+      "published": "2025-10-08T11:48:16Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 283
+        "hf_count": 3,
+        "gh_stars": 9
       },
-      "score": 3.0686
+      "score": 3.0726
     },
     {
       "id": "2510.05497",
@@ -314,9 +312,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 12
+        "gh_stars": 14
       },
-      "score": 2.5436
+      "score": 2.5714
     },
     {
       "id": "2510.08483",
@@ -335,9 +333,35 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 9
+        "gh_stars": 10
       },
-      "score": 2.4972
+      "score": 2.5135
+    },
+    {
+      "id": "2510.04617",
+      "title": "Making Mathematical Reasoning Adaptive",
+      "authors": [
+        "Zhejian Lai",
+        "Xiang Geng",
+        "Zhijun Wang",
+        "Yang Bai",
+        "Jiahuan Li",
+        "Rongxiang Weng",
+        "Jingang Wang",
+        "Xuezhi Cao",
+        "Xunliang Cai",
+        "Shujian Huang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.04617",
+      "pdf_url": "https://arxiv.org/pdf/2510.04617.pdf",
+      "published": "2025-10-06T09:30:05Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 6
+      },
+      "score": 2.4422
     },
     {
       "id": "2510.05891",
@@ -362,6 +386,26 @@
         "gh_stars": 5
       },
       "score": 2.4208
+    },
+    {
+      "id": "2510.05092",
+      "title": "Learning to Interpret Weight Differences in Language Models",
+      "authors": [
+        "Avichal Goel",
+        "Yoon Kim",
+        "Nir Shavit",
+        "Tony T. Wang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.05092",
+      "pdf_url": "https://arxiv.org/pdf/2510.05092.pdf",
+      "published": "2025-10-06T17:57:23Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 2
+      },
+      "score": 2.3386
     },
     {
       "id": "2510.05688",
@@ -469,6 +513,31 @@
       "score": 2.1972
     },
     {
+      "id": "2510.05592",
+      "title": "In-the-Flow Agentic System Optimization for Effective Planning and Tool   Use",
+      "authors": [
+        "Zhuofeng Li",
+        "Haoxiang Zhang",
+        "Seungju Han",
+        "Sheng Liu",
+        "Jianwen Xie",
+        "Yu Zhang",
+        "Yejin Choi",
+        "James Zou",
+        "Pan Lu"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.05592",
+      "pdf_url": "https://arxiv.org/pdf/2510.05592.pdf",
+      "published": "2025-10-07T05:32:44Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 434
+      },
+      "score": 2.0833
+    },
+    {
       "id": "2510.04162",
       "title": "Drax: Speech Recognition with Discrete Flow Matching",
       "authors": [
@@ -487,9 +556,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 24
+        "gh_stars": 25
       },
-      "score": 1.8762
+      "score": 1.8863
     },
     {
       "id": "2510.05396",
@@ -533,27 +602,6 @@
       "score": 1.6691
     },
     {
-      "id": "2510.04786",
-      "title": "Learning on the Job: Test-Time Curricula for Targeted Reinforcement   Learning",
-      "authors": [
-        "Jonas H\u00fcbotter",
-        "Leander Diaz-Bone",
-        "Ido Hakimi",
-        "Andreas Krause",
-        "Moritz Hardt"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.04786",
-      "pdf_url": "https://arxiv.org/pdf/2510.04786.pdf",
-      "published": "2025-10-06T13:07:14Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 6
-      },
-      "score": 1.6312
-    },
-    {
       "id": "2510.08559",
       "title": "SciVideoBench: Benchmarking Scientific Video Reasoning in Large   Multimodal Models",
       "authors": [
@@ -569,6 +617,27 @@
       "abs_url": "https://arxiv.org/abs/2510.08559",
       "pdf_url": "https://arxiv.org/pdf/2510.08559.pdf",
       "published": "2025-10-09T17:59:23Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 7
+      },
+      "score": 1.6509
+    },
+    {
+      "id": "2510.04786",
+      "title": "Learning on the Job: Test-Time Curricula for Targeted Reinforcement   Learning",
+      "authors": [
+        "Jonas H\u00fcbotter",
+        "Leander Diaz-Bone",
+        "Ido Hakimi",
+        "Andreas Krause",
+        "Moritz Hardt"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.04786",
+      "pdf_url": "https://arxiv.org/pdf/2510.04786.pdf",
+      "published": "2025-10-06T13:07:14Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -594,6 +663,26 @@
         "gh_stars": 5
       },
       "score": 1.6099
+    },
+    {
+      "id": "2510.06528",
+      "title": "BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked   Iterative Decoding on Pop and Classical Music",
+      "authors": [
+        "Mingyang Yao",
+        "Ke Chen",
+        "Shlomo Dubnov",
+        "Taylor Berg-Kirkpatrick"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.06528",
+      "pdf_url": "https://arxiv.org/pdf/2510.06528.pdf",
+      "published": "2025-10-08T00:02:56Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 2
+      },
+      "score": 1.5277
     },
     {
       "id": "2510.07958",
@@ -622,27 +711,22 @@
       "score": 1.5277
     },
     {
-      "id": "2510.06915",
-      "title": "LongRM: Revealing and Unlocking the Context Boundary of Reward Modeling",
+      "id": "2510.07790",
+      "title": "GCPO: When Contrast Fails, Go Gold",
       "authors": [
-        "Zecheng Tang",
-        "Baibei Ji",
-        "Quantong Qiu",
-        "Haitian Wang",
-        "Xiaobo Liang",
-        "Juntao Li",
-        "Min Zhang"
+        "Hao Wu",
+        "Wei Liu"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.06915",
-      "pdf_url": "https://arxiv.org/pdf/2510.06915.pdf",
-      "published": "2025-10-08T11:48:16Z",
+      "abs_url": "https://arxiv.org/abs/2510.07790",
+      "pdf_url": "https://arxiv.org/pdf/2510.07790.pdf",
+      "published": "2025-10-09T05:09:06Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 1
+        "gh_stars": 2
       },
-      "score": 1.4863
+      "score": 1.5277
     },
     {
       "id": "2510.08492",
@@ -851,6 +935,25 @@
       "score": 1.3863
     },
     {
+      "id": "2510.06714",
+      "title": "Dual Goal Representations",
+      "authors": [
+        "Seohong Park",
+        "Deepinder Mann",
+        "Sergey Levine"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.06714",
+      "pdf_url": "https://arxiv.org/pdf/2510.06714.pdf",
+      "published": "2025-10-08T07:07:39Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2510.06699",
       "title": "A Diffusion Model for Regular Time Series Generation from Irregular Data   with Completion and Masking",
       "authors": [
@@ -866,26 +969,6 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.06528",
-      "title": "BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked   Iterative Decoding on Pop and Classical Music",
-      "authors": [
-        "Mingyang Yao",
-        "Ke Chen",
-        "Shlomo Dubnov",
-        "Taylor Berg-Kirkpatrick"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.06528",
-      "pdf_url": "https://arxiv.org/pdf/2510.06528.pdf",
-      "published": "2025-10-08T00:02:56Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -1000,29 +1083,6 @@
       "score": 1.3863
     },
     {
-      "id": "2510.04938",
-      "title": "ONNX-Net: Towards Universal Representations and Instant Performance   Prediction for Neural Architectures",
-      "authors": [
-        "Shiwen Qin",
-        "Alexander Auras",
-        "Shay B. Cohen",
-        "Elliot J. Crowley",
-        "Michael Moeller",
-        "Linus Ericsson",
-        "Jovita Lukasik"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.04938",
-      "pdf_url": "https://arxiv.org/pdf/2510.04938.pdf",
-      "published": "2025-10-06T15:43:36Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2510.04891",
       "title": "SocialHarmBench: Revealing LLM Vulnerabilities to Socially Harmful   Requests",
       "authors": [
@@ -1066,90 +1126,24 @@
       "score": 1.3863
     },
     {
-      "id": "2510.04573",
-      "title": "LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning",
+      "id": "2510.04938",
+      "title": "ONNX-Net: Towards Universal Representations and Instant Performance   Prediction for Neural Architectures",
       "authors": [
-        "Haoqiang Kang",
-        "Yizhe Zhang",
-        "Nikki Lijing Kuang",
-        "Nicklas Majamaki",
-        "Navdeep Jaitly",
-        "Yi-An Ma",
-        "Lianhui Qin"
+        "Shiwen Qin",
+        "Alexander Auras",
+        "Shay B. Cohen",
+        "Elliot J. Crowley",
+        "Michael Moeller",
+        "Linus Ericsson",
+        "Jovita Lukasik"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.04573",
-      "pdf_url": "https://arxiv.org/pdf/2510.04573.pdf",
-      "published": "2025-10-06T08:15:03Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.04398",
-      "title": "SECA: Semantically Equivalent and Coherent Attacks for Eliciting LLM   Hallucinations",
-      "authors": [
-        "Buyun Liang",
-        "Liangzu Peng",
-        "Jinqi Luo",
-        "Darshan Thaker",
-        "Kwan Ho Ryan Chan",
-        "Ren\u00e9 Vidal"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.04398",
-      "pdf_url": "https://arxiv.org/pdf/2510.04398.pdf",
-      "published": "2025-10-05T23:44:54Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.04134",
-      "title": "PhaseFormer: From Patches to Phases for Efficient and Effective Time   Series Forecasting",
-      "authors": [
-        "Yiming Niu",
-        "Jinliang Deng",
-        "Yongxin Tong"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.04134",
-      "pdf_url": "https://arxiv.org/pdf/2510.04134.pdf",
-      "published": "2025-10-05T10:34:19Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.08338",
-      "title": "LLMs Reproduce Human Purchase Intent via Semantic Similarity Elicitation   of Likert Ratings",
-      "authors": [
-        "Benjamin F. Maier",
-        "Ulf Aslak",
-        "Luca Fiaschi",
-        "Nina Rismal",
-        "Kemble Fletcher",
-        "Christian C. Luhmann",
-        "Robbie Dow",
-        "Kli Pappas",
-        "Thomas V. Wiecki"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.08338",
-      "pdf_url": "https://arxiv.org/pdf/2510.08338.pdf",
-      "published": "2025-10-09T15:24:48Z",
+      "abs_url": "https://arxiv.org/abs/2510.04938",
+      "pdf_url": "https://arxiv.org/pdf/2510.04938.pdf",
+      "published": "2025-10-06T15:43:36Z",
       "signals": {
         "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
