@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-10-12T08:23:16.463075Z",
+  "generated_utc": "2025-10-13T07:44:43.622704Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -20,10 +20,39 @@
       "signals": {
         "reddit_mentions": 8,
         "hn_mentions": 3,
-        "hf_count": 1,
-        "gh_stars": 3590
+        "hf_count": 2,
+        "gh_stars": 3852
       },
-      "score": 14.545
+      "score": 15.5707
+    },
+    {
+      "id": "2510.04618",
+      "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving   Language Models",
+      "authors": [
+        "Qizheng Zhang",
+        "Changran Hu",
+        "Shubhangi Upasani",
+        "Boyuan Ma",
+        "Fenglu Hong",
+        "Vamsidhar Kamanuru",
+        "Jay Rainton",
+        "Chen Wu",
+        "Mengmeng Ji",
+        "Hanchen Li",
+        "Urmish Thakker",
+        "James Zou",
+        "Kunle Olukotun"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.04618",
+      "pdf_url": "https://arxiv.org/pdf/2510.04618.pdf",
+      "published": "2025-10-06T09:30:18Z",
+      "signals": {
+        "reddit_mentions": 6,
+        "hn_mentions": 4,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 7.1107
     },
     {
       "id": "2510.06105",
@@ -61,9 +90,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 9,
-        "gh_stars": 69
+        "gh_stars": 81
       },
-      "score": 6.8221
+      "score": 6.8915
     },
     {
       "id": "2510.05096",
@@ -80,9 +109,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 1,
         "hf_count": 1,
-        "gh_stars": 384
+        "gh_stars": 559
       },
-      "score": 6.1185
+      "score": 6.5232
     },
     {
       "id": "2510.04908",
@@ -107,33 +136,27 @@
       "score": 5.5452
     },
     {
-      "id": "2510.04618",
-      "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving   Language Models",
+      "id": "2510.06557",
+      "title": "The Markovian Thinker",
       "authors": [
-        "Qizheng Zhang",
-        "Changran Hu",
-        "Shubhangi Upasani",
-        "Boyuan Ma",
-        "Fenglu Hong",
-        "Vamsidhar Kamanuru",
-        "Jay Rainton",
-        "Chen Wu",
-        "Mengmeng Ji",
-        "Hanchen Li",
-        "Urmish Thakker",
-        "James Zou",
-        "Kunle Olukotun"
+        "Milad Aghajohari",
+        "Kamran Chitsaz",
+        "Amirhossein Kazemnejad",
+        "Sarath Chandar",
+        "Alessandro Sordoni",
+        "Aaron Courville",
+        "Siva Reddy"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.04618",
-      "pdf_url": "https://arxiv.org/pdf/2510.04618.pdf",
-      "published": "2025-10-06T09:30:18Z",
+      "abs_url": "https://arxiv.org/abs/2510.06557",
+      "pdf_url": "https://arxiv.org/pdf/2510.06557.pdf",
+      "published": "2025-10-08T01:18:13Z",
       "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 4,
-        "hf_count": 0,
-        "gh_stars": 0
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 4,
+        "gh_stars": 163
       },
-      "score": 5.4161
+      "score": 4.4956
     },
     {
       "id": "2510.05318",
@@ -171,32 +194,55 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 275
+        "gh_stars": 279
       },
-      "score": 4.4309
+      "score": 4.4429
     },
     {
-      "id": "2510.06557",
-      "title": "The Markovian Thinker",
+      "id": "2510.08558",
+      "title": "Agent Learning via Early Experience",
       "authors": [
-        "Milad Aghajohari",
-        "Kamran Chitsaz",
-        "Amirhossein Kazemnejad",
-        "Sarath Chandar",
-        "Alessandro Sordoni",
-        "Aaron Courville",
-        "Siva Reddy"
+        "Kai Zhang",
+        "Xiangchao Chen",
+        "Bo Liu",
+        "Tianci Xue",
+        "Zeyi Liao",
+        "Zhihan Liu",
+        "Xiyao Wang",
+        "Yuting Ning",
+        "Zhaorun Chen",
+        "Xiaohan Fu",
+        "Jian Xie",
+        "Yuxuan Sun",
+        "Boyu Gou",
+        "Qi Qi",
+        "Zihang Meng",
+        "Jianwei Yang",
+        "Ning Zhang",
+        "Xian Li",
+        "Ashish Shah",
+        "Dat Huynh",
+        "Hengduo Li",
+        "Zi Yang",
+        "Sara Cao",
+        "Lawrence Jang",
+        "Shuyan Zhou",
+        "Jiacheng Zhu",
+        "Huan Sun",
+        "Jason Weston",
+        "Yu Su",
+        "Yifan Wu"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.06557",
-      "pdf_url": "https://arxiv.org/pdf/2510.06557.pdf",
-      "published": "2025-10-08T01:18:13Z",
+      "abs_url": "https://arxiv.org/abs/2510.08558",
+      "pdf_url": "https://arxiv.org/pdf/2510.08558.pdf",
+      "published": "2025-10-09T17:59:17Z",
       "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 146
+        "reddit_mentions": 3,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
       },
-      "score": 4.4272
+      "score": 4.1589
     },
     {
       "id": "2510.06965",
@@ -237,9 +283,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 9
+        "gh_stars": 15
       },
-      "score": 3.0726
+      "score": 3.1599
     },
     {
       "id": "2510.05497",
@@ -312,9 +358,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 14
+        "gh_stars": 15
       },
-      "score": 2.5714
+      "score": 2.5845
     },
     {
       "id": "2510.08483",
@@ -338,6 +384,30 @@
       "score": 2.5135
     },
     {
+      "id": "2510.05891",
+      "title": "$\\bf{D^3}$QE: Learning Discrete Distribution Discrepancy-aware   Quantization Error for Autoregressive-Generated Image Detection",
+      "authors": [
+        "Yanran Zhang",
+        "Bingyao Yu",
+        "Yu Zheng",
+        "Wenzhao Zheng",
+        "Yueqi Duan",
+        "Lei Chen",
+        "Jie Zhou",
+        "Jiwen Lu"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.05891",
+      "pdf_url": "https://arxiv.org/pdf/2510.05891.pdf",
+      "published": "2025-10-07T13:02:27Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 7
+      },
+      "score": 2.4618
+    },
+    {
       "id": "2510.04617",
       "title": "Making Mathematical Reasoning Adaptive",
       "authors": [
@@ -359,33 +429,34 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 6
+        "gh_stars": 7
       },
-      "score": 2.4422
+      "score": 2.4618
     },
     {
-      "id": "2510.05891",
-      "title": "$\\bf{D^3}$QE: Learning Discrete Distribution Discrepancy-aware   Quantization Error for Autoregressive-Generated Image Detection",
+      "id": "2510.05592",
+      "title": "In-the-Flow Agentic System Optimization for Effective Planning and Tool   Use",
       "authors": [
-        "Yanran Zhang",
-        "Bingyao Yu",
-        "Yu Zheng",
-        "Wenzhao Zheng",
-        "Yueqi Duan",
-        "Lei Chen",
-        "Jie Zhou",
-        "Jiwen Lu"
+        "Zhuofeng Li",
+        "Haoxiang Zhang",
+        "Seungju Han",
+        "Sheng Liu",
+        "Jianwen Xie",
+        "Yu Zhang",
+        "Yejin Choi",
+        "James Zou",
+        "Pan Lu"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.05891",
-      "pdf_url": "https://arxiv.org/pdf/2510.05891.pdf",
-      "published": "2025-10-07T13:02:27Z",
+      "abs_url": "https://arxiv.org/abs/2510.05592",
+      "pdf_url": "https://arxiv.org/pdf/2510.05592.pdf",
+      "published": "2025-10-07T05:32:44Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 5
+        "hf_count": 0,
+        "gh_stars": 563
       },
-      "score": 2.4208
+      "score": 2.3728
     },
     {
       "id": "2510.05092",
@@ -406,6 +477,27 @@
         "gh_stars": 2
       },
       "score": 2.3386
+    },
+    {
+      "id": "2510.07951",
+      "title": "A Large-scale Dataset for Robust Complex Anime Scene Text Detection",
+      "authors": [
+        "Ziyi Dong",
+        "Yurui Zhang",
+        "Changmao Li",
+        "Naomi Rue Golding",
+        "Qing Long"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.07951",
+      "pdf_url": "https://arxiv.org/pdf/2510.07951.pdf",
+      "published": "2025-10-09T08:47:52Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 0
+      },
+      "score": 2.1972
     },
     {
       "id": "2510.05688",
@@ -432,66 +524,6 @@
       "score": 2.1972
     },
     {
-      "id": "2510.04721",
-      "title": "BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs",
-      "authors": [
-        "Ivo Petrov",
-        "Jasper Dekoninck",
-        "Martin Vechev"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.04721",
-      "pdf_url": "https://arxiv.org/pdf/2510.04721.pdf",
-      "published": "2025-10-06T11:41:46Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
-      "id": "2510.04474",
-      "title": "DRPO: Efficient Reasoning via Decoupled Reward Policy Optimization",
-      "authors": [
-        "Gang Li",
-        "Yan Chen",
-        "Ming Lin",
-        "Tianbao Yang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.04474",
-      "pdf_url": "https://arxiv.org/pdf/2510.04474.pdf",
-      "published": "2025-10-06T04:18:13Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
-      "id": "2510.07951",
-      "title": "A Large-scale Dataset for Robust Complex Anime Scene Text Detection",
-      "authors": [
-        "Ziyi Dong",
-        "Yurui Zhang",
-        "Changmao Li",
-        "Naomi Rue Golding",
-        "Qing Long"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.07951",
-      "pdf_url": "https://arxiv.org/pdf/2510.07951.pdf",
-      "published": "2025-10-09T08:47:52Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
       "id": "2510.06847",
       "title": "OpenJAI-v1.0: An Open Thai Large Language Model",
       "authors": [
@@ -513,52 +545,42 @@
       "score": 2.1972
     },
     {
-      "id": "2510.05592",
-      "title": "In-the-Flow Agentic System Optimization for Effective Planning and Tool   Use",
+      "id": "2510.04721",
+      "title": "BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs",
       "authors": [
-        "Zhuofeng Li",
-        "Haoxiang Zhang",
-        "Seungju Han",
-        "Sheng Liu",
-        "Jianwen Xie",
-        "Yu Zhang",
-        "Yejin Choi",
-        "James Zou",
-        "Pan Lu"
+        "Ivo Petrov",
+        "Jasper Dekoninck",
+        "Martin Vechev"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.05592",
-      "pdf_url": "https://arxiv.org/pdf/2510.05592.pdf",
-      "published": "2025-10-07T05:32:44Z",
+      "abs_url": "https://arxiv.org/abs/2510.04721",
+      "pdf_url": "https://arxiv.org/pdf/2510.04721.pdf",
+      "published": "2025-10-06T11:41:46Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 434
+        "hf_count": 2,
+        "gh_stars": 0
       },
-      "score": 2.0833
+      "score": 2.1972
     },
     {
-      "id": "2510.04162",
-      "title": "Drax: Speech Recognition with Discrete Flow Matching",
+      "id": "2510.08425",
+      "title": "Reinforcing Diffusion Models by Direct Group Preference Optimization",
       "authors": [
-        "Aviv Navon",
-        "Aviv Shamsian",
-        "Neta Glazer",
-        "Yael Segal-Feldman",
-        "Gill Hetz",
-        "Joseph Keshet",
-        "Ethan Fetaya"
+        "Yihong Luo",
+        "Tianyang Hu",
+        "Jing Tang"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.04162",
-      "pdf_url": "https://arxiv.org/pdf/2510.04162.pdf",
-      "published": "2025-10-05T11:38:01Z",
+      "abs_url": "https://arxiv.org/abs/2510.08425",
+      "pdf_url": "https://arxiv.org/pdf/2510.08425.pdf",
+      "published": "2025-10-09T16:40:43Z",
       "signals": {
-        "reddit_mentions": 0,
+        "reddit_mentions": 1,
         "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 25
+        "hf_count": 0,
+        "gh_stars": 10
       },
-      "score": 1.8863
+      "score": 1.7025
     },
     {
       "id": "2510.05396",
@@ -581,25 +603,6 @@
         "gh_stars": 9
       },
       "score": 1.6863
-    },
-    {
-      "id": "2510.08425",
-      "title": "Reinforcing Diffusion Models by Direct Group Preference Optimization",
-      "authors": [
-        "Yihong Luo",
-        "Tianyang Hu",
-        "Jing Tang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.08425",
-      "pdf_url": "https://arxiv.org/pdf/2510.08425.pdf",
-      "published": "2025-10-09T16:40:43Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 8
-      },
-      "score": 1.6691
     },
     {
       "id": "2510.08559",
@@ -680,9 +683,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 2
+        "gh_stars": 3
       },
-      "score": 1.5277
+      "score": 1.5595
     },
     {
       "id": "2510.07958",
@@ -706,9 +709,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 2
+        "gh_stars": 3
       },
-      "score": 1.5277
+      "score": 1.5595
     },
     {
       "id": "2510.07790",
@@ -727,73 +730,6 @@
         "gh_stars": 2
       },
       "score": 1.5277
-    },
-    {
-      "id": "2510.08492",
-      "title": "Better Together: Leveraging Unpaired Multimodal Data for Stronger   Unimodal Models",
-      "authors": [
-        "Sharut Gupta",
-        "Shobhita Sundaram",
-        "Chenyu Wang",
-        "Stefanie Jegelka",
-        "Phillip Isola"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.08492",
-      "pdf_url": "https://arxiv.org/pdf/2510.08492.pdf",
-      "published": "2025-10-09T17:32:23Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.08558",
-      "title": "Agent Learning via Early Experience",
-      "authors": [
-        "Kai Zhang",
-        "Xiangchao Chen",
-        "Bo Liu",
-        "Tianci Xue",
-        "Zeyi Liao",
-        "Zhihan Liu",
-        "Xiyao Wang",
-        "Yuting Ning",
-        "Zhaorun Chen",
-        "Xiaohan Fu",
-        "Jian Xie",
-        "Yuxuan Sun",
-        "Boyu Gou",
-        "Qi Qi",
-        "Zihang Meng",
-        "Jianwei Yang",
-        "Ning Zhang",
-        "Xian Li",
-        "Ashish Shah",
-        "Dat Huynh",
-        "Hengduo Li",
-        "Zi Yang",
-        "Sara Cao",
-        "Lawrence Jang",
-        "Shuyan Zhou",
-        "Jiacheng Zhu",
-        "Huan Sun",
-        "Jason Weston",
-        "Yu Su",
-        "Yifan Wu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.08558",
-      "pdf_url": "https://arxiv.org/pdf/2510.08558.pdf",
-      "published": "2025-10-09T17:59:17Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
     },
     {
       "id": "2510.08544",
@@ -816,27 +752,22 @@
       "score": 1.3863
     },
     {
-      "id": "2510.08431",
-      "title": "Large Scale Diffusion Distillation via Score-Regularized Continuous-Time   Consistency",
+      "id": "2510.05351",
+      "title": "Physics-informed Attention-enhanced Fourier Neural Operator for Solar   Magnetic Field Extrapolations",
       "authors": [
-        "Kaiwen Zheng",
-        "Yuji Wang",
-        "Qianli Ma",
-        "Huayu Chen",
-        "Jintao Zhang",
-        "Yogesh Balaji",
-        "Jianfei Chen",
-        "Ming-Yu Liu",
-        "Jun Zhu",
-        "Qinsheng Zhang"
+        "Jinghao Cao",
+        "Qin Li",
+        "Mengnan Du",
+        "Haimin Wang",
+        "Bo Shen"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.08431",
-      "pdf_url": "https://arxiv.org/pdf/2510.08431.pdf",
-      "published": "2025-10-09T16:45:30Z",
+      "abs_url": "https://arxiv.org/abs/2510.05351",
+      "pdf_url": "https://arxiv.org/pdf/2510.05351.pdf",
+      "published": "2025-10-06T20:24:22Z",
       "signals": {
-        "reddit_mentions": 0,
+        "reddit_mentions": 1,
         "hn_mentions": 0,
-        "hf_count": 1,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -862,24 +793,19 @@
       "score": 1.3863
     },
     {
-      "id": "2510.07312",
-      "title": "h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement   Learning",
+      "id": "2510.06714",
+      "title": "Dual Goal Representations",
       "authors": [
-        "Sumeet Ramesh Motwani",
-        "Alesia Ivanova",
-        "Ziyang Cai",
-        "Philip Torr",
-        "Riashat Islam",
-        "Shital Shah",
-        "Christian Schroeder de Witt",
-        "Charles London"
+        "Seohong Park",
+        "Deepinder Mann",
+        "Sergey Levine"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.07312",
-      "pdf_url": "https://arxiv.org/pdf/2510.07312.pdf",
-      "published": "2025-10-08T17:58:41Z",
+      "abs_url": "https://arxiv.org/abs/2510.06714",
+      "pdf_url": "https://arxiv.org/pdf/2510.06714.pdf",
+      "published": "2025-10-08T07:07:39Z",
       "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
         "hf_count": 0,
         "gh_stars": 0
       },
@@ -915,151 +841,27 @@
       "score": 1.3863
     },
     {
-      "id": "2510.06940",
-      "title": "Revisiting Node Affinity Prediction in Temporal Graphs",
+      "id": "2510.08431",
+      "title": "Large Scale Diffusion Distillation via Score-Regularized Continuous-Time   Consistency",
       "authors": [
-        "Krishna Sri Ipsit Mantri",
-        "Or Feldman",
-        "Moshe Eliasof",
-        "Chaim Baskin"
+        "Kaiwen Zheng",
+        "Yuji Wang",
+        "Qianli Ma",
+        "Huayu Chen",
+        "Jintao Zhang",
+        "Yogesh Balaji",
+        "Jianfei Chen",
+        "Ming-Yu Liu",
+        "Jun Zhu",
+        "Qinsheng Zhang"
       ],
-      "abs_url": "https://arxiv.org/abs/2510.06940",
-      "pdf_url": "https://arxiv.org/pdf/2510.06940.pdf",
-      "published": "2025-10-08T12:21:52Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.06714",
-      "title": "Dual Goal Representations",
-      "authors": [
-        "Seohong Park",
-        "Deepinder Mann",
-        "Sergey Levine"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.06714",
-      "pdf_url": "https://arxiv.org/pdf/2510.06714.pdf",
-      "published": "2025-10-08T07:07:39Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.06699",
-      "title": "A Diffusion Model for Regular Time Series Generation from Irregular Data   with Completion and Masking",
-      "authors": [
-        "Gal Fadlon",
-        "Idan Arbiv",
-        "Nimrod Berman",
-        "Omri Azencot"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.06699",
-      "pdf_url": "https://arxiv.org/pdf/2510.06699.pdf",
-      "published": "2025-10-08T06:47:58Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.06063",
-      "title": "TelecomTS: A Multi-Modal Observability Dataset for Time Series and   Language Analysis",
-      "authors": [
-        "Austin Feng",
-        "Andreas Varvarigos",
-        "Ioannis Panitsas",
-        "Daniela Fernandez",
-        "Jinbiao Wei",
-        "Yuwei Guo",
-        "Jialin Chen",
-        "Ali Maatouk",
-        "Leandros Tassiulas",
-        "Rex Ying"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.06063",
-      "pdf_url": "https://arxiv.org/pdf/2510.06063.pdf",
-      "published": "2025-10-07T15:54:34Z",
+      "abs_url": "https://arxiv.org/abs/2510.08431",
+      "pdf_url": "https://arxiv.org/pdf/2510.08431.pdf",
+      "published": "2025-10-09T16:45:30Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.05342",
-      "title": "Margin Adaptive DPO: Leveraging Reward Model for Granular Control in   Preference Optimization",
-      "authors": [
-        "Hyung Gyu Rho"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.05342",
-      "pdf_url": "https://arxiv.org/pdf/2510.05342.pdf",
-      "published": "2025-10-06T20:09:37Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.05351",
-      "title": "Physics-informed Attention-enhanced Fourier Neural Operator for Solar   Magnetic Field Extrapolations",
-      "authors": [
-        "Jinghao Cao",
-        "Qin Li",
-        "Mengnan Du",
-        "Haimin Wang",
-        "Bo Shen"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.05351",
-      "pdf_url": "https://arxiv.org/pdf/2510.05351.pdf",
-      "published": "2025-10-06T20:24:22Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2510.05213",
-      "title": "VER: Vision Expert Transformer for Robot Learning via Foundation   Distillation and Dynamic Routing",
-      "authors": [
-        "Yixiao Wang",
-        "Mingxiao Huo",
-        "Zhixuan Liang",
-        "Yushi Du",
-        "Lingfeng Sun",
-        "Haotian Lin",
-        "Jinghuan Shang",
-        "Chensheng Peng",
-        "Mohit Bansal",
-        "Mingyu Ding",
-        "Masayoshi Tomizuka"
-      ],
-      "abs_url": "https://arxiv.org/abs/2510.05213",
-      "pdf_url": "https://arxiv.org/pdf/2510.05213.pdf",
-      "published": "2025-10-06T18:00:43Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -1099,6 +901,140 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2510.07312",
+      "title": "h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement   Learning",
+      "authors": [
+        "Sumeet Ramesh Motwani",
+        "Alesia Ivanova",
+        "Ziyang Cai",
+        "Philip Torr",
+        "Riashat Islam",
+        "Shital Shah",
+        "Christian Schroeder de Witt",
+        "Charles London"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.07312",
+      "pdf_url": "https://arxiv.org/pdf/2510.07312.pdf",
+      "published": "2025-10-08T17:58:41Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2510.06940",
+      "title": "Revisiting Node Affinity Prediction in Temporal Graphs",
+      "authors": [
+        "Krishna Sri Ipsit Mantri",
+        "Or Feldman",
+        "Moshe Eliasof",
+        "Chaim Baskin"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.06940",
+      "pdf_url": "https://arxiv.org/pdf/2510.06940.pdf",
+      "published": "2025-10-08T12:21:52Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2510.05213",
+      "title": "VER: Vision Expert Transformer for Robot Learning via Foundation   Distillation and Dynamic Routing",
+      "authors": [
+        "Yixiao Wang",
+        "Mingxiao Huo",
+        "Zhixuan Liang",
+        "Yushi Du",
+        "Lingfeng Sun",
+        "Haotian Lin",
+        "Jinghuan Shang",
+        "Chensheng Peng",
+        "Mohit Bansal",
+        "Mingyu Ding",
+        "Masayoshi Tomizuka"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.05213",
+      "pdf_url": "https://arxiv.org/pdf/2510.05213.pdf",
+      "published": "2025-10-06T18:00:43Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2510.06063",
+      "title": "TelecomTS: A Multi-Modal Observability Dataset for Time Series and   Language Analysis",
+      "authors": [
+        "Austin Feng",
+        "Andreas Varvarigos",
+        "Ioannis Panitsas",
+        "Daniela Fernandez",
+        "Jinbiao Wei",
+        "Yuwei Guo",
+        "Jialin Chen",
+        "Ali Maatouk",
+        "Leandros Tassiulas",
+        "Rex Ying"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.06063",
+      "pdf_url": "https://arxiv.org/pdf/2510.06063.pdf",
+      "published": "2025-10-07T15:54:34Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2510.06699",
+      "title": "A Diffusion Model for Regular Time Series Generation from Irregular Data   with Completion and Masking",
+      "authors": [
+        "Gal Fadlon",
+        "Idan Arbiv",
+        "Nimrod Berman",
+        "Omri Azencot"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.06699",
+      "pdf_url": "https://arxiv.org/pdf/2510.06699.pdf",
+      "published": "2025-10-08T06:47:58Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2510.05342",
+      "title": "Margin Adaptive DPO: Leveraging Reward Model for Granular Control in   Preference Optimization",
+      "authors": [
+        "Hyung Gyu Rho"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.05342",
+      "pdf_url": "https://arxiv.org/pdf/2510.05342.pdf",
+      "published": "2025-10-06T20:09:37Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -1144,6 +1080,27 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2510.08492",
+      "title": "Better Together: Leveraging Unpaired Multimodal Data for Stronger   Unimodal Models",
+      "authors": [
+        "Sharut Gupta",
+        "Shobhita Sundaram",
+        "Chenyu Wang",
+        "Stefanie Jegelka",
+        "Phillip Isola"
+      ],
+      "abs_url": "https://arxiv.org/abs/2510.08492",
+      "pdf_url": "https://arxiv.org/pdf/2510.08492.pdf",
+      "published": "2025-10-09T17:32:23Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
