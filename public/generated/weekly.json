@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-11-15T08:24:05.784944Z",
+  "generated_utc": "2025-11-16T08:20:18.325206Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -26,9 +26,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 4173
+        "gh_stars": 4176
       },
-      "score": 7.8462
+      "score": 7.8485
     },
     {
       "id": "2511.07384",
@@ -52,35 +52,34 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 20,
-        "gh_stars": 37
+        "gh_stars": 39
       },
-      "score": 6.6973
+      "score": 6.7135
     },
     {
-      "id": "2511.06221",
-      "title": "Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B",
+      "id": "2511.09030",
+      "title": "Solving a Million-Step LLM Task with Zero Errors",
       "authors": [
-        "Sen Xu",
-        "Yi Zhou",
-        "Wei Wang",
-        "Jixin Min",
-        "Zhibin Yin",
-        "Yingwei Dai",
-        "Shixi Liu",
-        "Lianyu Pang",
-        "Yirong Chen",
-        "Junlin Zhang"
+        "Elliot Meyerson",
+        "Giuseppe Paolo",
+        "Roberto Dailey",
+        "Hormoz Shahrzad",
+        "Olivier Francon",
+        "Conor F. Hayes",
+        "Xin Qiu",
+        "Babak Hodjat",
+        "Risto Miikkulainen"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.06221",
-      "pdf_url": "https://arxiv.org/pdf/2511.06221.pdf",
-      "published": "2025-11-09T04:37:36Z",
+      "abs_url": "https://arxiv.org/abs/2511.09030",
+      "pdf_url": "https://arxiv.org/pdf/2511.09030.pdf",
+      "published": "2025-11-12T06:27:55Z",
       "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 2,
-        "gh_stars": 218
+        "reddit_mentions": 4,
+        "hn_mentions": 2,
+        "hf_count": 0,
+        "gh_stars": 0
       },
-      "score": 5.06
+      "score": 5.4161
     },
     {
       "id": "2511.10628",
@@ -107,31 +106,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 9,
-        "gh_stars": 0
-      },
-      "score": 4.6052
-    },
-    {
-      "id": "2511.09030",
-      "title": "Solving a Million-Step LLM Task with Zero Errors",
-      "authors": [
-        "Elliot Meyerson",
-        "Giuseppe Paolo",
-        "Roberto Dailey",
-        "Hormoz Shahrzad",
-        "Olivier Francon",
-        "Conor F. Hayes",
-        "Xin Qiu",
-        "Babak Hodjat",
-        "Risto Miikkulainen"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.09030",
-      "pdf_url": "https://arxiv.org/pdf/2511.09030.pdf",
-      "published": "2025-11-12T06:27:55Z",
-      "signals": {
-        "reddit_mentions": 4,
-        "hn_mentions": 1,
-        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 4.6052
@@ -178,9 +152,9 @@
         "reddit_mentions": 4,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 89
+        "gh_stars": 105
       },
-      "score": 4.1623
+      "score": 4.2436
     },
     {
       "id": "2511.06309",
@@ -196,9 +170,9 @@
         "reddit_mentions": 4,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 32
+        "gh_stars": 34
       },
-      "score": 3.7846
+      "score": 3.802
     },
     {
       "id": "2511.07908",
@@ -246,9 +220,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 44
+        "gh_stars": 45
       },
-      "score": 3.4359
+      "score": 3.4434
     },
     {
       "id": "2511.07317",
@@ -279,9 +253,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 106
+        "gh_stars": 115
       },
-      "score": 3.2268
+      "score": 3.2696
     },
     {
       "id": "2511.06719",
@@ -404,6 +378,28 @@
       "score": 2.3386
     },
     {
+      "id": "2511.08577",
+      "title": "Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models",
+      "authors": [
+        "Tianyu Fu",
+        "Yichen You",
+        "Zekai Chen",
+        "Guohao Dai",
+        "Huazhong Yang",
+        "Yu Wang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.08577",
+      "pdf_url": "https://arxiv.org/pdf/2511.08577.pdf",
+      "published": "2025-11-11T18:57:02Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 2.1972
+    },
+    {
       "id": "2511.08567",
       "title": "The Path Not Taken: RLVR Provably Learns Off the Principals",
       "authors": [
@@ -425,28 +421,6 @@
       "abs_url": "https://arxiv.org/abs/2511.08567",
       "pdf_url": "https://arxiv.org/pdf/2511.08567.pdf",
       "published": "2025-11-11T18:49:45Z",
-      "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
-      "id": "2511.08577",
-      "title": "Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models",
-      "authors": [
-        "Tianyu Fu",
-        "Yichen You",
-        "Zekai Chen",
-        "Guohao Dai",
-        "Huazhong Yang",
-        "Yu Wang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.08577",
-      "pdf_url": "https://arxiv.org/pdf/2511.08577.pdf",
-      "published": "2025-11-11T18:57:02Z",
       "signals": {
         "reddit_mentions": 2,
         "hn_mentions": 0,
@@ -479,19 +453,25 @@
       "score": 2.1972
     },
     {
-      "id": "2511.06212",
-      "title": "RAG-targeted Adversarial Attack on LLM-based Threat Detection and Mitigation Framework",
+      "id": "2511.08923",
+      "title": "TiDAR: Think in Diffusion, Talk in Autoregression",
       "authors": [
-        "Seif Ikbarieh",
-        "Kshitiz Aryal",
-        "Maanak Gupta"
+        "Jingyu Liu",
+        "Xin Dong",
+        "Zhifan Ye",
+        "Rishabh Mehta",
+        "Yonggan Fu",
+        "Vartika Singh",
+        "Jan Kautz",
+        "Ce Zhang",
+        "Pavlo Molchanov"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.06212",
-      "pdf_url": "https://arxiv.org/pdf/2511.06212.pdf",
-      "published": "2025-11-09T03:50:17Z",
+      "abs_url": "https://arxiv.org/abs/2511.08923",
+      "pdf_url": "https://arxiv.org/pdf/2511.08923.pdf",
+      "published": "2025-11-12T02:59:33Z",
       "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 0,
+        "reddit_mentions": 0,
+        "hn_mentions": 2,
         "hf_count": 0,
         "gh_stars": 0
       },
@@ -514,9 +494,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 49
+        "gh_stars": 54
       },
-      "score": 2.0863
+      "score": 2.1211
     },
     {
       "id": "2511.06411",
@@ -532,33 +512,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 26
+        "gh_stars": 27
       },
-      "score": 1.8962
-    },
-    {
-      "id": "2511.09148",
-      "title": "LoopTool: Closing the Data-Training Loop for Robust LLM Tool Calls",
-      "authors": [
-        "Kangning Zhang",
-        "Wenxiang Jiao",
-        "Kounianhua Du",
-        "Yuan Lu",
-        "Weiwen Liu",
-        "Weinan Zhang",
-        "Lei Zhang",
-        "Yong Yu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.09148",
-      "pdf_url": "https://arxiv.org/pdf/2511.09148.pdf",
-      "published": "2025-11-12T09:34:39Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 20
-      },
-      "score": 1.8335
+      "score": 1.9059
     },
     {
       "id": "2511.08217",
@@ -593,34 +549,33 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 19
+        "gh_stars": 24
       },
-      "score": 1.8222
+      "score": 1.8762
     },
     {
-      "id": "2511.06251",
-      "title": "WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation",
+      "id": "2511.09148",
+      "title": "LoopTool: Closing the Data-Training Loop for Robust LLM Tool Calls",
       "authors": [
-        "Mingde Xu",
-        "Zhen Yang",
-        "Wenyi Hong",
-        "Lihang Pan",
-        "Xinyue Fan",
-        "Yan Wang",
-        "Xiaotao Gu",
-        "Bin Xu",
-        "Jie Tang"
+        "Kangning Zhang",
+        "Wenxiang Jiao",
+        "Kounianhua Du",
+        "Yuan Lu",
+        "Weiwen Liu",
+        "Weinan Zhang",
+        "Lei Zhang",
+        "Yong Yu"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.06251",
-      "pdf_url": "https://arxiv.org/pdf/2511.06251.pdf",
-      "published": "2025-11-09T06:58:52Z",
+      "abs_url": "https://arxiv.org/abs/2511.09148",
+      "pdf_url": "https://arxiv.org/pdf/2511.09148.pdf",
+      "published": "2025-11-12T09:34:39Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 10
+        "gh_stars": 20
       },
-      "score": 1.7025
+      "score": 1.8335
     },
     {
       "id": "2511.07250",
@@ -655,25 +610,6 @@
       "score": 1.6099
     },
     {
-      "id": "2511.09493",
-      "title": "Consensus Sampling for Safer Generative AI",
-      "authors": [
-        "Adam Tauman Kalai",
-        "Yael Tauman Kalai",
-        "Or Zamir"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.09493",
-      "pdf_url": "https://arxiv.org/pdf/2511.09493.pdf",
-      "published": "2025-11-12T17:09:45Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2511.09488",
       "title": "AutoSynth: Automated Workflow Optimization for High-Quality Synthetic Dataset Generation via Monte Carlo Tree Search",
       "authors": [
@@ -692,6 +628,25 @@
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2511.09493",
+      "title": "Consensus Sampling for Safer Generative AI",
+      "authors": [
+        "Adam Tauman Kalai",
+        "Yael Tauman Kalai",
+        "Or Zamir"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.09493",
+      "pdf_url": "https://arxiv.org/pdf/2511.09493.pdf",
+      "published": "2025-11-12T17:09:45Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
         "hf_count": 0,
         "gh_stars": 0
       },
@@ -764,6 +719,25 @@
       "score": 1.3863
     },
     {
+      "id": "2511.08425",
+      "title": "HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization",
+      "authors": [
+        "Zeyang Li",
+        "Kaveh Alim",
+        "Navid Azizan"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.08425",
+      "pdf_url": "https://arxiv.org/pdf/2511.08425.pdf",
+      "published": "2025-11-11T16:33:57Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2511.08417",
       "title": "NeuCLIP: Efficient Large-Scale CLIP Training with Neural Normalizer Optimization",
       "authors": [
@@ -810,25 +784,6 @@
       "abs_url": "https://arxiv.org/abs/2511.08440",
       "pdf_url": "https://arxiv.org/pdf/2511.08440.pdf",
       "published": "2025-11-11T16:45:14Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2511.08425",
-      "title": "HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization",
-      "authors": [
-        "Zeyang Li",
-        "Kaveh Alim",
-        "Navid Azizan"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.08425",
-      "pdf_url": "https://arxiv.org/pdf/2511.08425.pdf",
-      "published": "2025-11-11T16:33:57Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -922,6 +877,36 @@
       "score": 1.3863
     },
     {
+      "id": "2511.07399",
+      "title": "StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation",
+      "authors": [
+        "Tianrui Feng",
+        "Zhi Li",
+        "Shuo Yang",
+        "Haocheng Xi",
+        "Muyang Li",
+        "Xiuyu Li",
+        "Lvmin Zhang",
+        "Keting Yang",
+        "Kelly Peng",
+        "Song Han",
+        "Maneesh Agrawala",
+        "Kurt Keutzer",
+        "Akio Kodaira",
+        "Chenfeng Xu"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.07399",
+      "pdf_url": "https://arxiv.org/pdf/2511.07399.pdf",
+      "published": "2025-11-10T18:51:28Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2511.07364",
       "title": "Self-Evaluating LLMs for Multi-Step Tasks: Stepwise Confidence Estimation for Failure Detection",
       "authors": [
@@ -932,6 +917,27 @@
       "abs_url": "https://arxiv.org/abs/2511.07364",
       "pdf_url": "https://arxiv.org/pdf/2511.07364.pdf",
       "published": "2025-11-10T18:19:51Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2511.07312",
+      "title": "Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search",
+      "authors": [
+        "Samuel Sokota",
+        "Eugene Vinitsky",
+        "Hengyuan Hu",
+        "J. Zico Kolter",
+        "Gabriele Farina"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.07312",
+      "pdf_url": "https://arxiv.org/pdf/2511.07312.pdf",
+      "published": "2025-11-10T17:13:41Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -963,36 +969,6 @@
       "score": 1.3863
     },
     {
-      "id": "2511.07399",
-      "title": "StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation",
-      "authors": [
-        "Tianrui Feng",
-        "Zhi Li",
-        "Shuo Yang",
-        "Haocheng Xi",
-        "Muyang Li",
-        "Xiuyu Li",
-        "Lvmin Zhang",
-        "Keting Yang",
-        "Kelly Peng",
-        "Song Han",
-        "Maneesh Agrawala",
-        "Kurt Keutzer",
-        "Akio Kodaira",
-        "Chenfeng Xu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.07399",
-      "pdf_url": "https://arxiv.org/pdf/2511.07399.pdf",
-      "published": "2025-11-10T18:51:28Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2511.06838",
       "title": "P3-LLM: An Integrated NPU-PIM Accelerator for LLM Inference Using Hybrid Numerical Formats",
       "authors": [
@@ -1016,23 +992,22 @@
       "score": 1.3863
     },
     {
-      "id": "2511.06494",
-      "title": "Route Experts by Sequence, not by Token",
+      "id": "2511.06449",
+      "title": "FLEX: Continuous Agent Evolution via Forward Learning from Experience",
       "authors": [
-        "Tiansheng Wen",
-        "Yifei Wang",
-        "Aosong Feng",
-        "Long Ma",
-        "Xinyang Liu",
-        "Yifan Wang",
-        "Lixuan Guo",
-        "Bo Chen",
-        "Stefanie Jegelka",
-        "Chenyu You"
+        "Zhicheng Cai",
+        "Xinyuan Guo",
+        "Yu Pei",
+        "JiangTao Feng",
+        "Jiangjie Chen",
+        "Ya-Qin Zhang",
+        "Wei-Ying Ma",
+        "Mingxuan Wang",
+        "Hao Zhou"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.06494",
-      "pdf_url": "https://arxiv.org/pdf/2511.06494.pdf",
-      "published": "2025-11-09T18:36:07Z",
+      "abs_url": "https://arxiv.org/abs/2511.06449",
+      "pdf_url": "https://arxiv.org/pdf/2511.06449.pdf",
+      "published": "2025-11-09T16:31:39Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -1063,22 +1038,23 @@
       "score": 1.3863
     },
     {
-      "id": "2511.06449",
-      "title": "FLEX: Continuous Agent Evolution via Forward Learning from Experience",
+      "id": "2511.06494",
+      "title": "Route Experts by Sequence, not by Token",
       "authors": [
-        "Zhicheng Cai",
-        "Xinyuan Guo",
-        "Yu Pei",
-        "JiangTao Feng",
-        "Jiangjie Chen",
-        "Ya-Qin Zhang",
-        "Wei-Ying Ma",
-        "Mingxuan Wang",
-        "Hao Zhou"
+        "Tiansheng Wen",
+        "Yifei Wang",
+        "Aosong Feng",
+        "Long Ma",
+        "Xinyang Liu",
+        "Yifan Wang",
+        "Lixuan Guo",
+        "Bo Chen",
+        "Stefanie Jegelka",
+        "Chenyu You"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.06449",
-      "pdf_url": "https://arxiv.org/pdf/2511.06449.pdf",
-      "published": "2025-11-09T16:31:39Z",
+      "abs_url": "https://arxiv.org/abs/2511.06494",
+      "pdf_url": "https://arxiv.org/pdf/2511.06494.pdf",
+      "published": "2025-11-09T18:36:07Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -1157,6 +1133,28 @@
       "score": 1.3863
     },
     {
+      "id": "2511.10014",
+      "title": "fastbmRAG: A Fast Graph-Based RAG Framework for Efficient Processing of Large-Scale Biomedical Literature",
+      "authors": [
+        "Guofeng Meng",
+        "Li Shen",
+        "Qiuyan Zhong",
+        "Wei Wang",
+        "Haizhou Zhang",
+        "Xiaozhen Wang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.10014",
+      "pdf_url": "https://arxiv.org/pdf/2511.10014.pdf",
+      "published": "2025-11-13T06:31:16Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2511.09964",
       "title": "EnvTrace: Simulation-Based Semantic Evaluation of LLM Code via Execution Trace Alignment -- Demonstrated at Synchrotron Beamlines",
       "authors": [
@@ -1180,19 +1178,19 @@
       "score": 1.3863
     },
     {
-      "id": "2511.10014",
-      "title": "fastbmRAG: A Fast Graph-Based RAG Framework for Efficient Processing of Large-Scale Biomedical Literature",
+      "id": "2511.09535",
+      "title": "Robust and Diverse Multi-Agent Learning via Rational Policy Gradient",
       "authors": [
-        "Guofeng Meng",
-        "Li Shen",
-        "Qiuyan Zhong",
-        "Wei Wang",
-        "Haizhou Zhang",
-        "Xiaozhen Wang"
+        "Niklas Lauffer",
+        "Ameesh Shah",
+        "Micah Carroll",
+        "Sanjit A. Seshia",
+        "Stuart Russell",
+        "Michael Dennis"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.10014",
-      "pdf_url": "https://arxiv.org/pdf/2511.10014.pdf",
-      "published": "2025-11-13T06:31:16Z",
+      "abs_url": "https://arxiv.org/abs/2511.09535",
+      "pdf_url": "https://arxiv.org/pdf/2511.09535.pdf",
+      "published": "2025-11-12T18:34:11Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
