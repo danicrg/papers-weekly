@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-11-22T08:18:54.123760Z",
+  "generated_utc": "2025-11-23T08:15:13.329291Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -43,9 +43,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 2863
+        "gh_stars": 3136
       },
-      "score": 6.737
+      "score": 6.9863
     },
     {
       "id": "2511.13719",
@@ -88,9 +88,9 @@
         "reddit_mentions": 2,
         "hn_mentions": 0,
         "hf_count": 4,
-        "gh_stars": 103
+        "gh_stars": 107
       },
-      "score": 6.431
+      "score": 6.4505
     },
     {
       "id": "2511.12609",
@@ -116,9 +116,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 4,
-        "gh_stars": 931
+        "gh_stars": 953
       },
-      "score": 6.2701
+      "score": 6.3059
     },
     {
       "id": "2511.15304",
@@ -139,12 +139,12 @@
       "pdf_url": "https://arxiv.org/pdf/2511.15304.pdf",
       "published": "2025-11-19T10:14:08Z",
       "signals": {
-        "reddit_mentions": 9,
+        "reddit_mentions": 10,
         "hn_mentions": 1,
         "hf_count": 0,
         "gh_stars": 0
       },
-      "score": 5.9915
+      "score": 6.1821
     },
     {
       "id": "2511.13029",
@@ -254,9 +254,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 44
+        "gh_stars": 47
       },
-      "score": 3.4359
+      "score": 3.4582
     },
     {
       "id": "2511.14993",
@@ -295,34 +295,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 353
+        "gh_stars": 381
       },
-      "score": 3.2651
-    },
-    {
-      "id": "2511.13524",
-      "title": "FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI",
-      "authors": [
-        "Yuhang Peng",
-        "Yizhou Pan",
-        "Xinning He",
-        "Jihaoyu Yang",
-        "Xinyu Yin",
-        "Han Wang",
-        "Xiaoji Zheng",
-        "Chao Gao",
-        "Jiangtao Gong"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.13524",
-      "pdf_url": "https://arxiv.org/pdf/2511.13524.pdf",
-      "published": "2025-11-17T15:58:46Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 37
-      },
-      "score": 2.8055
+      "score": 3.3382
     },
     {
       "id": "2511.16652",
@@ -349,12 +324,37 @@
       "pdf_url": "https://arxiv.org/pdf/2511.16652.pdf",
       "published": "2025-11-20T18:56:05Z",
       "signals": {
-        "reddit_mentions": 3,
+        "reddit_mentions": 4,
         "hn_mentions": 0,
         "hf_count": 0,
         "gh_stars": 0
       },
-      "score": 2.7726
+      "score": 3.2189
+    },
+    {
+      "id": "2511.13524",
+      "title": "FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI",
+      "authors": [
+        "Yuhang Peng",
+        "Yizhou Pan",
+        "Xinning He",
+        "Jihaoyu Yang",
+        "Xinyu Yin",
+        "Han Wang",
+        "Xiaoji Zheng",
+        "Chao Gao",
+        "Jiangtao Gong"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.13524",
+      "pdf_url": "https://arxiv.org/pdf/2511.13524.pdf",
+      "published": "2025-11-17T15:58:46Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 56
+      },
+      "score": 2.9456
     },
     {
       "id": "2511.15906",
@@ -378,6 +378,45 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 2.7726
+    },
+    {
+      "id": "2511.14210",
+      "title": "Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution",
+      "authors": [
+        "N Dinesh Reddy",
+        "Dylan Snyder",
+        "Lona Kiragu",
+        "Mirajul Mohin",
+        "Shahrear Bin Amin",
+        "Sudeep Pillai"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.14210",
+      "pdf_url": "https://arxiv.org/pdf/2511.14210.pdf",
+      "published": "2025-11-18T07:41:02Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 2.7726
+    },
+    {
+      "id": "2511.13843",
+      "title": "QUASAR: An Evolutionary Algorithm to Accelerate High-Dimensional Optimization",
+      "authors": [
+        "Julian Soltes"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.13843",
+      "pdf_url": "https://arxiv.org/pdf/2511.13843.pdf",
+      "published": "2025-11-17T19:02:31Z",
+      "signals": {
+        "reddit_mentions": 3,
+        "hn_mentions": 0,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 2.7726
@@ -426,9 +465,35 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 13
+        "gh_stars": 14
       },
-      "score": 2.5578
+      "score": 2.5714
+    },
+    {
+      "id": "2511.14617",
+      "title": "Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning",
+      "authors": [
+        "Ruoyu Qin",
+        "Weiran He",
+        "Weixiao Huang",
+        "Yangkun Zhang",
+        "Yikai Zhao",
+        "Bo Pang",
+        "Xinran Xu",
+        "Yingdi Shan",
+        "Yongwei Wu",
+        "Mingxing Zhang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.14617",
+      "pdf_url": "https://arxiv.org/pdf/2511.14617.pdf",
+      "published": "2025-11-18T16:12:21Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 2.1972
     },
     {
       "id": "2511.14488",
@@ -444,42 +509,6 @@
       "abs_url": "https://arxiv.org/abs/2511.14488",
       "pdf_url": "https://arxiv.org/pdf/2511.14488.pdf",
       "published": "2025-11-18T13:30:56Z",
-      "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
-      "id": "2511.13843",
-      "title": "QUASAR: An Evolutionary Algorithm to Accelerate High-Dimensional Optimization",
-      "authors": [
-        "Julian Soltes"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.13843",
-      "pdf_url": "https://arxiv.org/pdf/2511.13843.pdf",
-      "published": "2025-11-17T19:02:31Z",
-      "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
-      "id": "2511.12414",
-      "title": "The 'Sure' Trap: Multi-Scale Poisoning Analysis of Stealthy Compliance-Only Backdoors in Fine-Tuned Large Language Models",
-      "authors": [
-        "Yuting Tan",
-        "Yi Huang",
-        "Zhuo Li"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.12414",
-      "pdf_url": "https://arxiv.org/pdf/2511.12414.pdf",
-      "published": "2025-11-16T02:01:58Z",
       "signals": {
         "reddit_mentions": 2,
         "hn_mentions": 0,
@@ -576,9 +605,33 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 33
+        "gh_stars": 44
       },
-      "score": 1.9608
+      "score": 2.0496
+    },
+    {
+      "id": "2511.16043",
+      "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
+      "authors": [
+        "Peng Xia",
+        "Kaide Zeng",
+        "Jiaqi Liu",
+        "Can Qin",
+        "Fang Wu",
+        "Yiyang Zhou",
+        "Caiming Xiong",
+        "Huaxiu Yao"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.16043",
+      "pdf_url": "https://arxiv.org/pdf/2511.16043.pdf",
+      "published": "2025-11-20T05:01:57Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 32
+      },
+      "score": 1.952
     },
     {
       "id": "2511.15661",
@@ -597,9 +650,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 10
+        "gh_stars": 15
       },
-      "score": 1.7025
+      "score": 1.7736
     },
     {
       "id": "2511.14295",
@@ -626,28 +679,27 @@
       "score": 1.6099
     },
     {
-      "id": "2511.16043",
-      "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
+      "id": "2511.16595",
+      "title": "TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding",
       "authors": [
-        "Peng Xia",
-        "Kaide Zeng",
-        "Jiaqi Liu",
-        "Can Qin",
-        "Fang Wu",
-        "Yiyang Zhou",
-        "Caiming Xiong",
-        "Huaxiu Yao"
+        "Boshen Xu",
+        "Zihan Xiao",
+        "Jiaze Li",
+        "Jianzhong Ju",
+        "Zhenbo Luo",
+        "Jian Luan",
+        "Qin Jin"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.16043",
-      "pdf_url": "https://arxiv.org/pdf/2511.16043.pdf",
-      "published": "2025-11-20T05:01:57Z",
+      "abs_url": "https://arxiv.org/abs/2511.16595",
+      "pdf_url": "https://arxiv.org/pdf/2511.16595.pdf",
+      "published": "2025-11-20T17:48:21Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 4
+        "gh_stars": 5
       },
-      "score": 1.5863
+      "score": 1.6099
     },
     {
       "id": "2511.15248",
@@ -669,29 +721,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 4
-      },
-      "score": 1.5863
-    },
-    {
-      "id": "2511.16595",
-      "title": "TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding",
-      "authors": [
-        "Boshen Xu",
-        "Zihan Xiao",
-        "Jiaze Li",
-        "Jianzhong Ju",
-        "Zhenbo Luo",
-        "Jian Luan",
-        "Qin Jin"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.16595",
-      "pdf_url": "https://arxiv.org/pdf/2511.16595.pdf",
-      "published": "2025-11-20T17:48:21Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
         "gh_stars": 4
       },
       "score": 1.5863
@@ -776,6 +805,24 @@
       "score": 1.3863
     },
     {
+      "id": "2511.16062",
+      "title": "Gauge-Equivariant Graph Networks via Self-Interference Cancellation",
+      "authors": [
+        "Yoonhyuk Choi",
+        "Chong-Kwon Kim"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.16062",
+      "pdf_url": "https://arxiv.org/pdf/2511.16062.pdf",
+      "published": "2025-11-20T05:48:22Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2511.15941",
       "title": "iLTM: Integrated Large Tabular Model",
       "authors": [
@@ -792,24 +839,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2511.16062",
-      "title": "Gauge-Equivariant Graph Networks via Self-Interference Cancellation",
-      "authors": [
-        "Yoonhyuk Choi",
-        "Chong-Kwon Kim"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.16062",
-      "pdf_url": "https://arxiv.org/pdf/2511.16062.pdf",
-      "published": "2025-11-20T05:48:22Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -874,6 +903,23 @@
       "score": 1.3863
     },
     {
+      "id": "2511.15332",
+      "title": "Exponential Lasso: robust sparse penalization under heavy-tailed noise and outliers with exponential-type loss",
+      "authors": [
+        "The Tien Mai"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.15332",
+      "pdf_url": "https://arxiv.org/pdf/2511.15332.pdf",
+      "published": "2025-11-19T10:50:46Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2511.15276",
       "title": "SNAP: Low-Latency Test-Time Adaptation with Sparse Updates",
       "authors": [
@@ -895,14 +941,39 @@
       "score": 1.3863
     },
     {
-      "id": "2511.15332",
-      "title": "Exponential Lasso: robust sparse penalization under heavy-tailed noise and outliers with exponential-type loss",
+      "id": "2511.15055",
+      "title": "Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization",
       "authors": [
-        "The Tien Mai"
+        "Jian-Ting Guo",
+        "Yu-Cheng Chen",
+        "Ping-Chun Hsieh",
+        "Kuo-Hao Ho",
+        "Po-Wei Huang",
+        "Ti-Rong Wu",
+        "I-Chen Wu"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.15332",
-      "pdf_url": "https://arxiv.org/pdf/2511.15332.pdf",
-      "published": "2025-11-19T10:50:46Z",
+      "abs_url": "https://arxiv.org/abs/2511.15055",
+      "pdf_url": "https://arxiv.org/pdf/2511.15055.pdf",
+      "published": "2025-11-19T02:59:47Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2511.15061",
+      "title": "Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering",
+      "authors": [
+        "Haodong Chen",
+        "Guido Zuccon",
+        "Teerapong Leelanupab"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.15061",
+      "pdf_url": "https://arxiv.org/pdf/2511.15061.pdf",
+      "published": "2025-11-19T03:08:20Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -946,48 +1017,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2511.15055",
-      "title": "Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization",
-      "authors": [
-        "Jian-Ting Guo",
-        "Yu-Cheng Chen",
-        "Ping-Chun Hsieh",
-        "Kuo-Hao Ho",
-        "Po-Wei Huang",
-        "Ti-Rong Wu",
-        "I-Chen Wu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.15055",
-      "pdf_url": "https://arxiv.org/pdf/2511.15055.pdf",
-      "published": "2025-11-19T02:59:47Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2511.15061",
-      "title": "Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering",
-      "authors": [
-        "Haodong Chen",
-        "Guido Zuccon",
-        "Teerapong Leelanupab"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.15061",
-      "pdf_url": "https://arxiv.org/pdf/2511.15061.pdf",
-      "published": "2025-11-19T03:08:20Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -1074,16 +1103,16 @@
       "score": 1.3863
     },
     {
-      "id": "2511.14545",
-      "title": "DeepBlip: Estimating Conditional Average Treatment Effects Over Time",
+      "id": "2511.14823",
+      "title": "Dynamic Nested Hierarchies: Pioneering Self-Evolution in Machine Learning Architectures for Lifelong Intelligence",
       "authors": [
-        "Haorui Ma",
-        "Dennis Frauen",
-        "Stefan Feuerriegel"
+        "Akbar Anbar Jafari",
+        "Cagri Ozcinar",
+        "Gholamreza Anbarjafari"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.14545",
-      "pdf_url": "https://arxiv.org/pdf/2511.14545.pdf",
-      "published": "2025-11-18T14:49:03Z",
+      "abs_url": "https://arxiv.org/abs/2511.14823",
+      "pdf_url": "https://arxiv.org/pdf/2511.14823.pdf",
+      "published": "2025-11-18T15:59:44Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -1111,16 +1140,16 @@
       "score": 1.3863
     },
     {
-      "id": "2511.14516",
-      "title": "Full-Atom Peptide Design via Riemannian-Euclidean Bayesian Flow Networks",
+      "id": "2511.14545",
+      "title": "DeepBlip: Estimating Conditional Average Treatment Effects Over Time",
       "authors": [
-        "Hao Qian",
-        "Shikui Tu",
-        "Lei Xu"
+        "Haorui Ma",
+        "Dennis Frauen",
+        "Stefan Feuerriegel"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.14516",
-      "pdf_url": "https://arxiv.org/pdf/2511.14516.pdf",
-      "published": "2025-11-18T14:13:23Z",
+      "abs_url": "https://arxiv.org/abs/2511.14545",
+      "pdf_url": "https://arxiv.org/pdf/2511.14545.pdf",
+      "published": "2025-11-18T14:49:03Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -1130,46 +1159,27 @@
       "score": 1.3863
     },
     {
-      "id": "2511.14823",
-      "title": "Dynamic Nested Hierarchies: Pioneering Self-Evolution in Machine Learning Architectures for Lifelong Intelligence",
+      "id": "2511.15738",
+      "title": "Extending Test-Time Scaling: A 3D Perspective with Context, Batch, and Turn",
       "authors": [
-        "Akbar Anbar Jafari",
-        "Cagri Ozcinar",
-        "Gholamreza Anbarjafari"
+        "Chao Yu",
+        "Qixin Tan",
+        "Jiaxuan Gao",
+        "Shi Yu",
+        "Hong Lu",
+        "Xinting Yang",
+        "Zelai Xu",
+        "Yu Wang",
+        "Yi Wu",
+        "Eugene Vinitsky"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.14823",
-      "pdf_url": "https://arxiv.org/pdf/2511.14823.pdf",
-      "published": "2025-11-18T15:59:44Z",
+      "abs_url": "https://arxiv.org/abs/2511.15738",
+      "pdf_url": "https://arxiv.org/pdf/2511.15738.pdf",
+      "published": "2025-11-18T14:07:57Z",
       "signals": {
-        "reddit_mentions": 1,
+        "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2511.14617",
-      "title": "Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning",
-      "authors": [
-        "Ruoyu Qin",
-        "Weiran He",
-        "Weixiao Huang",
-        "Yangkun Zhang",
-        "Yikai Zhao",
-        "Bo Pang",
-        "Xinran Xu",
-        "Yingdi Shan",
-        "Yongwei Wu",
-        "Mingxing Zhang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.14617",
-      "pdf_url": "https://arxiv.org/pdf/2511.14617.pdf",
-      "published": "2025-11-18T16:12:21Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
+        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
