@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-11-23T08:15:13.329291Z",
+  "generated_utc": "2025-11-24T08:16:08.669521Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -43,9 +43,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 3136
+        "gh_stars": 3411
       },
-      "score": 6.9863
+      "score": 7.2267
     },
     {
       "id": "2511.13719",
@@ -88,37 +88,9 @@
         "reddit_mentions": 2,
         "hn_mentions": 0,
         "hf_count": 4,
-        "gh_stars": 107
+        "gh_stars": 109
       },
-      "score": 6.4505
-    },
-    {
-      "id": "2511.12609",
-      "title": "Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data",
-      "authors": [
-        "Yunxin Li",
-        "Xinyu Chen",
-        "Shenyuan Jiang",
-        "Haoyuan Shi",
-        "Zhenyu Liu",
-        "Xuanyu Zhang",
-        "Nanhao Deng",
-        "Zhenran Xu",
-        "Yicheng Ma",
-        "Meishan Zhang",
-        "Baotian Hu",
-        "Min Zhang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.12609",
-      "pdf_url": "https://arxiv.org/pdf/2511.12609.pdf",
-      "published": "2025-11-16T14:10:55Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 953
-      },
-      "score": 6.3059
+      "score": 6.4601
     },
     {
       "id": "2511.15304",
@@ -139,32 +111,66 @@
       "pdf_url": "https://arxiv.org/pdf/2511.15304.pdf",
       "published": "2025-11-19T10:14:08Z",
       "signals": {
-        "reddit_mentions": 10,
+        "reddit_mentions": 11,
         "hn_mentions": 1,
         "hf_count": 0,
         "gh_stars": 0
       },
-      "score": 6.1821
+      "score": 6.3561
     },
     {
-      "id": "2511.13029",
-      "title": "AA-Omniscience: Evaluating Cross-Domain Knowledge Reliability in Large Language Models",
+      "id": "2511.16719",
+      "title": "SAM 3: Segment Anything with Concepts",
       "authors": [
-        "Declan Jackson",
-        "William Keating",
-        "George Cameron",
-        "Micah Hill-Smith"
+        "Nicolas Carion",
+        "Laura Gustafson",
+        "Yuan-Ting Hu",
+        "Shoubhik Debnath",
+        "Ronghang Hu",
+        "Didac Suris",
+        "Chaitanya Ryali",
+        "Kalyan Vasudev Alwala",
+        "Haitham Khedr",
+        "Andrew Huang",
+        "Jie Lei",
+        "Tengyu Ma",
+        "Baishan Guo",
+        "Arpit Kalla",
+        "Markus Marks",
+        "Joseph Greer",
+        "Meng Wang",
+        "Peize Sun",
+        "Roman R\u00e4dle",
+        "Triantafyllos Afouras",
+        "Effrosyni Mavroudi",
+        "Katherine Xu",
+        "Tsung-Han Wu",
+        "Yu Zhou",
+        "Liliane Momeni",
+        "Rishi Hazra",
+        "Shuangrui Ding",
+        "Sagar Vaze",
+        "Francois Porcher",
+        "Feng Li",
+        "Siyuan Li",
+        "Aishwarya Kamath",
+        "Ho Kei Cheng",
+        "Piotr Doll\u00e1r",
+        "Nikhila Ravi",
+        "Kate Saenko",
+        "Pengchuan Zhang",
+        "Christoph Feichtenhofer"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.13029",
-      "pdf_url": "https://arxiv.org/pdf/2511.13029.pdf",
-      "published": "2025-11-17T06:27:16Z",
+      "abs_url": "https://arxiv.org/abs/2511.16719",
+      "pdf_url": "https://arxiv.org/pdf/2511.16719.pdf",
+      "published": "2025-11-20T18:59:56Z",
       "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 2,
-        "hf_count": 1,
-        "gh_stars": 0
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 3522
       },
-      "score": 4.9698
+      "score": 5.9346
     },
     {
       "id": "2511.16334",
@@ -186,9 +192,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 4,
-        "gh_stars": 0
+        "gh_stars": 16
       },
-      "score": 4.6052
+      "score": 5.0052
     },
     {
       "id": "2511.14229",
@@ -233,6 +239,34 @@
       "score": 3.5835
     },
     {
+      "id": "2511.16660",
+      "title": "Cognitive Foundations for Reasoning and Their Manifestation in LLMs",
+      "authors": [
+        "Priyanka Kargupta",
+        "Shuyue Stella Li",
+        "Haocheng Wang",
+        "Jinu Lee",
+        "Shan Chen",
+        "Orevaoghene Ahia",
+        "Dean Light",
+        "Thomas L. Griffiths",
+        "Max Kleiman-Weiner",
+        "Jiawei Han",
+        "Asli Celikyilmaz",
+        "Yulia Tsvetkov"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.16660",
+      "pdf_url": "https://arxiv.org/pdf/2511.16660.pdf",
+      "published": "2025-11-20T18:59:00Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 3.5835
+    },
+    {
       "id": "2511.14659",
       "title": "NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards",
       "authors": [
@@ -254,9 +288,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 47
+        "gh_stars": 51
       },
-      "score": 3.4582
+      "score": 3.4867
     },
     {
       "id": "2511.14993",
@@ -295,9 +329,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 381
+        "gh_stars": 402
       },
-      "score": 3.3382
+      "score": 3.3913
     },
     {
       "id": "2511.16652",
@@ -352,9 +386,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 56
+        "gh_stars": 60
       },
-      "score": 2.9456
+      "score": 2.9718
     },
     {
       "id": "2511.15906",
@@ -465,9 +499,33 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 14
+        "gh_stars": 16
       },
-      "score": 2.5714
+      "score": 2.5972
+    },
+    {
+      "id": "2511.16043",
+      "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
+      "authors": [
+        "Peng Xia",
+        "Kaide Zeng",
+        "Jiaqi Liu",
+        "Can Qin",
+        "Fang Wu",
+        "Yiyang Zhou",
+        "Caiming Xiong",
+        "Huaxiu Yao"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.16043",
+      "pdf_url": "https://arxiv.org/pdf/2511.16043.pdf",
+      "published": "2025-11-20T05:01:57Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 71
+      },
+      "score": 2.2289
     },
     {
       "id": "2511.14617",
@@ -518,6 +576,42 @@
       "score": 2.1972
     },
     {
+      "id": "2511.17127",
+      "title": "Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design",
+      "authors": [
+        "Quentin Anthony",
+        "Yury Tokpanov",
+        "Skyler Szot",
+        "Srivatsan Rajagopal",
+        "Praneeth Medepalli",
+        "Rishi Iyer",
+        "Vasu Shyam",
+        "Anna Golubeva",
+        "Ansh Chaurasia",
+        "Xiao Yang",
+        "Tomas Figliolia",
+        "Robert Washbourne",
+        "Drew Thorstensen",
+        "Amartey Pearson",
+        "Zack Grossbart",
+        "Jason van Patten",
+        "Emad Barsoum",
+        "Zhenyu Gu",
+        "Yao Fu",
+        "Beren Millidge"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.17127",
+      "pdf_url": "https://arxiv.org/pdf/2511.17127.pdf",
+      "published": "2025-11-21T10:44:02Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 0
+      },
+      "score": 2.1972
+    },
+    {
       "id": "2511.15392",
       "title": "DEPO: Dual-Efficiency Preference Optimization for LLM Agents",
       "authors": [
@@ -563,28 +657,6 @@
       "score": 2.1972
     },
     {
-      "id": "2511.12497",
-      "title": "SGuard-v1: Safety Guardrail for Large Language Models",
-      "authors": [
-        "JoonHo Lee",
-        "HyeonMin Cho",
-        "Jaewoong Yun",
-        "Hyunjae Lee",
-        "JunKyu Lee",
-        "Juree Seok"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.12497",
-      "pdf_url": "https://arxiv.org/pdf/2511.12497.pdf",
-      "published": "2025-11-16T08:15:54Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
       "id": "2511.16671",
       "title": "Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation",
       "authors": [
@@ -605,33 +677,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 44
+        "gh_stars": 49
       },
-      "score": 2.0496
-    },
-    {
-      "id": "2511.16043",
-      "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
-      "authors": [
-        "Peng Xia",
-        "Kaide Zeng",
-        "Jiaqi Liu",
-        "Can Qin",
-        "Fang Wu",
-        "Yiyang Zhou",
-        "Caiming Xiong",
-        "Huaxiu Yao"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.16043",
-      "pdf_url": "https://arxiv.org/pdf/2511.16043.pdf",
-      "published": "2025-11-20T05:01:57Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 32
-      },
-      "score": 1.952
+      "score": 2.0863
     },
     {
       "id": "2511.15661",
@@ -650,9 +698,32 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 15
+        "gh_stars": 16
       },
-      "score": 1.7736
+      "score": 1.7863
+    },
+    {
+      "id": "2511.16595",
+      "title": "TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding",
+      "authors": [
+        "Boshen Xu",
+        "Zihan Xiao",
+        "Jiaze Li",
+        "Jianzhong Ju",
+        "Zhenbo Luo",
+        "Jian Luan",
+        "Qin Jin"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.16595",
+      "pdf_url": "https://arxiv.org/pdf/2511.16595.pdf",
+      "published": "2025-11-20T17:48:21Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 6
+      },
+      "score": 1.6312
     },
     {
       "id": "2511.14295",
@@ -674,29 +745,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 5
-      },
-      "score": 1.6099
-    },
-    {
-      "id": "2511.16595",
-      "title": "TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding",
-      "authors": [
-        "Boshen Xu",
-        "Zihan Xiao",
-        "Jiaze Li",
-        "Jianzhong Ju",
-        "Zhenbo Luo",
-        "Jian Luan",
-        "Qin Jin"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.16595",
-      "pdf_url": "https://arxiv.org/pdf/2511.16595.pdf",
-      "published": "2025-11-20T17:48:21Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
         "gh_stars": 5
       },
       "score": 1.6099
@@ -724,6 +772,32 @@
         "gh_stars": 4
       },
       "score": 1.5863
+    },
+    {
+      "id": "2511.16665",
+      "title": "Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter",
+      "authors": [
+        "Qinghao Hu",
+        "Shang Yang",
+        "Junxian Guo",
+        "Xiaozhe Yao",
+        "Yujun Lin",
+        "Yuxian Gu",
+        "Han Cai",
+        "Chuang Gan",
+        "Ana Klimovic",
+        "Song Han"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.16665",
+      "pdf_url": "https://arxiv.org/pdf/2511.16665.pdf",
+      "published": "2025-11-20T18:59:25Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
     },
     {
       "id": "2511.16674",
@@ -805,24 +879,6 @@
       "score": 1.3863
     },
     {
-      "id": "2511.16062",
-      "title": "Gauge-Equivariant Graph Networks via Self-Interference Cancellation",
-      "authors": [
-        "Yoonhyuk Choi",
-        "Chong-Kwon Kim"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.16062",
-      "pdf_url": "https://arxiv.org/pdf/2511.16062.pdf",
-      "published": "2025-11-20T05:48:22Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2511.15941",
       "title": "iLTM: Integrated Large Tabular Model",
       "authors": [
@@ -839,6 +895,24 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2511.16062",
+      "title": "Gauge-Equivariant Graph Networks via Self-Interference Cancellation",
+      "authors": [
+        "Yoonhyuk Choi",
+        "Chong-Kwon Kim"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.16062",
+      "pdf_url": "https://arxiv.org/pdf/2511.16062.pdf",
+      "published": "2025-11-20T05:48:22Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -903,23 +977,6 @@
       "score": 1.3863
     },
     {
-      "id": "2511.15332",
-      "title": "Exponential Lasso: robust sparse penalization under heavy-tailed noise and outliers with exponential-type loss",
-      "authors": [
-        "The Tien Mai"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.15332",
-      "pdf_url": "https://arxiv.org/pdf/2511.15332.pdf",
-      "published": "2025-11-19T10:50:46Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2511.15276",
       "title": "SNAP: Low-Latency Test-Time Adaptation with Sparse Updates",
       "authors": [
@@ -932,6 +989,23 @@
       "abs_url": "https://arxiv.org/abs/2511.15276",
       "pdf_url": "https://arxiv.org/pdf/2511.15276.pdf",
       "published": "2025-11-19T09:40:24Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2511.15332",
+      "title": "Exponential Lasso: robust sparse penalization under heavy-tailed noise and outliers with exponential-type loss",
+      "authors": [
+        "The Tien Mai"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.15332",
+      "pdf_url": "https://arxiv.org/pdf/2511.15332.pdf",
+      "published": "2025-11-19T10:50:46Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -1103,25 +1177,6 @@
       "score": 1.3863
     },
     {
-      "id": "2511.14823",
-      "title": "Dynamic Nested Hierarchies: Pioneering Self-Evolution in Machine Learning Architectures for Lifelong Intelligence",
-      "authors": [
-        "Akbar Anbar Jafari",
-        "Cagri Ozcinar",
-        "Gholamreza Anbarjafari"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.14823",
-      "pdf_url": "https://arxiv.org/pdf/2511.14823.pdf",
-      "published": "2025-11-18T15:59:44Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2511.14584",
       "title": "ReflexGrad: Three-Way Synergistic Architecture for Zero-Shot Generalization in LLM Agents",
       "authors": [
@@ -1159,27 +1214,20 @@
       "score": 1.3863
     },
     {
-      "id": "2511.15738",
-      "title": "Extending Test-Time Scaling: A 3D Perspective with Context, Batch, and Turn",
+      "id": "2511.14823",
+      "title": "Dynamic Nested Hierarchies: Pioneering Self-Evolution in Machine Learning Architectures for Lifelong Intelligence",
       "authors": [
-        "Chao Yu",
-        "Qixin Tan",
-        "Jiaxuan Gao",
-        "Shi Yu",
-        "Hong Lu",
-        "Xinting Yang",
-        "Zelai Xu",
-        "Yu Wang",
-        "Yi Wu",
-        "Eugene Vinitsky"
+        "Akbar Anbar Jafari",
+        "Cagri Ozcinar",
+        "Gholamreza Anbarjafari"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.15738",
-      "pdf_url": "https://arxiv.org/pdf/2511.15738.pdf",
-      "published": "2025-11-18T14:07:57Z",
+      "abs_url": "https://arxiv.org/abs/2511.14823",
+      "pdf_url": "https://arxiv.org/pdf/2511.14823.pdf",
+      "published": "2025-11-18T15:59:44Z",
       "signals": {
-        "reddit_mentions": 0,
+        "reddit_mentions": 1,
         "hn_mentions": 0,
-        "hf_count": 1,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
