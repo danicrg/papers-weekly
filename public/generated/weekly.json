@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-11-29T08:13:56.814399Z",
+  "generated_utc": "2025-11-30T08:09:42.783737Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -72,10 +72,10 @@
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 393
+        "hf_count": 5,
+        "gh_stars": 400
       },
-      "score": 6.5876
+      "score": 6.9698
     },
     {
       "id": "2511.20626",
@@ -96,9 +96,9 @@
         "reddit_mentions": 2,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 911
+        "gh_stars": 914
       },
-      "score": 5.2155
+      "score": 5.2205
     },
     {
       "id": "2511.19575",
@@ -138,9 +138,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 749
+        "gh_stars": 774
       },
-      "score": 4.934
+      "score": 4.9793
     },
     {
       "id": "2511.18676",
@@ -184,9 +184,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 16
+        "gh_stars": 23
       },
-      "score": 3.9835
+      "score": 4.0631
     },
     {
       "id": "2511.19365",
@@ -205,9 +205,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 75
+        "gh_stars": 79
       },
-      "score": 3.6386
+      "score": 3.6614
     },
     {
       "id": "2511.19269",
@@ -369,9 +369,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 152
+        "gh_stars": 190
       },
-      "score": 2.6192
+      "score": 2.7647
     },
     {
       "id": "2511.21688",
@@ -395,9 +395,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 137
+        "gh_stars": 145
       },
-      "score": 2.5568
+      "score": 2.5905
     },
     {
       "id": "2511.19900",
@@ -420,9 +420,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 606
+        "gh_stars": 670
       },
-      "score": 2.4617
+      "score": 2.5884
     },
     {
       "id": "2511.20814",
@@ -564,6 +564,27 @@
       "score": 2.1972
     },
     {
+      "id": "2511.18423",
+      "title": "General Agentic Memory Via Deep Research",
+      "authors": [
+        "B. Y. Yan",
+        "Chaofan Li",
+        "Hongjin Qian",
+        "Shuqi Lu",
+        "Zheng Liu"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.18423",
+      "pdf_url": "https://arxiv.org/pdf/2511.18423.pdf",
+      "published": "2025-11-23T12:29:33Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 398
+      },
+      "score": 1.995
+    },
+    {
       "id": "2511.20714",
       "title": "Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation",
       "authors": [
@@ -591,30 +612,36 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 28
+        "gh_stars": 33
       },
-      "score": 1.9154
+      "score": 1.9608
     },
     {
-      "id": "2511.18423",
-      "title": "General Agentic Memory Via Deep Research",
+      "id": "2511.20937",
+      "title": "ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction",
       "authors": [
-        "B. Y. Yan",
-        "Chaofan Li",
-        "Hongjin Qian",
-        "Shuqi Lu",
-        "Zheng Liu"
+        "Qineng Wang",
+        "Wenlong Huang",
+        "Yu Zhou",
+        "Hang Yin",
+        "Tianwei Bao",
+        "Jianwen Lyu",
+        "Weiyu Liu",
+        "Ruohan Zhang",
+        "Jiajun Wu",
+        "Li Fei-Fei",
+        "Manling Li"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.18423",
-      "pdf_url": "https://arxiv.org/pdf/2511.18423.pdf",
-      "published": "2025-11-23T12:29:33Z",
+      "abs_url": "https://arxiv.org/abs/2511.20937",
+      "pdf_url": "https://arxiv.org/pdf/2511.20937.pdf",
+      "published": "2025-11-26T00:06:02Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 315
+        "hf_count": 1,
+        "gh_stars": 17
       },
-      "score": 1.7748
+      "score": 1.7986
     },
     {
       "id": "2511.19413",
@@ -633,9 +660,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 9
+        "gh_stars": 11
       },
-      "score": 1.6863
+      "score": 1.718
     },
     {
       "id": "2511.21692",
@@ -677,6 +704,26 @@
       "score": 1.3863
     },
     {
+      "id": "2511.21613",
+      "title": "Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining",
+      "authors": [
+        "Dongyang Fan",
+        "Diba Hashemi",
+        "Sai Praneeth Karimireddy",
+        "Martin Jaggi"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.21613",
+      "pdf_url": "https://arxiv.org/pdf/2511.21613.pdf",
+      "published": "2025-11-26T17:36:31Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2511.21654",
       "title": "EvilGenie: A Reward Hacking Benchmark",
       "authors": [
@@ -696,17 +743,20 @@
       "score": 1.3863
     },
     {
-      "id": "2511.21613",
-      "title": "Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining",
+      "id": "2511.21622",
+      "title": "On the Origin of Algorithmic Progress in AI",
       "authors": [
-        "Dongyang Fan",
-        "Diba Hashemi",
-        "Sai Praneeth Karimireddy",
-        "Martin Jaggi"
+        "Hans Gundlach",
+        "Alex Fogelson",
+        "Jayson Lynch",
+        "Ana Trisovic",
+        "Jonathan Rosenfeld",
+        "Anmol Sandhu",
+        "Neil Thompson"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.21613",
-      "pdf_url": "https://arxiv.org/pdf/2511.21613.pdf",
-      "published": "2025-11-26T17:36:31Z",
+      "abs_url": "https://arxiv.org/abs/2511.21622",
+      "pdf_url": "https://arxiv.org/pdf/2511.21622.pdf",
+      "published": "2025-11-26T17:46:31Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -761,24 +811,6 @@
       "score": 1.3863
     },
     {
-      "id": "2511.20612",
-      "title": "Sparse-to-Field Reconstruction via Stochastic Neural Dynamic Mode Decomposition",
-      "authors": [
-        "Yujin Kim",
-        "Sarah Dean"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.20612",
-      "pdf_url": "https://arxiv.org/pdf/2511.20612.pdf",
-      "published": "2025-11-25T18:39:50Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2511.20613",
       "title": "Can Vibe Coding Beat Graduate CS Students? An LLM vs. Human Coding Tournament on Market-driven Strategic Planning",
       "authors": [
@@ -791,6 +823,24 @@
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2511.20612",
+      "title": "Sparse-to-Field Reconstruction via Stochastic Neural Dynamic Mode Decomposition",
+      "authors": [
+        "Yujin Kim",
+        "Sarah Dean"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.20612",
+      "pdf_url": "https://arxiv.org/pdf/2511.20612.pdf",
+      "published": "2025-11-25T18:39:50Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
         "hf_count": 0,
         "gh_stars": 0
       },
@@ -891,49 +941,6 @@
       "score": 1.3863
     },
     {
-      "id": "2511.19797",
-      "title": "Terminal Velocity Matching",
-      "authors": [
-        "Linqi Zhou",
-        "Mathias Parger",
-        "Ayaan Haque",
-        "Jiaming Song"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.19797",
-      "pdf_url": "https://arxiv.org/pdf/2511.19797.pdf",
-      "published": "2025-11-24T23:55:45Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2511.19436",
-      "title": "VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection",
-      "authors": [
-        "Qiang Wang",
-        "Xinyuan Gao",
-        "SongLin Dong",
-        "Jizhou Han",
-        "Jiangyang Li",
-        "Yuhang He",
-        "Yihong Gong"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.19436",
-      "pdf_url": "https://arxiv.org/pdf/2511.19436.pdf",
-      "published": "2025-11-24T18:59:56Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2511.19841",
       "title": "Cisco Time Series Model Technical Report",
       "authors": [
@@ -958,6 +965,26 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2511.19797",
+      "title": "Terminal Velocity Matching",
+      "authors": [
+        "Linqi Zhou",
+        "Mathias Parger",
+        "Ayaan Haque",
+        "Jiaming Song"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.19797",
+      "pdf_url": "https://arxiv.org/pdf/2511.19797.pdf",
+      "published": "2025-11-24T23:55:45Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -1002,6 +1029,52 @@
       "score": 1.3863
     },
     {
+      "id": "2511.20703",
+      "title": "PropensityBench: Evaluating Latent Safety Risks in Large Language Models via an Agentic Approach",
+      "authors": [
+        "Udari Madhushani Sehwag",
+        "Shayan Shabihi",
+        "Alex McAvoy",
+        "Vikash Sehwag",
+        "Yuancheng Xu",
+        "Dalton Towers",
+        "Furong Huang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.20703",
+      "pdf_url": "https://arxiv.org/pdf/2511.20703.pdf",
+      "published": "2025-11-24T18:46:44Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2511.19436",
+      "title": "VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection",
+      "authors": [
+        "Qiang Wang",
+        "Xinyuan Gao",
+        "SongLin Dong",
+        "Jizhou Han",
+        "Jiangyang Li",
+        "Yuhang He",
+        "Yihong Gong"
+      ],
+      "abs_url": "https://arxiv.org/abs/2511.19436",
+      "pdf_url": "https://arxiv.org/pdf/2511.19436.pdf",
+      "published": "2025-11-24T18:59:56Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2511.19405",
       "title": "Learning Robust Social Strategies with Large Language Models",
       "authors": [
@@ -1024,24 +1097,24 @@
       "score": 1.3863
     },
     {
-      "id": "2511.20703",
-      "title": "PropensityBench: Evaluating Latent Safety Risks in Large Language Models via an Agentic Approach",
+      "id": "2511.19418",
+      "title": "Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens",
       "authors": [
-        "Udari Madhushani Sehwag",
-        "Shayan Shabihi",
-        "Alex McAvoy",
-        "Vikash Sehwag",
-        "Yuancheng Xu",
-        "Dalton Towers",
-        "Furong Huang"
+        "Yiming Qin",
+        "Bomin Wei",
+        "Jiaxin Ge",
+        "Konstantinos Kallidromitis",
+        "Stephanie Fu",
+        "Trevor Darrell",
+        "Xudong Wang"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.20703",
-      "pdf_url": "https://arxiv.org/pdf/2511.20703.pdf",
-      "published": "2025-11-24T18:46:44Z",
+      "abs_url": "https://arxiv.org/abs/2511.19418",
+      "pdf_url": "https://arxiv.org/pdf/2511.19418.pdf",
+      "published": "2025-11-24T18:55:19Z",
       "signals": {
-        "reddit_mentions": 0,
+        "reddit_mentions": 1,
         "hn_mentions": 0,
-        "hf_count": 1,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -1109,80 +1182,14 @@
       "score": 1.3863
     },
     {
-      "id": "2511.19418",
-      "title": "Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens",
+      "id": "2511.18828",
+      "title": "Solving a Research Problem in Mathematical Statistics with AI Assistance",
       "authors": [
-        "Yiming Qin",
-        "Bomin Wei",
-        "Jiaxin Ge",
-        "Konstantinos Kallidromitis",
-        "Stephanie Fu",
-        "Trevor Darrell",
-        "Xudong Wang"
+        "Edgar Dobriban"
       ],
-      "abs_url": "https://arxiv.org/abs/2511.19418",
-      "pdf_url": "https://arxiv.org/pdf/2511.19418.pdf",
-      "published": "2025-11-24T18:55:19Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2511.18394",
-      "title": "Future Is Unevenly Distributed: Forecasting Ability of LLMs Depends on What We're Asking",
-      "authors": [
-        "Chinmay Karkar",
-        "Paras Chopra"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.18394",
-      "pdf_url": "https://arxiv.org/pdf/2511.18394.pdf",
-      "published": "2025-11-23T10:41:19Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2511.18024",
-      "title": "Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems",
-      "authors": [
-        "Dor Arviv",
-        "Yehonatan Elisha",
-        "Oren Barkan",
-        "Noam Koenigstein"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.18024",
-      "pdf_url": "https://arxiv.org/pdf/2511.18024.pdf",
-      "published": "2025-11-22T11:27:32Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2511.18047",
-      "title": "Fidelity-Aware Recommendation Explanations via Stochastic Path Integration",
-      "authors": [
-        "Oren Barkan",
-        "Yahlly Schein",
-        "Yehonatan Elisha",
-        "Veronika Bogina",
-        "Mikhail Baklanov",
-        "Noam Koenigstein"
-      ],
-      "abs_url": "https://arxiv.org/abs/2511.18047",
-      "pdf_url": "https://arxiv.org/pdf/2511.18047.pdf",
-      "published": "2025-11-22T12:59:04Z",
+      "abs_url": "https://arxiv.org/abs/2511.18828",
+      "pdf_url": "https://arxiv.org/pdf/2511.18828.pdf",
+      "published": "2025-11-24T07:03:56Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
