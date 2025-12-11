@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-12-10T08:24:29.790722Z",
+  "generated_utc": "2025-12-11T08:23:21.638914Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -25,9 +25,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 11705
+        "gh_stars": 11781
       },
-      "score": 10.819
+      "score": 10.854
     },
     {
       "id": "2512.04844",
@@ -71,61 +71,30 @@
       "score": 6.089
     },
     {
-      "id": "2512.04324",
-      "title": "DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle",
+      "id": "2512.05693",
+      "title": "HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies",
       "authors": [
-        "Fangyu Lei",
-        "Jinxiang Meng",
-        "Yiming Huang",
-        "Junjie Zhao",
-        "Yitong Zhang",
-        "Jianwen Luo",
-        "Xin Zou",
-        "Ruiyi Yang",
-        "Wenbo Shi",
-        "Yan Gao",
-        "Shizhu He",
-        "Zuo Wang",
-        "Qian Liu",
-        "Yang Wang",
-        "Ke Wang",
-        "Jun Zhao",
-        "Kang Liu"
+        "Zhiying Du",
+        "Bei Liu",
+        "Yaobo Liang",
+        "Yichao Shen",
+        "Haidong Cao",
+        "Xiangyu Zheng",
+        "Zhiyuan Feng",
+        "Zuxuan Wu",
+        "Jiaolong Yang",
+        "Yu-Gang Jiang"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.04324",
-      "pdf_url": "https://arxiv.org/pdf/2512.04324.pdf",
-      "published": "2025-12-03T23:21:28Z",
+      "abs_url": "https://arxiv.org/abs/2512.05693",
+      "pdf_url": "https://arxiv.org/pdf/2512.05693.pdf",
+      "published": "2025-12-05T13:21:05Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 7,
-        "gh_stars": 111
-      },
-      "score": 5.2124
-    },
-    {
-      "id": "2512.03903",
-      "title": "BERnaT: Basque Encoders for Representing Natural Textual Diversity",
-      "authors": [
-        "Ekhi Azurmendi",
-        "Joseba Fernandez de Landa",
-        "Jaione Bengoetxea",
-        "Maite Heredia",
-        "Julen Etxaniz",
-        "Mikel Zubillaga",
-        "Ander Soraluze",
-        "Aitor Soroa"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.03903",
-      "pdf_url": "https://arxiv.org/pdf/2512.03903.pdf",
-      "published": "2025-12-03T15:50:42Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 10,
         "gh_stars": 0
       },
-      "score": 4.7958
+      "score": 4.1589
     },
     {
       "id": "2512.04746",
@@ -143,9 +112,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 754
+        "gh_stars": 756
       },
-      "score": 4.1322
+      "score": 4.1358
     },
     {
       "id": "2512.05105",
@@ -166,21 +135,46 @@
       "score": 3.7835
     },
     {
-      "id": "2512.04047",
-      "title": "Polarization by Design: How Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs",
+      "id": "2512.07833",
+      "title": "Relational Visual Similarity",
       "authors": [
-        "Nadav Kunievsky"
+        "Thao Nguyen",
+        "Sicheng Mo",
+        "Krishna Kumar Singh",
+        "Yilin Wang",
+        "Jing Shi",
+        "Nicholas Kolkin",
+        "Eli Shechtman",
+        "Yong Jae Lee",
+        "Yuheng Li"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.04047",
-      "pdf_url": "https://arxiv.org/pdf/2512.04047.pdf",
-      "published": "2025-12-03T18:33:26Z",
+      "abs_url": "https://arxiv.org/abs/2512.07833",
+      "pdf_url": "https://arxiv.org/pdf/2512.07833.pdf",
+      "published": "2025-12-08T18:59:56Z",
       "signals": {
-        "reddit_mentions": 2,
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 3,
+        "gh_stars": 26
+      },
+      "score": 3.2825
+    },
+    {
+      "id": "2512.08309",
+      "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise in Infinite, Real-Time Terrain Generation",
+      "authors": [
+        "Alexander Goslin"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.08309",
+      "pdf_url": "https://arxiv.org/pdf/2512.08309.pdf",
+      "published": "2025-12-09T07:10:35Z",
+      "signals": {
+        "reddit_mentions": 1,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 0
+        "gh_stars": 20
       },
-      "score": 3.5835
+      "score": 3.2198
     },
     {
       "id": "2512.06201",
@@ -238,29 +232,26 @@
       "score": 3.2189
     },
     {
-      "id": "2512.07833",
-      "title": "Relational Visual Similarity",
+      "id": "2512.07186",
+      "title": "START: Spatial and Textual Learning for Chart Understanding",
       "authors": [
-        "Thao Nguyen",
-        "Sicheng Mo",
-        "Krishna Kumar Singh",
-        "Yilin Wang",
-        "Jing Shi",
-        "Nicholas Kolkin",
-        "Eli Shechtman",
-        "Yong Jae Lee",
-        "Yuheng Li"
+        "Zhuoming Liu",
+        "Xiaofeng Gao",
+        "Feiyang Niu",
+        "Qiaozi Gao",
+        "Liu Liu",
+        "Robinson Piramuthu"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.07833",
-      "pdf_url": "https://arxiv.org/pdf/2512.07833.pdf",
-      "published": "2025-12-08T18:59:56Z",
+      "abs_url": "https://arxiv.org/abs/2512.07186",
+      "pdf_url": "https://arxiv.org/pdf/2512.07186.pdf",
+      "published": "2025-12-08T05:43:14Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 3,
-        "gh_stars": 17
+        "hf_count": 4,
+        "gh_stars": 0
       },
-      "score": 3.1849
+      "score": 3.2189
     },
     {
       "id": "2512.06951",
@@ -277,9 +268,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 70
+        "gh_stars": 85
       },
-      "score": 3.0339
+      "score": 3.1192
     },
     {
       "id": "2512.05106",
@@ -304,27 +295,24 @@
       "score": 2.7726
     },
     {
-      "id": "2512.04032",
-      "title": "Jina-VLM: Small Multilingual Vision Language Model",
+      "id": "2512.08777",
+      "title": "Fluent Alignment with Disfluent Judges: Post-training for Lower-resource Languages",
       "authors": [
-        "Andreas Koukounas",
-        "Georgios Mastrapas",
-        "Florian H\u00f6nicke",
-        "Sedigheh Eslami",
-        "Guillaume Roncari",
-        "Scott Martens",
-        "Han Xiao"
+        "David Samuel",
+        "Lilja \u00d8vrelid",
+        "Erik Velldal",
+        "Andrey Kutuzov"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.04032",
-      "pdf_url": "https://arxiv.org/pdf/2512.04032.pdf",
-      "published": "2025-12-03T18:13:41Z",
+      "abs_url": "https://arxiv.org/abs/2512.08777",
+      "pdf_url": "https://arxiv.org/pdf/2512.08777.pdf",
+      "published": "2025-12-09T16:31:48Z",
       "signals": {
-        "reddit_mentions": 1,
+        "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 1,
+        "hf_count": 2,
         "gh_stars": 0
       },
-      "score": 2.7726
+      "score": 2.1972
     },
     {
       "id": "2512.05212",
@@ -360,9 +348,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 23
+        "gh_stars": 30
       },
-      "score": 1.8659
+      "score": 1.934
     },
     {
       "id": "2512.05112",
@@ -411,30 +399,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 10
+        "gh_stars": 11
       },
-      "score": 1.7025
-    },
-    {
-      "id": "2512.03794",
-      "title": "AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition",
-      "authors": [
-        "Zichuan Lin",
-        "Yicheng Liu",
-        "Yang Yang",
-        "Lvfang Tao",
-        "Deheng Ye"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.03794",
-      "pdf_url": "https://arxiv.org/pdf/2512.03794.pdf",
-      "published": "2025-12-03T13:43:30Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 5
-      },
-      "score": 1.6099
+      "score": 1.718
     },
     {
       "id": "2512.05277",
@@ -460,6 +427,90 @@
         "gh_stars": 2
       },
       "score": 1.5277
+    },
+    {
+      "id": "2512.05325",
+      "title": "LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning",
+      "authors": [
+        "\u00d6mer Faruk Akg\u00fcl",
+        "Yusuf Hakan Kalayc\u0131",
+        "Rajgopal Kannan",
+        "Willie Neiswanger",
+        "Viktor Prasanna"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.05325",
+      "pdf_url": "https://arxiv.org/pdf/2512.05325.pdf",
+      "published": "2025-12-05T00:04:42Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 1
+      },
+      "score": 1.4863
+    },
+    {
+      "id": "2512.08478",
+      "title": "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform",
+      "authors": [
+        "Yuning Gong",
+        "Yifei Liu",
+        "Yifan Zhan",
+        "Muyao Niu",
+        "Xueying Li",
+        "Yuanjun Liao",
+        "Jiaming Chen",
+        "Yuanyuan Gao",
+        "Jiaqi Chen",
+        "Minming Chen",
+        "Li Zhou",
+        "Yuning Zhang",
+        "Wei Wang",
+        "Xiaoqing Hou",
+        "Huaxi Huang",
+        "Shixiang Tang",
+        "Le Ma",
+        "Dingwen Zhang",
+        "Xue Yang",
+        "Junchi Yan",
+        "Yanchi Zhang",
+        "Yinqiang Zheng",
+        "Xiao Sun",
+        "Zhihang Zhong"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.08478",
+      "pdf_url": "https://arxiv.org/pdf/2512.08478.pdf",
+      "published": "2025-12-09T10:54:58Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 201
+      },
+      "score": 1.4177
+    },
+    {
+      "id": "2512.09742",
+      "title": "Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs",
+      "authors": [
+        "Jan Betley",
+        "Jorio Cocola",
+        "Dylan Feng",
+        "James Chua",
+        "Andy Arditi",
+        "Anna Sztyber-Betley",
+        "Owain Evans"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.09742",
+      "pdf_url": "https://arxiv.org/pdf/2512.09742.pdf",
+      "published": "2025-12-10T15:21:41Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
     },
     {
       "id": "2512.08931",
@@ -603,14 +654,14 @@
       "score": 1.3863
     },
     {
-      "id": "2512.04276",
-      "title": "The Geometry of Benchmarks: A New Path Toward AGI",
+      "id": "2512.09317",
+      "title": "Functional Percolation: A Perspective on Criticality of Form and Function",
       "authors": [
-        "Przemyslaw Chojecki"
+        "Galen J. Wilkerson"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.04276",
-      "pdf_url": "https://arxiv.org/pdf/2512.04276.pdf",
-      "published": "2025-12-03T21:34:09Z",
+      "abs_url": "https://arxiv.org/abs/2512.09317",
+      "pdf_url": "https://arxiv.org/pdf/2512.09317.pdf",
+      "published": "2025-12-10T05:05:10Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -620,16 +671,40 @@
       "score": 1.3863
     },
     {
-      "id": "2512.03643",
-      "title": "Optical Context Compression Is Just (Bad) Autoencoding",
+      "id": "2512.08503",
+      "title": "Disrupting Hierarchical Reasoning: Adversarial Protection for Geographic Privacy in Multimodal Reasoning Models",
       "authors": [
-        "Ivan Yee Lee",
-        "Cheng Yang",
-        "Taylor Berg-Kirkpatrick"
+        "Jiaming Zhang",
+        "Che Wang",
+        "Yang Cao",
+        "Longtao Huang",
+        "Wei Yang Bryan Lim"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.03643",
-      "pdf_url": "https://arxiv.org/pdf/2512.03643.pdf",
-      "published": "2025-12-03T10:27:27Z",
+      "abs_url": "https://arxiv.org/abs/2512.08503",
+      "pdf_url": "https://arxiv.org/pdf/2512.08503.pdf",
+      "published": "2025-12-09T11:35:51Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2512.08290",
+      "title": "Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem",
+      "authors": [
+        "Shiva Gaire",
+        "Srijan Gyawali",
+        "Saroj Mishra",
+        "Suman Niroula",
+        "Dilip Thakur",
+        "Umesh Yadav"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.08290",
+      "pdf_url": "https://arxiv.org/pdf/2512.08290.pdf",
+      "published": "2025-12-09T06:39:21Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 1,
@@ -639,41 +714,21 @@
       "score": 1.3863
     },
     {
-      "id": "2512.03786",
-      "title": "Forensic Activity Classification Using Digital Traces from iPhones: A Machine Learning-based Approach",
+      "id": "2512.07829",
+      "title": "One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation",
       "authors": [
-        "Conor McCarthy",
-        "Jan Peter van Zandwijk",
-        "Marcel Worring",
-        "Zeno Geradts"
+        "Yuan Gao",
+        "Chen Chen",
+        "Tianrong Chen",
+        "Jiatao Gu"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.03786",
-      "pdf_url": "https://arxiv.org/pdf/2512.03786.pdf",
-      "published": "2025-12-03T13:37:12Z",
+      "abs_url": "https://arxiv.org/abs/2512.07829",
+      "pdf_url": "https://arxiv.org/pdf/2512.07829.pdf",
+      "published": "2025-12-08T18:57:26Z",
       "signals": {
         "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2512.08777",
-      "title": "Fluent Alignment with Disfluent Judges: Post-training for Lower-resource Languages",
-      "authors": [
-        "David Samuel",
-        "Lilja \u00d8vrelid",
-        "Erik Velldal",
-        "Andrey Kutuzov"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.08777",
-      "pdf_url": "https://arxiv.org/pdf/2512.08777.pdf",
-      "published": "2025-12-09T16:31:48Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
+        "hn_mentions": 1,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -777,32 +832,6 @@
       "score": 1.3863
     },
     {
-      "id": "2512.04031",
-      "title": "Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study",
-      "authors": [
-        "Yixuan Li",
-        "Yuhao Lu",
-        "Yang Liu",
-        "Liang Li",
-        "R. Ruffini",
-        "Di Li",
-        "Rong-Gen Cai",
-        "Xiaoyan Zhu",
-        "Wenbin Lin",
-        "Yu Wang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.04031",
-      "pdf_url": "https://arxiv.org/pdf/2512.04031.pdf",
-      "published": "2025-12-03T18:13:01Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2512.07805",
       "title": "Group Representational Position Encoding",
       "authors": [
@@ -823,28 +852,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 39
+        "gh_stars": 50
       },
-      "score": 0.6245
-    },
-    {
-      "id": "2512.04390",
-      "title": "FMA-Net++: Motion- and Exposure-Aware Real-World Joint Video Super-Resolution and Deblurring",
-      "authors": [
-        "Geunhyuk Youk",
-        "Jihyong Oh",
-        "Munchurl Kim"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.04390",
-      "pdf_url": "https://arxiv.org/pdf/2512.04390.pdf",
-      "published": "2025-12-04T02:23:52Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 30
-      },
-      "score": 0.5477
+      "score": 0.7071
     },
     {
       "id": "2512.06065",
@@ -870,130 +880,125 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 25
+        "gh_stars": 39
       },
-      "score": 0.5
+      "score": 0.6245
     },
     {
-      "id": "2512.04025",
-      "title": "PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation",
+      "id": "2512.09824",
+      "title": "Composing Concepts from Images and Videos via Concept-prompt Binding",
       "authors": [
-        "Xiaolong Li",
-        "Youping Gu",
-        "Xi Lin",
-        "Weijie Wang",
-        "Bohan Zhuang"
+        "Xianghao Kong",
+        "Zeyu Zhang",
+        "Yuwei Guo",
+        "Zhuoran Zhao",
+        "Songchun Zhang",
+        "Anyi Rao"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.04025",
-      "pdf_url": "https://arxiv.org/pdf/2512.04025.pdf",
-      "published": "2025-12-03T18:02:11Z",
+      "abs_url": "https://arxiv.org/abs/2512.09824",
+      "pdf_url": "https://arxiv.org/pdf/2512.09824.pdf",
+      "published": "2025-12-10T16:57:31Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 14
+        "gh_stars": 26
       },
-      "score": 0.3742
+      "score": 0.5099
     },
     {
-      "id": "2512.04000",
-      "title": "Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding",
+      "id": "2512.08829",
+      "title": "InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models",
       "authors": [
-        "Jialuo Li",
-        "Bin Li",
-        "Jiahao Li",
-        "Yan Lu"
+        "Hongyuan Tao",
+        "Bencheng Liao",
+        "Shaoyu Chen",
+        "Haoran Yin",
+        "Qian Zhang",
+        "Wenyu Liu",
+        "Xinggang Wang"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.04000",
-      "pdf_url": "https://arxiv.org/pdf/2512.04000.pdf",
-      "published": "2025-12-03T17:36:06Z",
+      "abs_url": "https://arxiv.org/abs/2512.08829",
+      "pdf_url": "https://arxiv.org/pdf/2512.08829.pdf",
+      "published": "2025-12-09T17:18:32Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 8
+        "gh_stars": 21
       },
-      "score": 0.2828
+      "score": 0.4583
     },
     {
-      "id": "2512.03540",
-      "title": "CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation",
+      "id": "2512.05033",
+      "title": "Arbitrage: Efficient Reasoning via Advantage-Aware Speculation",
       "authors": [
-        "Ruoxuan Zhang",
-        "Bin Wen",
-        "Hongxia Xie",
-        "Yi Yao",
-        "Songhan Zuo",
-        "Jian-Yu Jiang-Lin",
-        "Hong-Han Shuai",
-        "Wen-Huang Cheng"
+        "Monishwaran Maheswaran",
+        "Rishabh Tiwari",
+        "Yuezhou Hu",
+        "Kerem Dilmen",
+        "Coleman Hooper",
+        "Haocheng Xi",
+        "Nicholas Lee",
+        "Mehrdad Farajtabar",
+        "Michael W. Mahoney",
+        "Kurt Keutzer",
+        "Amir Gholami"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.03540",
-      "pdf_url": "https://arxiv.org/pdf/2512.03540.pdf",
-      "published": "2025-12-03T08:01:48Z",
+      "abs_url": "https://arxiv.org/abs/2512.05033",
+      "pdf_url": "https://arxiv.org/pdf/2512.05033.pdf",
+      "published": "2025-12-04T17:50:53Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 4
+        "gh_stars": 2
       },
-      "score": 0.2
+      "score": 0.1414
     },
     {
-      "id": "2512.08859",
-      "title": "Refining Diffusion Models for Motion Synthesis with an Acceleration Loss to Generate Realistic IMU Data",
+      "id": "2512.06776",
+      "title": "From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs",
       "authors": [
-        "Lars Ole H\u00e4usler",
-        "Lena Uhlenberg",
-        "G\u00f6ran K\u00f6ber",
-        "Diyora Salimova",
-        "Oliver Amft"
+        "Yuchuan Tian",
+        "Yuchen Liang",
+        "Jiacheng Sun",
+        "Shuo Zhang",
+        "Guangwen Yang",
+        "Yingte Shu",
+        "Sibo Fang",
+        "Tianyu Guo",
+        "Kai Han",
+        "Chao Xu",
+        "Hanting Chen",
+        "Xinghao Chen",
+        "Yunhe Wang"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.08859",
-      "pdf_url": "https://arxiv.org/pdf/2512.08859.pdf",
-      "published": "2025-12-09T17:51:01Z",
+      "abs_url": "https://arxiv.org/abs/2512.06776",
+      "pdf_url": "https://arxiv.org/pdf/2512.06776.pdf",
+      "published": "2025-12-07T10:28:21Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 0
+        "gh_stars": 1
       },
-      "score": 0.0
+      "score": 0.1
     },
     {
-      "id": "2512.08879",
-      "title": "DAO-GP Drift Aware Online Non-Linear Regression Gaussian-Process",
+      "id": "2512.09796",
+      "title": "Knowledge Diversion for Efficient Morphology Control and Policy Transfer",
       "authors": [
-        "Mohammad Abu-Shaira",
-        "Ajita Rattani",
-        "Weishi Shi"
+        "Fu Feng",
+        "Ruixiao Shi",
+        "Yucheng Xie",
+        "Jianlu Shen",
+        "Jing Wang",
+        "Xin Geng"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.08879",
-      "pdf_url": "https://arxiv.org/pdf/2512.08879.pdf",
-      "published": "2025-12-09T18:12:38Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 0.0
-    },
-    {
-      "id": "2512.08819",
-      "title": "Do Depth-Grown Models Overcome the Curse of Depth? An In-Depth Analysis",
-      "authors": [
-        "Ferdinand Kapl",
-        "Emmanouil Angelis",
-        "Tobias H\u00f6ppe",
-        "Kaitlin Maile",
-        "Johannes von Oswald",
-        "Nino Scherrer",
-        "Stefan Bauer"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.08819",
-      "pdf_url": "https://arxiv.org/pdf/2512.08819.pdf",
-      "published": "2025-12-09T17:12:04Z",
+      "abs_url": "https://arxiv.org/abs/2512.09796",
+      "pdf_url": "https://arxiv.org/pdf/2512.09796.pdf",
+      "published": "2025-12-10T16:11:51Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1003,18 +1008,17 @@
       "score": 0.0
     },
     {
-      "id": "2512.08870",
-      "title": "Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents",
+      "id": "2512.09800",
+      "title": "Ariel-ML: Computing Parallelization with Embedded Rust for Neural Networks on Heterogeneous Multi-core Microcontrollers",
       "authors": [
-        "Xiang Chen",
-        "Yuling Shi",
-        "Qizhen Lan",
-        "Yuchao Qiu",
-        "Xiaodong Gu"
+        "Zhaolan Huang",
+        "Kaspar Schleiser",
+        "Gyungmin Myung",
+        "Emmanuel Baccelli"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.08870",
-      "pdf_url": "https://arxiv.org/pdf/2512.08870.pdf",
-      "published": "2025-12-09T18:04:41Z",
+      "abs_url": "https://arxiv.org/abs/2512.09800",
+      "pdf_url": "https://arxiv.org/pdf/2512.09800.pdf",
+      "published": "2025-12-10T16:13:29Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1024,15 +1028,16 @@
       "score": 0.0
     },
     {
-      "id": "2512.08869",
-      "title": "Differentially Private Synthetic Data Generation Using Context-Aware GANs",
+      "id": "2512.09817",
+      "title": "A roadmap of geospatial soil quality analysis systems",
       "authors": [
-        "Anantaa Kotal",
-        "Anupam Joshi"
+        "Habiba BEN ABDERRAHMANE",
+        "Slimane Oulad-Naoui",
+        "Benameur ZIANI"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.08869",
-      "pdf_url": "https://arxiv.org/pdf/2512.08869.pdf",
-      "published": "2025-12-09T18:02:34Z",
+      "abs_url": "https://arxiv.org/abs/2512.09817",
+      "pdf_url": "https://arxiv.org/pdf/2512.09817.pdf",
+      "published": "2025-12-10T16:40:12Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1042,15 +1047,16 @@
       "score": 0.0
     },
     {
-      "id": "2512.08895",
-      "title": "Unsupervised Learning of Density Estimates with Topological Optimization",
+      "id": "2512.09810",
+      "title": "Incorporating Fairness in Neighborhood Graphs for Fair Spectral Clustering",
       "authors": [
-        "Suina Tanweer",
-        "Firas A. Khasawneh"
+        "Adithya K Moorthy",
+        "V Vijaya Saradhi",
+        "Bhanu Prasad"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.08895",
-      "pdf_url": "https://arxiv.org/pdf/2512.08895.pdf",
-      "published": "2025-12-09T18:35:51Z",
+      "abs_url": "https://arxiv.org/abs/2512.09810",
+      "pdf_url": "https://arxiv.org/pdf/2512.09810.pdf",
+      "published": "2025-12-10T16:25:24Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1060,16 +1066,16 @@
       "score": 0.0
     },
     {
-      "id": "2512.08810",
-      "title": "Multicalibration for LLM-based Code Generation",
+      "id": "2512.09829",
+      "title": "RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning",
       "authors": [
-        "Viola Campos",
-        "Robin Kuschnereit",
-        "Adrian Ulges"
+        "Khurram Khalil",
+        "Muhammad Mahad Khaliq",
+        "Khaza Anuarul Hoque"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.08810",
-      "pdf_url": "https://arxiv.org/pdf/2512.08810.pdf",
-      "published": "2025-12-09T17:04:01Z",
+      "abs_url": "https://arxiv.org/abs/2512.09829",
+      "pdf_url": "https://arxiv.org/pdf/2512.09829.pdf",
+      "published": "2025-12-10T17:07:19Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1079,21 +1085,20 @@
       "score": 0.0
     },
     {
-      "id": "2512.08772",
-      "title": "De novo generation of functional terpene synthases using TpsGPT",
+      "id": "2512.09929",
+      "title": "Closing the Train-Test Gap in World Models for Gradient-Based Planning",
       "authors": [
-        "Hamsini Ramanathan",
-        "Roman Bushuiev",
-        "Matou\u0161 Sold\u00e1t",
-        "Jir\u00ed Kohout",
-        "T\u00e9o Hebra",
-        "Joshua David Smith",
-        "Josef Sivic",
-        "Tom\u00e1\u0161 Pluskal"
+        "Arjun Parthasarathy",
+        "Nimit Kalra",
+        "Rohun Agrawal",
+        "Yann LeCun",
+        "Oumayma Bounou",
+        "Pavel Izmailov",
+        "Micah Goldblum"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.08772",
-      "pdf_url": "https://arxiv.org/pdf/2512.08772.pdf",
-      "published": "2025-12-09T16:29:53Z",
+      "abs_url": "https://arxiv.org/abs/2512.09929",
+      "pdf_url": "https://arxiv.org/pdf/2512.09929.pdf",
+      "published": "2025-12-10T18:59:45Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1103,18 +1108,15 @@
       "score": 0.0
     },
     {
-      "id": "2512.08854",
-      "title": "Generation is Required for Data-Efficient Perception",
+      "id": "2512.09779",
+      "title": "PathCo-LatticE: Pathology-Constrained Lattice-Of Experts Framework for Fully-supervised Few-Shot Cardiac MRI Segmentation",
       "authors": [
-        "Jack Brady",
-        "Bernhard Sch\u00f6lkopf",
-        "Thomas Kipf",
-        "Simon Buchholz",
-        "Wieland Brendel"
+        "Mohamed Elbayumi",
+        "Mohammed S. M. Elbaz"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.08854",
-      "pdf_url": "https://arxiv.org/pdf/2512.08854.pdf",
-      "published": "2025-12-09T17:47:28Z",
+      "abs_url": "https://arxiv.org/abs/2512.09779",
+      "pdf_url": "https://arxiv.org/pdf/2512.09779.pdf",
+      "published": "2025-12-10T15:59:43Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1124,25 +1126,35 @@
       "score": 0.0
     },
     {
-      "id": "2512.08896",
-      "title": "Open Polymer Challenge: Post-Competition Report",
+      "id": "2512.09784",
+      "title": "Predicting Polymer Solubility in Solvents Using SMILES Strings",
       "authors": [
-        "Gang Liu",
-        "Sobin Alosious",
-        "Subhamoy Mahajan",
-        "Eric Inae",
-        "Yihan Zhu",
-        "Yuhan Liu",
-        "Renzheng Zhang",
-        "Jiaxin Xu",
-        "Addison Howard",
-        "Ying Li",
-        "Tengfei Luo",
-        "Meng Jiang"
+        "Andrew Reinhard"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.08896",
-      "pdf_url": "https://arxiv.org/pdf/2512.08896.pdf",
-      "published": "2025-12-09T18:38:15Z",
+      "abs_url": "https://arxiv.org/abs/2512.09784",
+      "pdf_url": "https://arxiv.org/pdf/2512.09784.pdf",
+      "published": "2025-12-10T16:05:52Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
+    },
+    {
+      "id": "2512.09894",
+      "title": "Exploring Protein Language Model Architecture-Induced Biases for Antibody Comprehension",
+      "authors": [
+        "Mengren",
+        "Liu",
+        "Yixiang Zhang",
+        "Yiming",
+        "Zhang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.09894",
+      "pdf_url": "https://arxiv.org/pdf/2512.09894.pdf",
+      "published": "2025-12-10T18:22:51Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
