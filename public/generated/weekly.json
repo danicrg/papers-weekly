@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-12-20T08:16:37.841558Z",
+  "generated_utc": "2025-12-21T08:14:18.352034Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -215,9 +215,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 4,
-        "gh_stars": 33
+        "gh_stars": 36
       },
-      "score": 3.7933
+      "score": 3.8189
     },
     {
       "id": "2512.14692",
@@ -288,9 +288,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 21
+        "gh_stars": 23
       },
-      "score": 3.2308
+      "score": 3.2522
     },
     {
       "id": "2512.15489",
@@ -424,6 +424,23 @@
         "gh_stars": 0
       },
       "score": 2.7726
+    },
+    {
+      "id": "2512.13927",
+      "title": "A Complete Guide to Spherical Equivariant Graph Transformers",
+      "authors": [
+        "Sophia Tang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.13927",
+      "pdf_url": "https://arxiv.org/pdf/2512.13927.pdf",
+      "published": "2025-12-15T22:03:09Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 559
+      },
+      "score": 2.3643
     },
     {
       "id": "2512.16881",
@@ -608,9 +625,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 42
+        "gh_stars": 47
       },
-      "score": 2.0344
+      "score": 2.0719
     },
     {
       "id": "2512.13586",
@@ -628,9 +645,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 38
+        "gh_stars": 39
       },
-      "score": 2.0027
+      "score": 2.0108
     },
     {
       "id": "2512.13564",
@@ -691,9 +708,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 351
+        "gh_stars": 376
       },
-      "score": 1.8735
+      "score": 1.9391
     },
     {
       "id": "2512.16378",
@@ -742,9 +759,28 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 8
+        "gh_stars": 11
       },
-      "score": 1.6691
+      "score": 1.718
+    },
+    {
+      "id": "2512.14391",
+      "title": "RePo: Language Models with Context Re-Positioning",
+      "authors": [
+        "Huayang Li",
+        "Tianyu Zhao",
+        "Richard Sproat"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.14391",
+      "pdf_url": "https://arxiv.org/pdf/2512.14391.pdf",
+      "published": "2025-12-16T13:30:30Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 9
+      },
+      "score": 1.6863
     },
     {
       "id": "2512.16301",
@@ -792,9 +828,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 267
+        "gh_stars": 282
       },
-      "score": 1.634
+      "score": 1.6793
     },
     {
       "id": "2512.14697",
@@ -814,28 +850,32 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 5
+        "gh_stars": 6
       },
-      "score": 1.6099
+      "score": 1.6312
     },
     {
-      "id": "2512.14391",
-      "title": "RePo: Language Models with Context Re-Positioning",
+      "id": "2512.16270",
+      "title": "TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering",
       "authors": [
-        "Huayang Li",
-        "Tianyu Zhao",
-        "Richard Sproat"
+        "Rui Gui",
+        "Yang Wan",
+        "Haochen Han",
+        "Dongxing Mao",
+        "Fangming Liu",
+        "Min Li",
+        "Alex Jinpeng Wang"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.14391",
-      "pdf_url": "https://arxiv.org/pdf/2512.14391.pdf",
-      "published": "2025-12-16T13:30:30Z",
+      "abs_url": "https://arxiv.org/abs/2512.16270",
+      "pdf_url": "https://arxiv.org/pdf/2512.16270.pdf",
+      "published": "2025-12-18T07:37:08Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 4
+        "gh_stars": 2
       },
-      "score": 1.5863
+      "score": 1.5277
     },
     {
       "id": "2512.15567",
@@ -1027,6 +1067,27 @@
       "score": 1.3863
     },
     {
+      "id": "2512.16856",
+      "title": "Distributional AGI Safety",
+      "authors": [
+        "Nenad Toma\u0161ev",
+        "Matija Franklin",
+        "Julian Jacobs",
+        "S\u00e9bastien Krier",
+        "Simon Osindero"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.16856",
+      "pdf_url": "https://arxiv.org/pdf/2512.16856.pdf",
+      "published": "2025-12-18T18:29:50Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2512.16644",
       "title": "Implementing a Sharia Chatbot as a Consultation Medium for Questions About Islam",
       "authors": [
@@ -1044,29 +1105,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2512.16270",
-      "title": "TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering",
-      "authors": [
-        "Rui Gui",
-        "Yang Wan",
-        "Haochen Han",
-        "Dongxing Mao",
-        "Fangming Liu",
-        "Min Li",
-        "Alex Jinpeng Wang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.16270",
-      "pdf_url": "https://arxiv.org/pdf/2512.16270.pdf",
-      "published": "2025-12-18T07:37:08Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -1172,27 +1210,6 @@
       "score": 1.3863
     },
     {
-      "id": "2512.12921",
-      "title": "Cisco Integrated AI Security and Safety Framework Report",
-      "authors": [
-        "Amy Chang",
-        "Tiffany Saade",
-        "Sanket Mendapara",
-        "Adam Swanda",
-        "Ankit Garg"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.12921",
-      "pdf_url": "https://arxiv.org/pdf/2512.12921.pdf",
-      "published": "2025-12-15T02:12:12Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2512.14754",
       "title": "Revisiting the Reliability of Language Models in Instruction-Following",
       "authors": [
@@ -1216,18 +1233,21 @@
       "score": 1.3863
     },
     {
-      "id": "2512.12381",
-      "title": "Entropy Collapse: A Universal Failure Mode of Intelligent Systems",
+      "id": "2512.12921",
+      "title": "Cisco Integrated AI Security and Safety Framework Report",
       "authors": [
-        "Truong Xuan Khanh",
-        "Truong Quynh Hoa"
+        "Amy Chang",
+        "Tiffany Saade",
+        "Sanket Mendapara",
+        "Adam Swanda",
+        "Ankit Garg"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.12381",
-      "pdf_url": "https://arxiv.org/pdf/2512.12381.pdf",
-      "published": "2025-12-13T16:12:27Z",
+      "abs_url": "https://arxiv.org/abs/2512.12921",
+      "pdf_url": "https://arxiv.org/pdf/2512.12921.pdf",
+      "published": "2025-12-15T02:12:12Z",
       "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
         "hf_count": 0,
         "gh_stars": 0
       },
@@ -1261,9 +1281,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 85
+        "gh_stars": 86
       },
-      "score": 0.922
+      "score": 0.9274
     },
     {
       "id": "2512.12602",
@@ -1283,29 +1303,6 @@
         "gh_stars": 53
       },
       "score": 0.728
-    },
-    {
-      "id": "2512.15635",
-      "title": "IC-Effect: Precise and Efficient Video Effects Editing via In-Context Learning",
-      "authors": [
-        "Yuanhang Li",
-        "Yiren Song",
-        "Junzhe Bai",
-        "Xinran Liang",
-        "Hu Yang",
-        "Libiao Jin",
-        "Qi Mao"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.15635",
-      "pdf_url": "https://arxiv.org/pdf/2512.15635.pdf",
-      "published": "2025-12-17T17:47:18Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 34
-      },
-      "score": 0.5831
     }
   ]
 }
