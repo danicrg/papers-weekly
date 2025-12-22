@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-12-21T08:14:18.352034Z",
+  "generated_utc": "2025-12-22T08:18:29.553595Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -142,59 +142,150 @@
       "score": 4.3944
     },
     {
-      "id": "2512.13030",
-      "title": "Motus: A Unified Latent Action World Model",
+      "id": "2512.16705",
+      "title": "Olaf: Bringing an Animated Character to Life in the Physical World",
       "authors": [
-        "Hongzhe Bi",
-        "Hengkai Tan",
-        "Shenghao Xie",
-        "Zeyuan Wang",
-        "Shuhe Huang",
-        "Haitian Liu",
-        "Ruowen Zhao",
-        "Yao Feng",
-        "Chendong Xiang",
-        "Yinze Rong",
-        "Hongyan Zhao",
-        "Hanyu Liu",
-        "Zhizhong Su",
-        "Lei Ma",
-        "Hang Su",
-        "Jun Zhu"
+        "David M\u00fcller",
+        "Espen Knoop",
+        "Dario Mylonopoulos",
+        "Agon Serifi",
+        "Michael A. Hopkins",
+        "Ruben Grandia",
+        "Moritz B\u00e4cher"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.13030",
-      "pdf_url": "https://arxiv.org/pdf/2512.13030.pdf",
-      "published": "2025-12-15T06:58:40Z",
+      "abs_url": "https://arxiv.org/abs/2512.16705",
+      "pdf_url": "https://arxiv.org/pdf/2512.16705.pdf",
+      "published": "2025-12-18T16:10:18Z",
       "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 3,
+        "reddit_mentions": 3,
+        "hn_mentions": 1,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 4.1589
     },
     {
-      "id": "2512.12818",
-      "title": "Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects",
+      "id": "2512.16969",
+      "title": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
       "authors": [
-        "Chris Latimer",
-        "Nicol\u00f3 Boschi",
-        "Andrew Neeser",
-        "Chris Bartholomew",
-        "Gaurav Srivastava",
-        "Xuan Wang",
-        "Naren Ramakrishnan"
+        "Wanghan Xu",
+        "Yuhao Zhou",
+        "Yifan Zhou",
+        "Qinglong Cao",
+        "Shuo Li",
+        "Jia Bu",
+        "Bo Liu",
+        "Yixin Chen",
+        "Xuming He",
+        "Xiangyu Zhao",
+        "Xiang Zhuang",
+        "Fengxiang Wang",
+        "Zhiwang Zhou",
+        "Qiantai Feng",
+        "Wenxuan Huang",
+        "Jiaqi Wei",
+        "Hao Wu",
+        "Yuejin Yang",
+        "Guangshuai Wang",
+        "Sheng Xu",
+        "Ziyan Huang",
+        "Xinyao Liu",
+        "Jiyao Liu",
+        "Cheng Tang",
+        "Wei Li",
+        "Ying Chen",
+        "Junzhi Ning",
+        "Pengfei Jiang",
+        "Chenglong Ma",
+        "Ye Du",
+        "Changkai Ji",
+        "Huihui Xu",
+        "Ming Hu",
+        "Jiangbin Zheng",
+        "Xin Chen",
+        "Yucheng Wu",
+        "Feifei Jiang",
+        "Xi Chen",
+        "Xiangru Tang",
+        "Yuchen Fu",
+        "Yingzhou Lu",
+        "Yuanyuan Zhang",
+        "Lihao Sun",
+        "Chengbo Li",
+        "Jinzhe Ma",
+        "Wanhao Liu",
+        "Yating Liu",
+        "Kuo-Cheng Wu",
+        "Shengdu Chai",
+        "Yizhou Wang",
+        "Ouwen Zhangjin",
+        "Chen Tang",
+        "Shufei Zhang",
+        "Wenbo Cao",
+        "Junjie Ren",
+        "Taoyong Cui",
+        "Zhouheng Yao",
+        "Juntao Deng",
+        "Yijie Sun",
+        "Feng Liu",
+        "Wangxu Wei",
+        "Jingyi Xu",
+        "Zhangrui Li",
+        "Junchao Gong",
+        "Zijie Guo",
+        "Zhiyu Yao",
+        "Zaoyu Chen",
+        "Tianhao Peng",
+        "Fangchen Yu",
+        "Bo Zhang",
+        "Dongzhan Zhou",
+        "Shixiang Tang",
+        "Jiaheng Liu",
+        "Fenghua Ling",
+        "Yan Lu",
+        "Yuchen Ren",
+        "Ben Fei",
+        "Zhen Zhao",
+        "Xinyu Gu",
+        "Rui Su",
+        "Xiao-Ming Wu",
+        "Weikang Si",
+        "Yang Liu",
+        "Hao Chen",
+        "Xiangchao Yan",
+        "Xue Yang",
+        "Junchi Yan",
+        "Jiamin Wu",
+        "Qihao Zheng",
+        "Chenhui Li",
+        "Zhiqiang Gao",
+        "Hao Kong",
+        "Junjun He",
+        "Mao Su",
+        "Tianfan Fu",
+        "Peng Ye",
+        "Chunfeng Song",
+        "Nanqing Dong",
+        "Yuqiang Li",
+        "Huazhu Fu",
+        "Siqi Sun",
+        "Lijing Cheng",
+        "Jintai Lin",
+        "Wanli Ouyang",
+        "Bowen Zhou",
+        "Wenlong Zhang",
+        "Lei Bai"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.12818",
-      "pdf_url": "https://arxiv.org/pdf/2512.12818.pdf",
-      "published": "2025-12-14T19:47:23Z",
+      "abs_url": "https://arxiv.org/abs/2512.16969",
+      "pdf_url": "https://arxiv.org/pdf/2512.16969.pdf",
+      "published": "2025-12-18T12:44:36Z",
       "signals": {
-        "reddit_mentions": 7,
+        "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
+        "hf_count": 5,
+        "gh_stars": 19
       },
-      "score": 4.1589
+      "score": 4.0194
     },
     {
       "id": "2512.14698",
@@ -215,9 +306,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 4,
-        "gh_stars": 36
+        "gh_stars": 44
       },
-      "score": 3.8189
+      "score": 3.8822
     },
     {
       "id": "2512.14692",
@@ -247,52 +338,6 @@
       "score": 3.5835
     },
     {
-      "id": "2512.13399",
-      "title": "Differentiable Evolutionary Reinforcement Learning",
-      "authors": [
-        "Sitao Cheng",
-        "Tianle Li",
-        "Xuhan Huang",
-        "Xunjian Yin",
-        "Difan Zou"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.13399",
-      "pdf_url": "https://arxiv.org/pdf/2512.13399.pdf",
-      "published": "2025-12-15T14:50:08Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 5,
-        "gh_stars": 0
-      },
-      "score": 3.5835
-    },
-    {
-      "id": "2512.12675",
-      "title": "Scone: Bridging Composition and Distinction in Subject-Driven Image Generation via Unified Understanding-Generation Modeling",
-      "authors": [
-        "Yuran Wang",
-        "Bohan Zeng",
-        "Chengzhuo Tong",
-        "Wenxuan Liu",
-        "Yang Shi",
-        "Xiaochen Ma",
-        "Hao Liang",
-        "Yuanxing Zhang",
-        "Wentao Zhang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.12675",
-      "pdf_url": "https://arxiv.org/pdf/2512.12675.pdf",
-      "published": "2025-12-14T12:58:19Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 3,
-        "gh_stars": 23
-      },
-      "score": 3.2522
-    },
-    {
       "id": "2512.15489",
       "title": "Nemotron-Math: Efficient Long-Context Distillation of Mathematical Reasoning from Multi-Mode Supervision",
       "authors": [
@@ -319,27 +364,54 @@
       "score": 3.2189
     },
     {
-      "id": "2512.16705",
-      "title": "Olaf: Bringing an Animated Character to Life in the Physical World",
+      "id": "2512.16301",
+      "title": "Adaptation of Agentic AI",
       "authors": [
-        "David M\u00fcller",
-        "Espen Knoop",
-        "Dario Mylonopoulos",
-        "Agon Serifi",
-        "Michael A. Hopkins",
-        "Ruben Grandia",
-        "Moritz B\u00e4cher"
+        "Pengcheng Jiang",
+        "Jiacheng Lin",
+        "Zhiyi Shi",
+        "Zifeng Wang",
+        "Luxi He",
+        "Yichen Wu",
+        "Ming Zhong",
+        "Peiyang Song",
+        "Qizheng Zhang",
+        "Heng Wang",
+        "Xueqiang Xu",
+        "Hanwen Xu",
+        "Pengrui Han",
+        "Dylan Zhang",
+        "Jiashuo Sun",
+        "Chaoqi Yang",
+        "Kun Qian",
+        "Tian Wang",
+        "Changran Hu",
+        "Manling Li",
+        "Quanzheng Li",
+        "Hao Peng",
+        "Sheng Wang",
+        "Jingbo Shang",
+        "Chao Zhang",
+        "Jiaxuan You",
+        "Liyuan Liu",
+        "Pan Lu",
+        "Yu Zhang",
+        "Heng Ji",
+        "Yejin Choi",
+        "Dawn Song",
+        "Jimeng Sun",
+        "Jiawei Han"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.16705",
-      "pdf_url": "https://arxiv.org/pdf/2512.16705.pdf",
-      "published": "2025-12-18T16:10:18Z",
+      "abs_url": "https://arxiv.org/abs/2512.16301",
+      "pdf_url": "https://arxiv.org/pdf/2512.16301.pdf",
+      "published": "2025-12-18T08:38:51Z",
       "signals": {
-        "reddit_mentions": 3,
-        "hn_mentions": 0,
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 0
+        "gh_stars": 293
       },
-      "score": 2.7726
+      "score": 3.098
     },
     {
       "id": "2512.16083",
@@ -406,17 +478,18 @@
       "score": 2.7726
     },
     {
-      "id": "2512.13752",
-      "title": "STAR: STacked AutoRegressive Scheme for Unified Multimodal Learning",
+      "id": "2512.13399",
+      "title": "Differentiable Evolutionary Reinforcement Learning",
       "authors": [
-        "Jie Qin",
-        "Jiancheng Huang",
-        "Limeng Qiao",
-        "Lin Ma"
+        "Sitao Cheng",
+        "Tianle Li",
+        "Xuhan Huang",
+        "Xunjian Yin",
+        "Difan Zou"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.13752",
-      "pdf_url": "https://arxiv.org/pdf/2512.13752.pdf",
-      "published": "2025-12-15T07:02:59Z",
+      "abs_url": "https://arxiv.org/abs/2512.13399",
+      "pdf_url": "https://arxiv.org/pdf/2512.13399.pdf",
+      "published": "2025-12-15T14:50:08Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -438,9 +511,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 559
+        "gh_stars": 560
       },
-      "score": 2.3643
+      "score": 2.3664
     },
     {
       "id": "2512.16881",
@@ -561,6 +634,27 @@
       "score": 2.1972
     },
     {
+      "id": "2512.16856",
+      "title": "Distributional AGI Safety",
+      "authors": [
+        "Nenad Toma\u0161ev",
+        "Matija Franklin",
+        "Julian Jacobs",
+        "S\u00e9bastien Krier",
+        "Simon Osindero"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.16856",
+      "pdf_url": "https://arxiv.org/pdf/2512.16856.pdf",
+      "published": "2025-12-18T18:29:50Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 2,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 2.1972
+    },
+    {
       "id": "2512.14244",
       "title": "From Context to EDUs: Faithful and Structured Context Compression via Elementary Discourse Unit Decomposition",
       "authors": [
@@ -587,25 +681,6 @@
       "score": 2.1972
     },
     {
-      "id": "2512.12620",
-      "title": "Understanding Syllogistic Reasoning in LLMs from Formal and Natural Language Perspectives",
-      "authors": [
-        "Aheli Poddar",
-        "Saptarshi Sahoo",
-        "Sujata Ghosh"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.12620",
-      "pdf_url": "https://arxiv.org/pdf/2512.12620.pdf",
-      "published": "2025-12-14T09:50:10Z",
-      "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
       "id": "2512.14693",
       "title": "Universal Reasoning Model",
       "authors": [
@@ -625,9 +700,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 47
+        "gh_stars": 51
       },
-      "score": 2.0719
+      "score": 2.1004
     },
     {
       "id": "2512.13586",
@@ -645,9 +720,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 39
+        "gh_stars": 42
       },
-      "score": 2.0108
+      "score": 2.0344
     },
     {
       "id": "2512.13564",
@@ -708,9 +783,36 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 376
+        "gh_stars": 399
       },
-      "score": 1.9391
+      "score": 1.9975
+    },
+    {
+      "id": "2512.13592",
+      "title": "Image Diffusion Preview with Consistency Solver",
+      "authors": [
+        "Fu-Yun Wang",
+        "Hao Zhou",
+        "Liangzhe Yuan",
+        "Sanghyun Woo",
+        "Boqing Gong",
+        "Bohyung Han",
+        "Ming-Hsuan Yang",
+        "Han Zhang",
+        "Yukun Zhu",
+        "Ting Liu",
+        "Long Zhao"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.13592",
+      "pdf_url": "https://arxiv.org/pdf/2512.13592.pdf",
+      "published": "2025-12-15T17:47:49Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 20
+      },
+      "score": 1.8335
     },
     {
       "id": "2512.16378",
@@ -735,9 +837,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 13
+        "gh_stars": 16
       },
-      "score": 1.7468
+      "score": 1.7863
     },
     {
       "id": "2512.15649",
@@ -778,59 +880,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 9
+        "gh_stars": 10
       },
-      "score": 1.6863
-    },
-    {
-      "id": "2512.16301",
-      "title": "Adaptation of Agentic AI",
-      "authors": [
-        "Pengcheng Jiang",
-        "Jiacheng Lin",
-        "Zhiyi Shi",
-        "Zifeng Wang",
-        "Luxi He",
-        "Yichen Wu",
-        "Ming Zhong",
-        "Peiyang Song",
-        "Qizheng Zhang",
-        "Heng Wang",
-        "Xueqiang Xu",
-        "Hanwen Xu",
-        "Pengrui Han",
-        "Dylan Zhang",
-        "Jiashuo Sun",
-        "Chaoqi Yang",
-        "Kun Qian",
-        "Tian Wang",
-        "Changran Hu",
-        "Manling Li",
-        "Quanzheng Li",
-        "Hao Peng",
-        "Sheng Wang",
-        "Jingbo Shang",
-        "Chao Zhang",
-        "Jiaxuan You",
-        "Liyuan Liu",
-        "Pan Lu",
-        "Yu Zhang",
-        "Heng Ji",
-        "Yejin Choi",
-        "Dawn Song",
-        "Jimeng Sun",
-        "Jiawei Han"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.16301",
-      "pdf_url": "https://arxiv.org/pdf/2512.16301.pdf",
-      "published": "2025-12-18T08:38:51Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 282
-      },
-      "score": 1.6793
+      "score": 1.7025
     },
     {
       "id": "2512.14697",
@@ -850,9 +902,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 6
+        "gh_stars": 8
       },
-      "score": 1.6312
+      "score": 1.6691
     },
     {
       "id": "2512.16270",
@@ -876,6 +928,57 @@
         "gh_stars": 2
       },
       "score": 1.5277
+    },
+    {
+      "id": "2512.16676",
+      "title": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI",
+      "authors": [
+        "Hao Liang",
+        "Xiaochen Ma",
+        "Zhou Liu",
+        "Zhen Hao Wong",
+        "Zhengyang Zhao",
+        "Zimo Meng",
+        "Runming He",
+        "Chengyu Shen",
+        "Qifeng Cai",
+        "Zhaoyang Han",
+        "Meiyi Qiang",
+        "Yalin Feng",
+        "Tianyi Bai",
+        "Zewei Pan",
+        "Ziyi Guo",
+        "Yizhen Jiang",
+        "Jingwen Deng",
+        "Qijie You",
+        "Peichao Lai",
+        "Tianyu Guo",
+        "Chi Hsu Tsai",
+        "Hengyi Feng",
+        "Rui Hu",
+        "Wenkai Yu",
+        "Junbo Niu",
+        "Bohan Zeng",
+        "Ruichuan An",
+        "Lu Ma",
+        "Jihao Huang",
+        "Yaowei Zheng",
+        "Conghui He",
+        "Linpeng Tang",
+        "Bin Cui",
+        "Weinan E",
+        "Wentao Zhang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.16676",
+      "pdf_url": "https://arxiv.org/pdf/2512.16676.pdf",
+      "published": "2025-12-18T15:46:15Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
     },
     {
       "id": "2512.15567",
@@ -1067,21 +1170,23 @@
       "score": 1.3863
     },
     {
-      "id": "2512.16856",
-      "title": "Distributional AGI Safety",
+      "id": "2512.13093",
+      "title": "PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations",
       "authors": [
-        "Nenad Toma\u0161ev",
-        "Matija Franklin",
-        "Julian Jacobs",
-        "S\u00e9bastien Krier",
-        "Simon Osindero"
+        "Mingqi Yuan",
+        "Tao Yu",
+        "Haolin Song",
+        "Bo Li",
+        "Xin Jin",
+        "Hua Chen",
+        "Wenjun Zeng"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.16856",
-      "pdf_url": "https://arxiv.org/pdf/2512.16856.pdf",
-      "published": "2025-12-18T18:29:50Z",
+      "abs_url": "https://arxiv.org/abs/2512.13093",
+      "pdf_url": "https://arxiv.org/pdf/2512.13093.pdf",
+      "published": "2025-12-15T08:50:20Z",
       "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
         "hf_count": 0,
         "gh_stars": 0
       },
@@ -1210,50 +1315,6 @@
       "score": 1.3863
     },
     {
-      "id": "2512.14754",
-      "title": "Revisiting the Reliability of Language Models in Instruction-Following",
-      "authors": [
-        "Jianshuo Dong",
-        "Yutong Zhang",
-        "Yan Liu",
-        "Zhenyu Zhong",
-        "Tao Wei",
-        "Chao Zhang",
-        "Han Qiu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.14754",
-      "pdf_url": "https://arxiv.org/pdf/2512.14754.pdf",
-      "published": "2025-12-15T02:57:55Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2512.12921",
-      "title": "Cisco Integrated AI Security and Safety Framework Report",
-      "authors": [
-        "Amy Chang",
-        "Tiffany Saade",
-        "Sanket Mendapara",
-        "Adam Swanda",
-        "Ankit Garg"
-      ],
-      "abs_url": "https://arxiv.org/abs/2512.12921",
-      "pdf_url": "https://arxiv.org/pdf/2512.12921.pdf",
-      "published": "2025-12-15T02:12:12Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2512.14051",
       "title": "OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value",
       "authors": [
@@ -1286,23 +1347,88 @@
       "score": 0.9274
     },
     {
-      "id": "2512.12602",
-      "title": "Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics",
+      "id": "2512.15657",
+      "title": "SoFlow: Solution Flow Models for One-Step Generative Modeling",
       "authors": [
-        "Jingdi Lei",
-        "Di Zhang",
-        "Soujanya Poria"
+        "Tianze Luo",
+        "Haotian Yuan",
+        "Zhuang Liu"
       ],
-      "abs_url": "https://arxiv.org/abs/2512.12602",
-      "pdf_url": "https://arxiv.org/pdf/2512.12602.pdf",
-      "published": "2025-12-14T08:51:02Z",
+      "abs_url": "https://arxiv.org/abs/2512.15657",
+      "pdf_url": "https://arxiv.org/pdf/2512.15657.pdf",
+      "published": "2025-12-17T18:10:17Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 53
+        "gh_stars": 57
       },
-      "score": 0.728
+      "score": 0.755
+    },
+    {
+      "id": "2512.15635",
+      "title": "IC-Effect: Precise and Efficient Video Effects Editing via In-Context Learning",
+      "authors": [
+        "Yuanhang Li",
+        "Yiren Song",
+        "Junzhe Bai",
+        "Xinran Liang",
+        "Hu Yang",
+        "Libiao Jin",
+        "Qi Mao"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.15635",
+      "pdf_url": "https://arxiv.org/pdf/2512.15635.pdf",
+      "published": "2025-12-17T17:47:18Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 34
+      },
+      "score": 0.5831
+    },
+    {
+      "id": "2512.16106",
+      "title": "ModelTables: A Corpus of Tables about Models",
+      "authors": [
+        "Zhengyuan Dong",
+        "Victor Zhong",
+        "Ren\u00e9e J. Miller"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.16106",
+      "pdf_url": "https://arxiv.org/pdf/2512.16106.pdf",
+      "published": "2025-12-18T02:51:46Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 12
+      },
+      "score": 0.3464
+    },
+    {
+      "id": "2512.15374",
+      "title": "SCOPE: Prompt Evolution for Enhancing Agent Effectiveness",
+      "authors": [
+        "Zehua Pei",
+        "Hui-Ling Zhen",
+        "Shixiong Kai",
+        "Sinno Jialin Pan",
+        "Yunhe Wang",
+        "Mingxuan Yuan",
+        "Bei Yu"
+      ],
+      "abs_url": "https://arxiv.org/abs/2512.15374",
+      "pdf_url": "https://arxiv.org/pdf/2512.15374.pdf",
+      "published": "2025-12-17T12:25:05Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 10
+      },
+      "score": 0.3162
     }
   ]
 }
