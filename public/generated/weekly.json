@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-10T08:18:49.891695Z",
+  "generated_utc": "2026-01-11T08:16:30.567337Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -8,6 +8,26 @@
   ],
   "top_n": 50,
   "papers": [
+    {
+      "id": "2601.02671",
+      "title": "Extracting books from production language models",
+      "authors": [
+        "Ahmed Ahmed",
+        "A. Feder Cooper",
+        "Sanmi Koyejo",
+        "Percy Liang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.02671",
+      "pdf_url": "https://arxiv.org/pdf/2601.02671.pdf",
+      "published": "2026-01-06T03:01:27Z",
+      "signals": {
+        "reddit_mentions": 5,
+        "hn_mentions": 3,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 6.3561
+    },
     {
       "id": "2601.02427",
       "title": "NitroGen: An Open Foundation Model for Generalist Gaming Agents",
@@ -34,9 +54,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 1556
+        "gh_stars": 1573
       },
-      "score": 6.1418
+      "score": 6.1633
     },
     {
       "id": "2601.02316",
@@ -103,6 +123,35 @@
         "reddit_mentions": 1,
         "hn_mentions": 2,
         "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 3.5835
+    },
+    {
+      "id": "2601.01802",
+      "title": "PsychEval: A Multi-Session and Multi-Therapy Benchmark for High-Realism AI Psychological Counselor",
+      "authors": [
+        "Qianjun Pan",
+        "Junyi Wang",
+        "Jie Zhou",
+        "Yutao Yang",
+        "Junsong Li",
+        "Kaiyin Xu",
+        "Yougen Zhou",
+        "Yihan Li",
+        "Jingyuan Zhao",
+        "Qin Chen",
+        "Ningning Zhou",
+        "Kai Chen",
+        "Liang He"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.01802",
+      "pdf_url": "https://arxiv.org/pdf/2601.01802.pdf",
+      "published": "2026-01-05T05:26:57Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 0,
+        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 3.5835
@@ -209,9 +258,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 45
+        "gh_stars": 47
       },
-      "score": 3.4434
+      "score": 3.4582
     },
     {
       "id": "2601.04575",
@@ -231,9 +280,38 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 21
+        "gh_stars": 27
       },
-      "score": 3.2308
+      "score": 3.2922
+    },
+    {
+      "id": "2601.05242",
+      "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
+      "authors": [
+        "Shih-Yang Liu",
+        "Xin Dong",
+        "Ximing Lu",
+        "Shizhe Diao",
+        "Peter Belcak",
+        "Mingjie Liu",
+        "Min-Hung Chen",
+        "Hongxu Yin",
+        "Yu-Chiang Frank Wang",
+        "Kwang-Ting Cheng",
+        "Yejin Choi",
+        "Jan Kautz",
+        "Pavlo Molchanov"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.05242",
+      "pdf_url": "https://arxiv.org/pdf/2601.05242.pdf",
+      "published": "2026-01-08T18:59:24Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 111
+      },
+      "score": 3.2508
     },
     {
       "id": "2601.03786",
@@ -450,38 +528,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 975
+        "gh_stars": 978
       },
-      "score": 3.1225
-    },
-    {
-      "id": "2601.05242",
-      "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
-      "authors": [
-        "Shih-Yang Liu",
-        "Xin Dong",
-        "Ximing Lu",
-        "Shizhe Diao",
-        "Peter Belcak",
-        "Mingjie Liu",
-        "Min-Hung Chen",
-        "Hongxu Yin",
-        "Yu-Chiang Frank Wang",
-        "Kwang-Ting Cheng",
-        "Yejin Choi",
-        "Jan Kautz",
-        "Pavlo Molchanov"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.05242",
-      "pdf_url": "https://arxiv.org/pdf/2601.05242.pdf",
-      "published": "2026-01-08T18:59:24Z",
-      "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 64
-      },
-      "score": 2.9972
+      "score": 3.1273
     },
     {
       "id": "2601.03326",
@@ -583,25 +632,53 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 174
+        "gh_stars": 191
       },
-      "score": 2.7054
+      "score": 2.7683
     },
     {
-      "id": "2601.02671",
-      "title": "Extracting books from production language models",
+      "id": "2601.02553",
+      "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
       "authors": [
-        "Ahmed Ahmed",
-        "A. Feder Cooper",
-        "Sanmi Koyejo",
-        "Percy Liang"
+        "Jiaqi Liu",
+        "Yaofeng Su",
+        "Peng Xia",
+        "Siwei Han",
+        "Zeyu Zheng",
+        "Cihang Xie",
+        "Mingyu Ding",
+        "Huaxiu Yao"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.02671",
-      "pdf_url": "https://arxiv.org/pdf/2601.02671.pdf",
-      "published": "2026-01-06T03:01:27Z",
+      "abs_url": "https://arxiv.org/abs/2601.02553",
+      "pdf_url": "https://arxiv.org/pdf/2601.02553.pdf",
+      "published": "2026-01-05T21:02:49Z",
       "signals": {
         "reddit_mentions": 0,
-        "hn_mentions": 2,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 569
+      },
+      "score": 2.3854
+    },
+    {
+      "id": "2601.04262",
+      "title": "Safety-Utility Conflicts Are Not Global: Surgical Alignment via Head-Level Diagnosis",
+      "authors": [
+        "Wang Cai",
+        "Yilin Wen",
+        "Jinchang Hou",
+        "Du Su",
+        "Guoqiu Wang",
+        "Zhonghou Lv",
+        "Chenfu Bao",
+        "Yunfang Wu"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.04262",
+      "pdf_url": "https://arxiv.org/pdf/2601.04262.pdf",
+      "published": "2026-01-07T06:09:52Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 0,
         "hf_count": 0,
         "gh_stars": 0
       },
@@ -716,28 +793,29 @@
       "score": 2.1972
     },
     {
-      "id": "2601.02553",
-      "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+      "id": "2601.02151",
+      "title": "Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting",
       "authors": [
-        "Jiaqi Liu",
-        "Yaofeng Su",
-        "Peng Xia",
-        "Siwei Han",
-        "Zeyu Zheng",
-        "Cihang Xie",
-        "Mingyu Ding",
-        "Huaxiu Yao"
+        "Muxi Diao",
+        "Lele Yang",
+        "Wuxuan Gong",
+        "Yutong Zhang",
+        "Zhonghao Yan",
+        "Yufei Han",
+        "Kongming Liang",
+        "Weiran Xu",
+        "Zhanyu Ma"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.02553",
-      "pdf_url": "https://arxiv.org/pdf/2601.02553.pdf",
-      "published": "2026-01-05T21:02:49Z",
+      "abs_url": "https://arxiv.org/abs/2601.02151",
+      "pdf_url": "https://arxiv.org/pdf/2601.02151.pdf",
+      "published": "2026-01-05T14:28:17Z",
       "signals": {
-        "reddit_mentions": 0,
+        "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 428
+        "gh_stars": 41
       },
-      "score": 2.0688
+      "score": 2.0266
     },
     {
       "id": "2601.01528",
@@ -794,6 +872,24 @@
         "reddit_mentions": 0,
         "hn_mentions": 1,
         "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.04878",
+      "title": "Higher-Order Knowledge Representations for Agentic Scientific Reasoning",
+      "authors": [
+        "Isabella A. Stewart",
+        "Markus J. Buehler"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.04878",
+      "pdf_url": "https://arxiv.org/pdf/2601.04878.pdf",
+      "published": "2026-01-08T12:25:37Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -991,24 +1087,6 @@
       "score": 1.3863
     },
     {
-      "id": "2601.03610",
-      "title": "Investigation into respiratory sound classification for an imbalanced data set using hybrid LSTM-KAN architectures",
-      "authors": [
-        "Nithinkumar K.",
-        "Anand R"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.03610",
-      "pdf_url": "https://arxiv.org/pdf/2601.03610.pdf",
-      "published": "2026-01-07T05:37:57Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2601.03515",
       "title": "Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents",
       "authors": [
@@ -1030,6 +1108,47 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.03610",
+      "title": "Investigation into respiratory sound classification for an imbalanced data set using hybrid LSTM-KAN architectures",
+      "authors": [
+        "Nithinkumar K.",
+        "Anand R"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.03610",
+      "pdf_url": "https://arxiv.org/pdf/2601.03610.pdf",
+      "published": "2026-01-07T05:37:57Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.03335",
+      "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
+      "authors": [
+        "Akarsh Kumar",
+        "Ryan Bahlous-Boldi",
+        "Prafull Sharma",
+        "Phillip Isola",
+        "Sebastian Risi",
+        "Yujin Tang",
+        "David Ha"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.03335",
+      "pdf_url": "https://arxiv.org/pdf/2601.03335.pdf",
+      "published": "2026-01-06T18:58:17Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -1110,29 +1229,6 @@
       "score": 1.3863
     },
     {
-      "id": "2601.03335",
-      "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
-      "authors": [
-        "Akarsh Kumar",
-        "Ryan Bahlous-Boldi",
-        "Prafull Sharma",
-        "Phillip Isola",
-        "Sebastian Risi",
-        "Yujin Tang",
-        "David Ha"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.03335",
-      "pdf_url": "https://arxiv.org/pdf/2601.03335.pdf",
-      "published": "2026-01-06T18:58:17Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2601.02872",
       "title": "LongBench Pro: A More Realistic and Comprehensive Bilingual Long-Context Evaluation Benchmark",
       "authors": [
@@ -1176,35 +1272,6 @@
       "score": 1.3863
     },
     {
-      "id": "2601.01802",
-      "title": "PsychEval: A Multi-Session and Multi-Therapy Benchmark for High-Realism AI Psychological Counselor",
-      "authors": [
-        "Qianjun Pan",
-        "Junyi Wang",
-        "Jie Zhou",
-        "Yutao Yang",
-        "Junsong Li",
-        "Kaiyin Xu",
-        "Yougen Zhou",
-        "Yihan Li",
-        "Jingyuan Zhao",
-        "Qin Chen",
-        "Ningning Zhou",
-        "Kai Chen",
-        "Liang He"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.01802",
-      "pdf_url": "https://arxiv.org/pdf/2601.01802.pdf",
-      "published": "2026-01-05T05:26:57Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2601.04890",
       "title": "Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers",
       "authors": [
@@ -1222,9 +1289,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 98
+        "gh_stars": 99
       },
-      "score": 0.9899
+      "score": 0.995
     },
     {
       "id": "2601.03193",
@@ -1255,31 +1322,6 @@
       "score": 0.6557
     },
     {
-      "id": "2601.02151",
-      "title": "Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting",
-      "authors": [
-        "Muxi Diao",
-        "Lele Yang",
-        "Wuxuan Gong",
-        "Yutong Zhang",
-        "Zhonghao Yan",
-        "Yufei Han",
-        "Kongming Liang",
-        "Weiran Xu",
-        "Zhanyu Ma"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.02151",
-      "pdf_url": "https://arxiv.org/pdf/2601.02151.pdf",
-      "published": "2026-01-05T14:28:17Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 39
-      },
-      "score": 0.6245
-    },
-    {
       "id": "2601.05111",
       "title": "Agent-as-a-Judge",
       "authors": [
@@ -1295,6 +1337,28 @@
       "abs_url": "https://arxiv.org/abs/2601.05111",
       "pdf_url": "https://arxiv.org/pdf/2601.05111.pdf",
       "published": "2026-01-08T16:58:10Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 17
+      },
+      "score": 0.4123
+    },
+    {
+      "id": "2601.05167",
+      "title": "RelayLLM: Efficient Reasoning via Collaborative Decoding",
+      "authors": [
+        "Chengsong Huang",
+        "Tong Zheng",
+        "Langlin Huang",
+        "Jinyuan Li",
+        "Haolin Liu",
+        "Jiaxin Huang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.05167",
+      "pdf_url": "https://arxiv.org/pdf/2601.05167.pdf",
+      "published": "2026-01-08T17:56:16Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1326,9 +1390,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 8
+        "gh_stars": 12
       },
-      "score": 0.2828
+      "score": 0.3464
     },
     {
       "id": "2601.01576",
@@ -1370,96 +1434,6 @@
       "score": 0.2828
     },
     {
-      "id": "2601.05167",
-      "title": "RelayLLM: Efficient Reasoning via Collaborative Decoding",
-      "authors": [
-        "Chengsong Huang",
-        "Tong Zheng",
-        "Langlin Huang",
-        "Jinyuan Li",
-        "Haolin Liu",
-        "Jiaxin Huang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.05167",
-      "pdf_url": "https://arxiv.org/pdf/2601.05167.pdf",
-      "published": "2026-01-08T17:56:16Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 6
-      },
-      "score": 0.2449
-    },
-    {
-      "id": "2601.01321",
-      "title": "Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models",
-      "authors": [
-        "Rong Zhou",
-        "Dongping Chen",
-        "Zihan Jia",
-        "Yao Su",
-        "Yixin Liu",
-        "Yiwen Lu",
-        "Dongwei Shi",
-        "Yue Huang",
-        "Tianyang Xu",
-        "Yi Pan",
-        "Xinliang Li",
-        "Yohannes Abate",
-        "Qingyu Chen",
-        "Zhengzhong Tu",
-        "Yu Yang",
-        "Yu Zhang",
-        "Qingsong Wen",
-        "Gengchen Mai",
-        "Sunyang Fu",
-        "Jiachen Li",
-        "Xuyu Wang",
-        "Ziran Wang",
-        "Jing Huang",
-        "Tianming Liu",
-        "Yong Chen",
-        "Lichao Sun",
-        "Lifang He"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.01321",
-      "pdf_url": "https://arxiv.org/pdf/2601.01321.pdf",
-      "published": "2026-01-04T01:17:09Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 6
-      },
-      "score": 0.2449
-    },
-    {
-      "id": "2601.04767",
-      "title": "AT$^2$PO: Agentic Turn-based Policy Optimization via Tree Search",
-      "authors": [
-        "Zefang Zong",
-        "Dingwei Chen",
-        "Yang Li",
-        "Qi Yi",
-        "Bo Zhou",
-        "Chengming Li",
-        "Bo Qian",
-        "Peng Chen",
-        "Jie Jiang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.04767",
-      "pdf_url": "https://arxiv.org/pdf/2601.04767.pdf",
-      "published": "2026-01-08T09:35:49Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 3
-      },
-      "score": 0.1732
-    },
-    {
       "id": "2601.05172",
       "title": "CoV: Chain-of-View Prompting for Spatial Reasoning",
       "authors": [
@@ -1479,9 +1453,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 2
+        "gh_stars": 7
       },
-      "score": 0.1414
+      "score": 0.2646
     }
   ]
 }
