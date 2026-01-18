@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-17T08:17:33.686207Z",
+  "generated_utc": "2026-01-18T08:15:17.142138Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -34,9 +34,9 @@
         "reddit_mentions": 2,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 2626
+        "gh_stars": 2743
       },
-      "score": 8.708
+      "score": 8.8209
     },
     {
       "id": "2601.10160",
@@ -185,9 +185,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 6,
-        "gh_stars": 12
+        "gh_stars": 14
       },
-      "score": 4.2382
+      "score": 4.266
     },
     {
       "id": "2601.06853",
@@ -229,9 +229,33 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 5,
-        "gh_stars": 22
+        "gh_stars": 25
       },
-      "score": 4.0526
+      "score": 4.0835
+    },
+    {
+      "id": "2601.07055",
+      "title": "Dr. Zero: Self-Evolving Search Agents without Training Data",
+      "authors": [
+        "Zhenrui Yue",
+        "Kartikeya Upasani",
+        "Xianjun Yang",
+        "Suyu Ge",
+        "Shaoliang Nie",
+        "Yuning Mao",
+        "Zhe Liu",
+        "Dong Wang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.07055",
+      "pdf_url": "https://arxiv.org/pdf/2601.07055.pdf",
+      "published": "2026-01-11T20:27:55Z",
+      "signals": {
+        "reddit_mentions": 3,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 155
+      },
+      "score": 4.0176
     },
     {
       "id": "2601.10712",
@@ -251,42 +275,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 5,
-        "gh_stars": 9
+        "gh_stars": 11
       },
-      "score": 3.8835
-    },
-    {
-      "id": "2601.06487",
-      "title": "ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking",
-      "authors": [
-        "Qiang Zhang",
-        "Boli Chen",
-        "Fanrui Zhang",
-        "Ruixue Ding",
-        "Shihang Wang",
-        "Qiuchen Wang",
-        "Yinfeng Huang",
-        "Haonan Zhang",
-        "Rongxiang Zhu",
-        "Pengyong Wang",
-        "Ailin Ren",
-        "Xin Li",
-        "Pengjun Xie",
-        "Jiawei Liu",
-        "Ning Guo",
-        "Jingren Zhou",
-        "Zheng-Jun Zha"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.06487",
-      "pdf_url": "https://arxiv.org/pdf/2601.06487.pdf",
-      "published": "2026-01-10T08:43:07Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 115
-      },
-      "score": 3.2696
+      "score": 3.9152
     },
     {
       "id": "2601.06851",
@@ -332,25 +323,23 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 8
+        "gh_stars": 10
       },
-      "score": 3.0554
+      "score": 3.0888
     },
     {
-      "id": "2601.09334",
-      "title": "High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC, AI, and Big Data",
+      "id": "2601.09527",
+      "title": "Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs",
       "authors": [
-        "Valerio Besozzi",
-        "Matteo Della Bartola",
-        "Patrizio Dazzi",
-        "Marco Danelutto"
+        "Jonathan Knoop",
+        "Hendrik Holtmann"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.09334",
-      "pdf_url": "https://arxiv.org/pdf/2601.09334.pdf",
-      "published": "2026-01-14T10:10:20Z",
+      "abs_url": "https://arxiv.org/abs/2601.09527",
+      "pdf_url": "https://arxiv.org/pdf/2601.09527.pdf",
+      "published": "2026-01-14T14:49:07Z",
       "signals": {
-        "reddit_mentions": 3,
-        "hn_mentions": 0,
+        "reddit_mentions": 1,
+        "hn_mentions": 1,
         "hf_count": 0,
         "gh_stars": 0
       },
@@ -374,30 +363,6 @@
       "score": 2.7726
     },
     {
-      "id": "2601.07055",
-      "title": "Dr. Zero: Self-Evolving Search Agents without Training Data",
-      "authors": [
-        "Zhenrui Yue",
-        "Kartikeya Upasani",
-        "Xianjun Yang",
-        "Suyu Ge",
-        "Shaoliang Nie",
-        "Yuning Mao",
-        "Zhe Liu",
-        "Dong Wang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.07055",
-      "pdf_url": "https://arxiv.org/pdf/2601.07055.pdf",
-      "published": "2026-01-11T20:27:55Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 144
-      },
-      "score": 2.5863
-    },
-    {
       "id": "2601.07376",
       "title": "OpenTinker: Separating Concerns in Agentic Reinforcement Learning",
       "authors": [
@@ -411,9 +376,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 577
+        "gh_stars": 580
       },
-      "score": 2.4021
+      "score": 2.4083
     },
     {
       "id": "2601.06943",
@@ -443,9 +408,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 88
+        "gh_stars": 99
       },
-      "score": 2.3244
+      "score": 2.3813
     },
     {
       "id": "2601.07832",
@@ -467,9 +432,29 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 85
+        "gh_stars": 87
       },
-      "score": 2.3082
+      "score": 2.319
+    },
+    {
+      "id": "2601.09334",
+      "title": "High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC, AI, and Big Data",
+      "authors": [
+        "Valerio Besozzi",
+        "Matteo Della Bartola",
+        "Patrizio Dazzi",
+        "Marco Danelutto"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.09334",
+      "pdf_url": "https://arxiv.org/pdf/2601.09334.pdf",
+      "published": "2026-01-14T10:10:20Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 2.1972
     },
     {
       "id": "2601.10161",
@@ -579,9 +564,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 334
+        "gh_stars": 336
       },
-      "score": 1.8276
+      "score": 1.833
     },
     {
       "id": "2601.10305",
@@ -608,9 +593,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 12
+        "gh_stars": 14
       },
-      "score": 1.7327
+      "score": 1.7605
     },
     {
       "id": "2601.07632",
@@ -945,6 +930,26 @@
       "score": 1.3863
     },
     {
+      "id": "2601.07941",
+      "title": "Moonworks Lunara Aesthetic Dataset",
+      "authors": [
+        "Yan Wang",
+        "M M Sayeef Abdullah",
+        "Partho Hassan",
+        "Sabit Hassan"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.07941",
+      "pdf_url": "https://arxiv.org/pdf/2601.07941.pdf",
+      "published": "2026-01-12T19:11:41Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2601.07606",
       "title": "Proof of Time: A Benchmark for Evaluating Scientific Idea Judgments",
       "authors": [
@@ -959,26 +964,6 @@
       "abs_url": "https://arxiv.org/abs/2601.07606",
       "pdf_url": "https://arxiv.org/pdf/2601.07606.pdf",
       "published": "2026-01-12T14:55:37Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.07941",
-      "title": "Moonworks Lunara Aesthetic Dataset",
-      "authors": [
-        "Yan Wang",
-        "M M Sayeef Abdullah",
-        "Partho Hassan",
-        "Sabit Hassan"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.07941",
-      "pdf_url": "https://arxiv.org/pdf/2601.07941.pdf",
-      "published": "2026-01-12T19:11:41Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1022,6 +1007,23 @@
       "score": 1.3863
     },
     {
+      "id": "2601.06978",
+      "title": "Benchmarking Autonomy in Scientific Experiments: A Hierarchical Taxonomy for Autonomous Large-Scale Facilities",
+      "authors": [
+        "James Le Houx"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.06978",
+      "pdf_url": "https://arxiv.org/pdf/2601.06978.pdf",
+      "published": "2026-01-11T16:26:31Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2601.06860",
       "title": "ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration",
       "authors": [
@@ -1059,9 +1061,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 130
+        "gh_stars": 136
       },
-      "score": 1.1402
+      "score": 1.1662
     },
     {
       "id": "2601.07348",
@@ -1087,40 +1089,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 98
+        "gh_stars": 100
       },
-      "score": 0.9899
-    },
-    {
-      "id": "2601.06789",
-      "title": "MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences",
-      "authors": [
-        "Qihao Wang",
-        "Ziming Cheng",
-        "Shuo Zhang",
-        "Fan Liu",
-        "Rui Xu",
-        "Heng Lian",
-        "Kunyi Wang",
-        "Xiaoming Yu",
-        "Jianghao Yin",
-        "Sen Hu",
-        "Yue Hu",
-        "Shaolei Zhang",
-        "Yanbing Liu",
-        "Ronghao Chen",
-        "Huacan Wang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.06789",
-      "pdf_url": "https://arxiv.org/pdf/2601.06789.pdf",
-      "published": "2026-01-11T06:41:26Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 49
-      },
-      "score": 0.7
+      "score": 1.0
     },
     {
       "id": "2601.08079",
@@ -1137,9 +1108,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 48
+        "gh_stars": 49
       },
-      "score": 0.6928
+      "score": 0.7
     },
     {
       "id": "2601.07641",
@@ -1166,9 +1137,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 35
+        "gh_stars": 37
       },
-      "score": 0.5916
+      "score": 0.6083
     },
     {
       "id": "2601.07779",
@@ -1197,9 +1168,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 22
+        "gh_stars": 23
       },
-      "score": 0.469
+      "score": 0.4796
     }
   ]
 }
