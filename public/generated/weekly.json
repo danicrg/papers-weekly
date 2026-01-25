@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-24T08:16:02.686781Z",
+  "generated_utc": "2026-01-25T08:14:50.677287Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -31,9 +31,54 @@
         "reddit_mentions": 3,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 88
+        "gh_stars": 135
       },
-      "score": 5.097
+      "score": 5.3208
+    },
+    {
+      "id": "2601.12538",
+      "title": "Agentic Reasoning for Large Language Models",
+      "authors": [
+        "Tianxin Wei",
+        "Ting-Wei Li",
+        "Zhining Liu",
+        "Xuying Ning",
+        "Ze Yang",
+        "Jiaru Zou",
+        "Zhichen Zeng",
+        "Ruizhong Qiu",
+        "Xiao Lin",
+        "Dongqi Fu",
+        "Zihao Li",
+        "Mengting Ai",
+        "Duo Zhou",
+        "Wenxuan Bao",
+        "Yunzhe Li",
+        "Gaotang Li",
+        "Cheng Qian",
+        "Yu Wang",
+        "Xiangru Tang",
+        "Yin Xiao",
+        "Liri Fang",
+        "Hui Liu",
+        "Xianfeng Tang",
+        "Yuji Zhang",
+        "Chi Wang",
+        "Jiaxuan You",
+        "Heng Ji",
+        "Hanghang Tong",
+        "Jingrui He"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.12538",
+      "pdf_url": "https://arxiv.org/pdf/2601.12538.pdf",
+      "published": "2026-01-18T18:58:23Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 2,
+        "hf_count": 0,
+        "gh_stars": 372
+      },
+      "score": 4.126
     },
     {
       "id": "2601.13262",
@@ -74,9 +119,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 5,
-        "gh_stars": 0
+        "gh_stars": 2
       },
-      "score": 3.5835
+      "score": 3.7249
     },
     {
       "id": "2601.15876",
@@ -106,9 +151,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 139
+        "gh_stars": 147
       },
-      "score": 3.3762
+      "score": 3.4097
     },
     {
       "id": "2601.16163",
@@ -157,51 +202,6 @@
       "score": 3.2189
     },
     {
-      "id": "2601.12538",
-      "title": "Agentic Reasoning for Large Language Models",
-      "authors": [
-        "Tianxin Wei",
-        "Ting-Wei Li",
-        "Zhining Liu",
-        "Xuying Ning",
-        "Ze Yang",
-        "Jiaru Zou",
-        "Zhichen Zeng",
-        "Ruizhong Qiu",
-        "Xiao Lin",
-        "Dongqi Fu",
-        "Zihao Li",
-        "Mengting Ai",
-        "Duo Zhou",
-        "Wenxuan Bao",
-        "Yunzhe Li",
-        "Gaotang Li",
-        "Cheng Qian",
-        "Yu Wang",
-        "Xiangru Tang",
-        "Yin Xiao",
-        "Liri Fang",
-        "Hui Liu",
-        "Xianfeng Tang",
-        "Yuji Zhang",
-        "Chi Wang",
-        "Jiaxuan You",
-        "Heng Ji",
-        "Hanghang Tong",
-        "Jingrui He"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.12538",
-      "pdf_url": "https://arxiv.org/pdf/2601.12538.pdf",
-      "published": "2026-01-18T18:58:23Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 305
-      },
-      "score": 3.1327
-    },
-    {
       "id": "2601.14171",
       "title": "Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance",
       "authors": [
@@ -220,9 +220,29 @@
         "reddit_mentions": 0,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 232
+        "gh_stars": 239
       },
-      "score": 2.9094
+      "score": 2.9323
+    },
+    {
+      "id": "2601.14490",
+      "title": "GutenOCR: A Grounded Vision-Language Front-End for Documents",
+      "authors": [
+        "Hunter Heidenreich",
+        "Ben Elliott",
+        "Olivia Dinica",
+        "Yosheb Getachew"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.14490",
+      "pdf_url": "https://arxiv.org/pdf/2601.14490.pdf",
+      "published": "2026-01-20T21:26:15Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 47
+      },
+      "score": 2.8828
     },
     {
       "id": "2601.15664",
@@ -273,26 +293,6 @@
       "score": 2.7726
     },
     {
-      "id": "2601.14490",
-      "title": "GutenOCR: A Grounded Vision-Language Front-End for Documents",
-      "authors": [
-        "Hunter Heidenreich",
-        "Ben Elliott",
-        "Olivia Dinica",
-        "Yosheb Getachew"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.14490",
-      "pdf_url": "https://arxiv.org/pdf/2601.14490.pdf",
-      "published": "2026-01-20T21:26:15Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 32
-      },
-      "score": 2.7629
-    },
-    {
       "id": "2601.15282",
       "title": "Rethinking Video Generation Model for the Embodied World",
       "authors": [
@@ -313,9 +313,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 24
+        "gh_stars": 26
       },
-      "score": 2.6871
+      "score": 2.7071
     },
     {
       "id": "2601.15165",
@@ -340,9 +340,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 66
+        "gh_stars": 70
       },
-      "score": 2.1987
+      "score": 2.223
     },
     {
       "id": "2601.14525",
@@ -362,35 +362,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 12
+        "gh_stars": 13
       },
-      "score": 1.7327
-    },
-    {
-      "id": "2601.11969",
-      "title": "$\\texttt{MemoryRewardBench}$: Benchmarking Reward Models for Long-Term Memory Management in Large Language Models",
-      "authors": [
-        "Zecheng Tang",
-        "Baibei Ji",
-        "Ruoxi Sun",
-        "Haitian Wang",
-        "WangJie You",
-        "Zhang Yijun",
-        "Wenpeng Zhu",
-        "Ji Qi",
-        "Juntao Li",
-        "Min Zhang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.11969",
-      "pdf_url": "https://arxiv.org/pdf/2601.11969.pdf",
-      "published": "2026-01-17T09:04:53Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 8
-      },
-      "score": 1.6691
+      "score": 1.7468
     },
     {
       "id": "2601.13572",
@@ -411,9 +385,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 4
+        "gh_stars": 6
       },
-      "score": 1.5863
+      "score": 1.6312
     },
     {
       "id": "2601.12910",
@@ -434,39 +408,21 @@
       "score": 1.5595
     },
     {
-      "id": "2601.14354",
-      "title": "VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models",
+      "id": "2601.16205",
+      "title": "Counterfactual Training: Teaching Models Plausible and Actionable Explanations",
       "authors": [
-        "Yongchao Huang"
+        "Patrick Altmeyer",
+        "Aleksander Buszydlik",
+        "Arie van Deursen",
+        "Cynthia C. S. Liem"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.14354",
-      "pdf_url": "https://arxiv.org/pdf/2601.14354.pdf",
-      "published": "2026-01-20T18:04:16Z",
+      "abs_url": "https://arxiv.org/abs/2601.16205",
+      "pdf_url": "https://arxiv.org/pdf/2601.16205.pdf",
+      "published": "2026-01-22T18:56:14Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.14051",
-      "title": "Kakugo: Distillation of Low-Resource Languages into Small Language Models",
-      "authors": [
-        "Peter Devine",
-        "Mardhiyah Sanni",
-        "Farid Adilazuarda",
-        "Julieta Gil Loizaga",
-        "Barry Haddow"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.14051",
-      "pdf_url": "https://arxiv.org/pdf/2601.14051.pdf",
-      "published": "2026-01-20T15:05:44Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -504,6 +460,44 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.14051",
+      "title": "Kakugo: Distillation of Low-Resource Languages into Small Language Models",
+      "authors": [
+        "Peter Devine",
+        "Mardhiyah Sanni",
+        "Farid Adilazuarda",
+        "Julieta Gil Loizaga",
+        "Barry Haddow"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.14051",
+      "pdf_url": "https://arxiv.org/pdf/2601.14051.pdf",
+      "published": "2026-01-20T15:05:44Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.14354",
+      "title": "VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models",
+      "authors": [
+        "Yongchao Huang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.14354",
+      "pdf_url": "https://arxiv.org/pdf/2601.14354.pdf",
+      "published": "2026-01-20T18:04:16Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -609,6 +603,26 @@
       "score": 1.3863
     },
     {
+      "id": "2601.14096",
+      "title": "Remapping and navigation of an embedding space via error minimization: a fundamental organizational principle of cognition in natural and artificial systems",
+      "authors": [
+        "Benedikt Hartl",
+        "L\u00e9o Pio-Lopez",
+        "Chris Fields",
+        "Michael Levin"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.14096",
+      "pdf_url": "https://arxiv.org/pdf/2601.14096.pdf",
+      "published": "2026-01-20T15:57:36Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2601.14063",
       "title": "XCR-Bench: A Multi-Task Benchmark for Evaluating Cultural Reasoning in LLMs",
       "authors": [
@@ -626,26 +640,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.14096",
-      "title": "Remapping and navigation of an embedding space via error minimization: a fundamental organizational principle of cognition in natural and artificial systems",
-      "authors": [
-        "Benedikt Hartl",
-        "L\u00e9o Pio-Lopez",
-        "Chris Fields",
-        "Michael Levin"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.14096",
-      "pdf_url": "https://arxiv.org/pdf/2601.14096.pdf",
-      "published": "2026-01-20T15:57:36Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -689,6 +683,28 @@
       "score": 1.3863
     },
     {
+      "id": "2601.13142",
+      "title": "TVWorld: Foundations for Remote-Control TV Agents",
+      "authors": [
+        "Zhantao Ma",
+        "Quanfeng Lu",
+        "Shuai Zhong",
+        "Dahai Yu",
+        "Ping Luo",
+        "Michael K. Ng"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.13142",
+      "pdf_url": "https://arxiv.org/pdf/2601.13142.pdf",
+      "published": "2026-01-19T15:24:32Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2601.12837",
       "title": "Cognition spaces: natural, artificial, and hybrid",
       "authors": [
@@ -706,30 +722,6 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.12667",
-      "title": "Empowering All-in-Loop Health Management of Spacecraft Power System in the Mega-Constellation Era via Human-AI Collaboration",
-      "authors": [
-        "Yi Di",
-        "Zhibin Zhao",
-        "Fujin Wang",
-        "Xue Liu",
-        "Jiafeng Tang",
-        "Jiaxin Ren",
-        "Zhi Zhai",
-        "Xuefeng Chen"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.12667",
-      "pdf_url": "https://arxiv.org/pdf/2601.12667.pdf",
-      "published": "2026-01-19T02:28:27Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -760,19 +752,21 @@
       "score": 1.3863
     },
     {
-      "id": "2601.13142",
-      "title": "TVWorld: Foundations for Remote-Control TV Agents",
+      "id": "2601.12667",
+      "title": "Empowering All-in-Loop Health Management of Spacecraft Power System in the Mega-Constellation Era via Human-AI Collaboration",
       "authors": [
-        "Zhantao Ma",
-        "Quanfeng Lu",
-        "Shuai Zhong",
-        "Dahai Yu",
-        "Ping Luo",
-        "Michael K. Ng"
+        "Yi Di",
+        "Zhibin Zhao",
+        "Fujin Wang",
+        "Xue Liu",
+        "Jiafeng Tang",
+        "Jiaxin Ren",
+        "Zhi Zhai",
+        "Xuefeng Chen"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.13142",
-      "pdf_url": "https://arxiv.org/pdf/2601.13142.pdf",
-      "published": "2026-01-19T15:24:32Z",
+      "abs_url": "https://arxiv.org/abs/2601.12667",
+      "pdf_url": "https://arxiv.org/pdf/2601.12667.pdf",
+      "published": "2026-01-19T02:28:27Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -780,6 +774,53 @@
         "gh_stars": 0
       },
       "score": 1.3863
+    },
+    {
+      "id": "2601.16206",
+      "title": "LLM-in-Sandbox Elicits General Agentic Intelligence",
+      "authors": [
+        "Daixuan Cheng",
+        "Shaohan Huang",
+        "Yuxian Gu",
+        "Huatong Song",
+        "Guoxin Chen",
+        "Li Dong",
+        "Wayne Xin Zhao",
+        "Ji-Rong Wen",
+        "Furu Wei"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.16206",
+      "pdf_url": "https://arxiv.org/pdf/2601.16206.pdf",
+      "published": "2026-01-22T18:57:09Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 65
+      },
+      "score": 0.8062
+    },
+    {
+      "id": "2601.14255",
+      "title": "VideoMaMa: Mask-Guided Video Matting via Generative Prior",
+      "authors": [
+        "Sangbeom Lim",
+        "Seoung Wug Oh",
+        "Jiahui Huang",
+        "Heeji Yoon",
+        "Seungryong Kim",
+        "Joon-Young Lee"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.14255",
+      "pdf_url": "https://arxiv.org/pdf/2601.14255.pdf",
+      "published": "2026-01-20T18:59:56Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 59
+      },
+      "score": 0.7681
     },
     {
       "id": "2601.14192",
@@ -809,34 +850,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 50
+        "gh_stars": 54
       },
-      "score": 0.7071
-    },
-    {
-      "id": "2601.16206",
-      "title": "LLM-in-Sandbox Elicits General Agentic Intelligence",
-      "authors": [
-        "Daixuan Cheng",
-        "Shaohan Huang",
-        "Yuxian Gu",
-        "Huatong Song",
-        "Guoxin Chen",
-        "Li Dong",
-        "Wayne Xin Zhao",
-        "Ji-Rong Wen",
-        "Furu Wei"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.16206",
-      "pdf_url": "https://arxiv.org/pdf/2601.16206.pdf",
-      "published": "2026-01-22T18:57:09Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 38
-      },
-      "score": 0.6164
+      "score": 0.7348
     },
     {
       "id": "2601.14724",
@@ -855,9 +871,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 24
+        "gh_stars": 32
       },
-      "score": 0.4899
+      "score": 0.5657
     },
     {
       "id": "2601.13247",
@@ -882,6 +898,24 @@
       "score": 0.4796
     },
     {
+      "id": "2601.14234",
+      "title": "Q-learning with Adjoint Matching",
+      "authors": [
+        "Qiyang Li",
+        "Sergey Levine"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.14234",
+      "pdf_url": "https://arxiv.org/pdf/2601.14234.pdf",
+      "published": "2026-01-20T18:45:34Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 14
+      },
+      "score": 0.3742
+    },
+    {
       "id": "2601.15197",
       "title": "BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries",
       "authors": [
@@ -902,9 +936,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 11
+        "gh_stars": 14
       },
-      "score": 0.3317
+      "score": 0.3742
     },
     {
       "id": "2601.14232",
@@ -946,15 +980,15 @@
       "score": 0.2449
     },
     {
-      "id": "2601.14234",
-      "title": "Q-learning with Adjoint Matching",
+      "id": "2601.15380",
+      "title": "You Need Better Attention Priors",
       "authors": [
-        "Qiyang Li",
-        "Sergey Levine"
+        "Elon Litman",
+        "Gabe Guo"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.14234",
-      "pdf_url": "https://arxiv.org/pdf/2601.14234.pdf",
-      "published": "2026-01-20T18:45:34Z",
+      "abs_url": "https://arxiv.org/abs/2601.15380",
+      "pdf_url": "https://arxiv.org/pdf/2601.15380.pdf",
+      "published": "2026-01-21T19:00:08Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -964,35 +998,17 @@
       "score": 0.2236
     },
     {
-      "id": "2601.16107",
-      "title": "Benchmarking Deep Learning Models for Raman Spectroscopy Across Open-Source Datasets",
+      "id": "2601.16147",
+      "title": "Beat-ssl: Capturing Local ECG Morphology through Heartbeat-level Contrastive Learning with Soft Targets",
       "authors": [
-        "Adithya Sineesh",
-        "Akshita Kamsali"
+        "Muhammad Ilham Rizqyawan",
+        "Peter Macfarlane",
+        "Stathis Hadjidemetriou",
+        "Fani Deligianni"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.16107",
-      "pdf_url": "https://arxiv.org/pdf/2601.16107.pdf",
-      "published": "2026-01-22T16:54:53Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 0.0
-    },
-    {
-      "id": "2601.16142",
-      "title": "Computing Fixpoints of Learned Functions: Chaotic Iteration and Simple Stochastic Games",
-      "authors": [
-        "Paolo Baldan",
-        "Sebastian Gurke",
-        "Barbara K\u00f6nig",
-        "Florian Wittbold"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.16142",
-      "pdf_url": "https://arxiv.org/pdf/2601.16142.pdf",
-      "published": "2026-01-22T17:36:19Z",
+      "abs_url": "https://arxiv.org/abs/2601.16147",
+      "pdf_url": "https://arxiv.org/pdf/2601.16147.pdf",
+      "published": "2026-01-22T17:40:23Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1019,16 +1035,71 @@
       "score": 0.0
     },
     {
-      "id": "2601.16032",
-      "title": "Sawtooth Wavefront Reordering: Enhanced CuTile FlashAttention on NVIDIA GB10",
+      "id": "2601.16083",
+      "title": "Probably Approximately Correct Maximum A Posteriori Inference",
       "authors": [
-        "Yifan Zhu",
-        "Yekai Pan",
-        "Chen Ding"
+        "Matthew Shorvon",
+        "Frederik Mallmann-Trenn",
+        "David S. Watson"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.16032",
-      "pdf_url": "https://arxiv.org/pdf/2601.16032.pdf",
-      "published": "2026-01-22T15:05:31Z",
+      "abs_url": "https://arxiv.org/abs/2601.16083",
+      "pdf_url": "https://arxiv.org/pdf/2601.16083.pdf",
+      "published": "2026-01-22T16:28:01Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
+    },
+    {
+      "id": "2601.16041",
+      "title": "Risk reversal for least squares estimators under nested convex constraints",
+      "authors": [
+        "Omar Al-Ghattas"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.16041",
+      "pdf_url": "https://arxiv.org/pdf/2601.16041.pdf",
+      "published": "2026-01-22T15:18:36Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
+    },
+    {
+      "id": "2601.16028",
+      "title": "Data-Driven Conditional Flexibility Index",
+      "authors": [
+        "Moritz Wedemeyer",
+        "Eike Cramer",
+        "Alexander Mitsos",
+        "Manuel Dahmen"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.16028",
+      "pdf_url": "https://arxiv.org/pdf/2601.16028.pdf",
+      "published": "2026-01-22T14:56:10Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
+    },
+    {
+      "id": "2601.16158",
+      "title": "Domain-Incremental Continual Learning for Robust and Efficient Keyword Spotting in Resource Constrained Systems",
+      "authors": [
+        "Prakash Dhungana",
+        "Sayed Ahmad Salehi"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.16158",
+      "pdf_url": "https://arxiv.org/pdf/2601.16158.pdf",
+      "published": "2026-01-22T17:59:31Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1047,87 +1118,6 @@
       "abs_url": "https://arxiv.org/abs/2601.16138",
       "pdf_url": "https://arxiv.org/pdf/2601.16138.pdf",
       "published": "2026-01-22T17:32:19Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 0.0
-    },
-    {
-      "id": "2601.16074",
-      "title": "Explainable AI to Improve Machine Learning Reliability for Industrial Cyber-Physical Systems",
-      "authors": [
-        "Annemarie Jutte",
-        "Uraz Odyurt"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.16074",
-      "pdf_url": "https://arxiv.org/pdf/2601.16074.pdf",
-      "published": "2026-01-22T16:18:22Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 0.0
-    },
-    {
-      "id": "2601.16147",
-      "title": "Beat-ssl: Capturing Local ECG Morphology through Heartbeat-level Contrastive Learning with Soft Targets",
-      "authors": [
-        "Muhammad Ilham Rizqyawan",
-        "Peter Macfarlane",
-        "Stathis Hadjidemetriou",
-        "Fani Deligianni"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.16147",
-      "pdf_url": "https://arxiv.org/pdf/2601.16147.pdf",
-      "published": "2026-01-22T17:40:23Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 0.0
-    },
-    {
-      "id": "2601.16205",
-      "title": "Counterfactual Training: Teaching Models Plausible and Actionable Explanations",
-      "authors": [
-        "Patrick Altmeyer",
-        "Aleksander Buszydlik",
-        "Arie van Deursen",
-        "Cynthia C. S. Liem"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.16205",
-      "pdf_url": "https://arxiv.org/pdf/2601.16205.pdf",
-      "published": "2026-01-22T18:56:14Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 0.0
-    },
-    {
-      "id": "2601.16112",
-      "title": "Variable Splitting Binary Tree Models Based on Bayesian Context Tree Models for Time Series Segmentation",
-      "authors": [
-        "Yuta Nakahara",
-        "Shota Saito",
-        "Kohei Horinouchi",
-        "Koshi Shimada",
-        "Naoki Ichijo",
-        "Manabu Kobayashi",
-        "Toshiyasu Matsushima"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.16112",
-      "pdf_url": "https://arxiv.org/pdf/2601.16112.pdf",
-      "published": "2026-01-22T16:58:34Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
