@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-28T08:29:28.734931Z",
+  "generated_utc": "2026-01-29T08:42:32.731867Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -8,26 +8,6 @@
   ],
   "top_n": 50,
   "papers": [
-    {
-      "id": "2601.15015",
-      "title": "Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control",
-      "authors": [
-        "Jannis Becktepe",
-        "Aleksandra Franz",
-        "Nils Thuerey",
-        "Sebastian Peitz"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.15015",
-      "pdf_url": "https://arxiv.org/pdf/2601.15015.pdf",
-      "published": "2026-01-21T14:13:44Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 28,
-        "gh_stars": 21
-      },
-      "score": 7.1928
-    },
     {
       "id": "2601.16175",
       "title": "Learning to Discover at Test Time",
@@ -51,9 +31,9 @@
         "reddit_mentions": 4,
         "hn_mentions": 2,
         "hf_count": 0,
-        "gh_stars": 279
+        "gh_stars": 308
       },
-      "score": 7.0864
+      "score": 7.1711
     },
     {
       "id": "2601.17586",
@@ -74,6 +54,31 @@
         "gh_stars": 0
       },
       "score": 6.1821
+    },
+    {
+      "id": "2601.17367",
+      "title": "Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers",
+      "authors": [
+        "Zecheng Tang",
+        "Quantong Qiu",
+        "Yi Yang",
+        "Zhiyi Hong",
+        "Haiya Xiang",
+        "Kebin Liu",
+        "Qingqing Dang",
+        "Juntao Li",
+        "Min Zhang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.17367",
+      "pdf_url": "https://arxiv.org/pdf/2601.17367.pdf",
+      "published": "2026-01-24T08:22:07Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 17,
+        "gh_stars": 14
+      },
+      "score": 6.1549
     },
     {
       "id": "2601.15876",
@@ -103,9 +108,9 @@
         "reddit_mentions": 2,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 218
+        "gh_stars": 225
       },
-      "score": 5.8709
+      "score": 5.8944
     },
     {
       "id": "2601.18631",
@@ -126,9 +131,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 12,
-        "gh_stars": 9
+        "gh_stars": 44
       },
-      "score": 5.4299
+      "score": 5.7932
     },
     {
       "id": "2601.18491",
@@ -185,37 +190,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 7,
-        "gh_stars": 139
+        "gh_stars": 178
       },
-      "score": 5.3379
-    },
-    {
-      "id": "2601.15369",
-      "title": "OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation",
-      "authors": [
-        "Letian Zhang",
-        "Sucheng Ren",
-        "Yanqing Liu",
-        "Xianhang Li",
-        "Zeyu Wang",
-        "Yuyin Zhou",
-        "Huaxiu Yao",
-        "Zeyu Zheng",
-        "Weili Nie",
-        "Guilin Liu",
-        "Zhiding Yu",
-        "Cihang Xie"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.15369",
-      "pdf_url": "https://arxiv.org/pdf/2601.15369.pdf",
-      "published": "2026-01-21T18:47:12Z",
-      "signals": {
-        "reddit_mentions": 3,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 439
-      },
-      "score": 4.8678
+      "score": 5.493
     },
     {
       "id": "2601.19325",
@@ -263,32 +240,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 7,
-        "gh_stars": 0
+        "gh_stars": 14
       },
-      "score": 4.1589
-    },
-    {
-      "id": "2601.18731",
-      "title": "One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment",
-      "authors": [
-        "Hongru Cai",
-        "Yongqi Li",
-        "Tiezheng Yu",
-        "Fengbin Zhu",
-        "Wenjie Wang",
-        "Fuli Feng",
-        "Wenjie Li"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.18731",
-      "pdf_url": "https://arxiv.org/pdf/2601.18731.pdf",
-      "published": "2026-01-26T17:55:52Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 6,
-        "gh_stars": 4
-      },
-      "score": 4.0918
+      "score": 4.533
     },
     {
       "id": "2601.18418",
@@ -319,34 +273,76 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 5,
-        "gh_stars": 22
+        "gh_stars": 32
       },
-      "score": 4.0526
+      "score": 4.1492
     },
     {
-      "id": "2601.17367",
-      "title": "Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers",
+      "id": "2601.18731",
+      "title": "One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment",
       "authors": [
-        "Zecheng Tang",
-        "Quantong Qiu",
-        "Yi Yang",
-        "Zhiyi Hong",
-        "Haiya Xiang",
-        "Kebin Liu",
-        "Qingqing Dang",
-        "Juntao Li",
-        "Min Zhang"
+        "Hongru Cai",
+        "Yongqi Li",
+        "Tiezheng Yu",
+        "Fengbin Zhu",
+        "Wenjie Wang",
+        "Fuli Feng",
+        "Wenjie Li"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.17367",
-      "pdf_url": "https://arxiv.org/pdf/2601.17367.pdf",
-      "published": "2026-01-24T08:22:07Z",
+      "abs_url": "https://arxiv.org/abs/2601.18731",
+      "pdf_url": "https://arxiv.org/pdf/2601.18731.pdf",
+      "published": "2026-01-26T17:55:52Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 5,
-        "gh_stars": 11
+        "hf_count": 6,
+        "gh_stars": 5
       },
-      "score": 3.9152
+      "score": 4.1154
+    },
+    {
+      "id": "2601.19834",
+      "title": "Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models",
+      "authors": [
+        "Jialong Wu",
+        "Xiaoying Zhang",
+        "Hongyi Yuan",
+        "Xiangcheng Zhang",
+        "Tianhao Huang",
+        "Changjing He",
+        "Chaoyi Deng",
+        "Renrui Zhang",
+        "Youbin Wu",
+        "Mingsheng Long"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.19834",
+      "pdf_url": "https://arxiv.org/pdf/2601.19834.pdf",
+      "published": "2026-01-27T17:40:07Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 39
+      },
+      "score": 3.3971
+    },
+    {
+      "id": "2601.18129",
+      "title": "Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models",
+      "authors": [
+        "Kunat Pipatanakul",
+        "Pittawat Taveekitworachai"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.18129",
+      "pdf_url": "https://arxiv.org/pdf/2601.18129.pdf",
+      "published": "2026-01-26T04:20:59Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 4,
+        "gh_stars": 2
+      },
+      "score": 3.3603
     },
     {
       "id": "2601.18207",
@@ -419,61 +415,29 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 5
+        "gh_stars": 12
       },
-      "score": 2.9962
+      "score": 3.119
     },
     {
-      "id": "2601.15282",
-      "title": "Rethinking Video Generation Model for the Embodied World",
+      "id": "2601.20209",
+      "title": "Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning",
       "authors": [
-        "Yufan Deng",
-        "Zilin Pan",
-        "Hongyu Zhang",
-        "Xiaojie Li",
-        "Ruoqing Hu",
-        "Yufei Ding",
-        "Yiming Zou",
-        "Yan Zeng",
-        "Daquan Zhou"
+        "Jinyang Wu",
+        "Shuo Yang",
+        "Changpeng Yang",
+        "Yuhao Shen",
+        "Shuai Zhang",
+        "Zhengqi Wen",
+        "Jianhua Tao"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.15282",
-      "pdf_url": "https://arxiv.org/pdf/2601.15282.pdf",
-      "published": "2026-01-21T18:59:18Z",
+      "abs_url": "https://arxiv.org/abs/2601.20209",
+      "pdf_url": "https://arxiv.org/pdf/2601.20209.pdf",
+      "published": "2026-01-28T03:15:34Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 34
-      },
-      "score": 2.7803
-    },
-    {
-      "id": "2601.15664",
-      "title": "Skywork UniPic 3.0: Unified Multi-Image Composition via Sequence Modeling",
-      "authors": [
-        "Hongyang Wei",
-        "Hongbo Liu",
-        "Zidong Wang",
-        "Yi Peng",
-        "Baixin Xu",
-        "Size Wu",
-        "Xuying Zhang",
-        "Xianglong He",
-        "Zexiang Liu",
-        "Peiyu Wang",
-        "Xuchen Song",
-        "Yangguang Li",
-        "Yang Liu",
-        "Yahui Zhou"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.15664",
-      "pdf_url": "https://arxiv.org/pdf/2601.15664.pdf",
-      "published": "2026-01-22T05:23:20Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 1,
+        "hf_count": 3,
         "gh_stars": 0
       },
       "score": 2.7726
@@ -509,9 +473,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 644
+        "gh_stars": 667
       },
-      "score": 2.5377
+      "score": 2.5826
     },
     {
       "id": "2601.16206",
@@ -534,36 +498,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 108
+        "gh_stars": 113
       },
-      "score": 2.4255
-    },
-    {
-      "id": "2601.15165",
-      "title": "The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models",
-      "authors": [
-        "Zanlin Ni",
-        "Shenzhi Wang",
-        "Yang Yue",
-        "Tianyu Yu",
-        "Weilin Zhao",
-        "Yeguo Hua",
-        "Tianyi Chen",
-        "Jun Song",
-        "Cheng Yu",
-        "Bo Zheng",
-        "Gao Huang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.15165",
-      "pdf_url": "https://arxiv.org/pdf/2601.15165.pdf",
-      "published": "2026-01-21T16:41:58Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 77
-      },
-      "score": 2.2638
+      "score": 2.4493
     },
     {
       "id": "2601.18238",
@@ -587,30 +524,45 @@
       "score": 2.1972
     },
     {
-      "id": "2601.19834",
-      "title": "Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models",
+      "id": "2601.16282",
+      "title": "Generating Literature-Driven Scientific Theories at Scale",
       "authors": [
-        "Jialong Wu",
-        "Xiaoying Zhang",
-        "Hongyi Yuan",
-        "Xiangcheng Zhang",
-        "Tianhao Huang",
-        "Changjing He",
-        "Chaoyi Deng",
-        "Renrui Zhang",
-        "Youbin Wu",
-        "Mingsheng Long"
+        "Peter Jansen",
+        "Peter Clark",
+        "Doug Downey",
+        "Daniel S. Weld"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.19834",
-      "pdf_url": "https://arxiv.org/pdf/2601.19834.pdf",
-      "published": "2026-01-27T17:40:07Z",
+      "abs_url": "https://arxiv.org/abs/2601.16282",
+      "pdf_url": "https://arxiv.org/pdf/2601.16282.pdf",
+      "published": "2026-01-22T19:27:49Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 2.1972
+    },
+    {
+      "id": "2601.18067",
+      "title": "EvolVE: Evolutionary Search for LLM-based Verilog Generation and Optimization",
+      "authors": [
+        "Wei-Po Hsin",
+        "Ren-Hao Deng",
+        "Yao-Ting Hsieh",
+        "En-Ming Huang",
+        "Shih-Hao Hung"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.18067",
+      "pdf_url": "https://arxiv.org/pdf/2601.18067.pdf",
+      "published": "2026-01-26T01:53:54Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 5
+        "gh_stars": 4
       },
-      "score": 1.6099
+      "score": 1.5863
     },
     {
       "id": "2601.17332",
@@ -658,30 +610,248 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 228
+        "gh_stars": 247
       },
-      "score": 1.51
+      "score": 1.5716
     },
     {
-      "id": "2601.18067",
-      "title": "EvolVE: Evolutionary Search for LLM-based Verilog Generation and Optimization",
+      "id": "2601.16725",
+      "title": "LongCat-Flash-Thinking-2601 Technical Report",
       "authors": [
-        "Wei-Po Hsin",
-        "Ren-Hao Deng",
-        "Yao-Ting Hsieh",
-        "En-Ming Huang",
-        "Shih-Hao Hung"
+        "Meituan LongCat Team",
+        "Anchun Gui",
+        "Bei Li",
+        "Bingyang Tao",
+        "Bole Zhou",
+        "Borun Chen",
+        "Chao Zhang",
+        "Chao Zhang",
+        "Chen Gao",
+        "Chen Zhang",
+        "Chengcheng Han",
+        "Chenhui Yang",
+        "Chuyu Zhang",
+        "Cong Chen",
+        "Cunguang Wang",
+        "Daoru Pan",
+        "Defei Bu",
+        "Dengchang Zhao",
+        "Di Xiu",
+        "Dishan Liu",
+        "Dongyu Ru",
+        "Dunwei Tu",
+        "Fan Wu",
+        "Fengcheng Yuan",
+        "Fengcun Li",
+        "Gang Xu",
+        "Guanyu Wu",
+        "Guoyuan Lin",
+        "Haibin Wang",
+        "Hansi Yang",
+        "Hao Yang",
+        "Haonan Yan",
+        "Haoxiang Ma",
+        "Haoxing Wen",
+        "Hongyan Hao",
+        "Hongyin Tang",
+        "Hongyu Zang",
+        "Hongzhi Ni",
+        "Hui Su",
+        "Jiacheng Zhang",
+        "Jiahong Zhou",
+        "Jiahuan Li",
+        "Jiaming Wang",
+        "Jian Yang",
+        "Jianfei Zhang",
+        "Jianhao Xu",
+        "Jianing Wang",
+        "Jiapeng Zhu",
+        "Jiaqi Sun",
+        "Jiarong Shi",
+        "Jiarui Zhao",
+        "Jingang Wang",
+        "Jinluan Yang",
+        "Jinrui Ding",
+        "Jinwei Xiao",
+        "Jiyuan He",
+        "Juncan Xu",
+        "Kefeng Zhang",
+        "Keheng Wang",
+        "Li Wei",
+        "Lianhui Ma",
+        "Lin Qiu",
+        "Lingbing Kong",
+        "Lingchuan Liu",
+        "Linsen Guo",
+        "Mengshen Zhu",
+        "Mengxia Shen",
+        "Mingyang Zhu",
+        "Peiguang Li",
+        "Peng Pei",
+        "Pengcheng Jia",
+        "Pengtao Zhang",
+        "Peng Zhao",
+        "Qi Gu",
+        "Qiong Huang",
+        "Qiyuan Duan",
+        "Quanchi Weng",
+        "Rongxiang Weng",
+        "Rongzhi Zhang",
+        "Rumei Li",
+        "Shanglin Lei",
+        "Shengnan An",
+        "Shijun Dai",
+        "Shuaikang Liu",
+        "Shuang Zhou",
+        "Shuo Wang",
+        "Songyuan Zhao",
+        "Tao Liang",
+        "Tianhao Hu",
+        "Tianze Chen",
+        "Wei Liu",
+        "Wei Shi",
+        "Wei Wang",
+        "Weifeng Tang",
+        "Wenjie Shi",
+        "Wenlong Zhu",
+        "Wentao Chen",
+        "Wentao Shi",
+        "Xi Su",
+        "Xiangcheng Liu",
+        "Xiandi Ma",
+        "Xiangyu Xi",
+        "Xiangyuan Liu",
+        "Xiangzhou Huang",
+        "Xiao Liu",
+        "Xiaodong Cai",
+        "Xiaolong Chen",
+        "Xiaowei Shi",
+        "Xiaoyu Li",
+        "Xin Chen",
+        "Xingchen Liu",
+        "Xuan Huang",
+        "Xuezhi Cao",
+        "Xunliang Cai",
+        "Yan Chen",
+        "Yang Bai",
+        "Yang Liu",
+        "Yang Yang",
+        "Yang Zheng",
+        "Yaoming Wang",
+        "Yaoming Zhu",
+        "Yaqi Huo",
+        "Yanyu Chen",
+        "Yaorui Shi",
+        "Yerui Sun",
+        "Yi Zhang",
+        "Yihao Chen",
+        "Yi-Kai Zhang",
+        "Yifan Lu",
+        "Yifan Zhao",
+        "Yitao Zhai",
+        "Yongjing Yin",
+        "Yongwei Zhou",
+        "Youshao Xiao",
+        "Yuchuan Dai",
+        "Yuchen Xie",
+        "Yuchen Yu",
+        "Yufei Zhang",
+        "Yuhuai Wei",
+        "Yulei Qian",
+        "Yunfan Liang",
+        "Yunke Zhao",
+        "Yuwei Jiang",
+        "Yuxin Bian",
+        "Yuxin Chen",
+        "Yuxin Liu",
+        "Yue Xu",
+        "Yueqing Sun",
+        "Zeyang Yu",
+        "Zhao Yang",
+        "Zhengsheng Huang",
+        "Zhengyu Chen",
+        "Zhijian Liu",
+        "Zhikang Xia",
+        "Zhimin Lin",
+        "Zhiyuan Yao",
+        "Zhuofan Chen",
+        "Zhuowen Han",
+        "Zijian Zhang",
+        "Ziran Li",
+        "Ziwen Wang",
+        "Ziyuan Zhuang"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.18067",
-      "pdf_url": "https://arxiv.org/pdf/2601.18067.pdf",
-      "published": "2026-01-26T01:53:54Z",
+      "abs_url": "https://arxiv.org/abs/2601.16725",
+      "pdf_url": "https://arxiv.org/pdf/2601.16725.pdf",
+      "published": "2026-01-23T13:20:09Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 225
+      },
+      "score": 1.5
+    },
+    {
+      "id": "2601.19532",
+      "title": "Benchmarks Saturate When The Model Gets Smarter Than The Judge",
+      "authors": [
+        "Marthe Ballon",
+        "Andres Algaba",
+        "Brecht Verbeken",
+        "Vincent Ginis"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.19532",
+      "pdf_url": "https://arxiv.org/pdf/2601.19532.pdf",
+      "published": "2026-01-27T12:20:44Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 1
+        "gh_stars": 0
       },
-      "score": 1.4863
+      "score": 1.3863
+    },
+    {
+      "id": "2601.19439",
+      "title": "OSIRIS: Bridging Analog Circuit Design and Machine Learning with Scalable Dataset Generation",
+      "authors": [
+        "Giuseppe Chiari",
+        "Michele Piccoli",
+        "Davide Zoni"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.19439",
+      "pdf_url": "https://arxiv.org/pdf/2601.19439.pdf",
+      "published": "2026-01-27T10:18:46Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.18778",
+      "title": "Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability",
+      "authors": [
+        "Shobhita Sundaram",
+        "John Quan",
+        "Ariel Kwiatkowski",
+        "Kartik Ahuja",
+        "Yann Ollivier",
+        "Julia Kempe"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.18778",
+      "pdf_url": "https://arxiv.org/pdf/2601.18778.pdf",
+      "published": "2026-01-26T18:46:56Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
     },
     {
       "id": "2601.18744",
@@ -812,31 +982,6 @@
       "score": 1.3863
     },
     {
-      "id": "2601.18137",
-      "title": "DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints",
-      "authors": [
-        "Yinger Zhang",
-        "Shutong Jiang",
-        "Renhao Li",
-        "Jianhong Tu",
-        "Yang Su",
-        "Lianghao Deng",
-        "Xudong Guo",
-        "Chenxu Lv",
-        "Junyang Lin"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.18137",
-      "pdf_url": "https://arxiv.org/pdf/2601.18137.pdf",
-      "published": "2026-01-26T04:43:49Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2601.18184",
       "title": "VIBEVOICE-ASR Technical Report",
       "authors": [
@@ -868,6 +1013,31 @@
       "abs_url": "https://arxiv.org/abs/2601.18184",
       "pdf_url": "https://arxiv.org/pdf/2601.18184.pdf",
       "published": "2026-01-26T06:11:51Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.18137",
+      "title": "DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints",
+      "authors": [
+        "Yinger Zhang",
+        "Shutong Jiang",
+        "Renhao Li",
+        "Jianhong Tu",
+        "Yang Su",
+        "Lianghao Deng",
+        "Xudong Guo",
+        "Chenxu Lv",
+        "Junyang Lin"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.18137",
+      "pdf_url": "https://arxiv.org/pdf/2601.18137.pdf",
+      "published": "2026-01-26T04:43:49Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -912,6 +1082,24 @@
       "score": 1.3863
     },
     {
+      "id": "2601.16809",
+      "title": "Will It Survive? Deciphering the Fate of AI-Generated Code in Open Source",
+      "authors": [
+        "Musfiqur Rahman",
+        "Emad Shihab"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.16809",
+      "pdf_url": "https://arxiv.org/pdf/2601.16809.pdf",
+      "published": "2026-01-23T15:00:46Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2601.16853",
       "title": "Reasoning Promotes Robustness in Theory of Mind Tasks",
       "authors": [
@@ -926,24 +1114,6 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.16809",
-      "title": "Will It Survive? Deciphering the Fate of AI-Generated Code in Open Source",
-      "authors": [
-        "Musfiqur Rahman",
-        "Emad Shihab"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.16809",
-      "pdf_url": "https://arxiv.org/pdf/2601.16809.pdf",
-      "published": "2026-01-23T15:00:46Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -974,24 +1144,6 @@
       "score": 1.3863
     },
     {
-      "id": "2601.15160",
-      "title": "Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning",
-      "authors": [
-        "Yuval Kansal",
-        "Niraj K. Jha"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.15160",
-      "pdf_url": "https://arxiv.org/pdf/2601.15160.pdf",
-      "published": "2026-01-21T16:38:59Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2601.18226",
       "title": "Yunjue Agent Tech Report: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks",
       "authors": [
@@ -1011,39 +1163,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 122
+        "gh_stars": 168
       },
-      "score": 1.1045
-    },
-    {
-      "id": "2601.15727",
-      "title": "Towards Automated Kernel Generation in the Era of LLMs",
-      "authors": [
-        "Yang Yu",
-        "Peiyu Zang",
-        "Chi Hsu Tsai",
-        "Haiming Wu",
-        "Yixin Shen",
-        "Jialing Zhang",
-        "Haoyu Wang",
-        "Zhiyou Xiao",
-        "Jingze Shi",
-        "Yuyu Luo",
-        "Wentao Zhang",
-        "Chunlei Men",
-        "Guang Liu",
-        "Yonghua Lin"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.15727",
-      "pdf_url": "https://arxiv.org/pdf/2601.15727.pdf",
-      "published": "2026-01-22T07:53:52Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 77
-      },
-      "score": 0.8775
+      "score": 1.2961
     },
     {
       "id": "2601.18577",
@@ -1063,9 +1185,30 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 43
+        "gh_stars": 71
       },
-      "score": 0.6557
+      "score": 0.8426
+    },
+    {
+      "id": "2601.20789",
+      "title": "SERA: Soft-Verified Efficient Repository Agents",
+      "authors": [
+        "Ethan Shen",
+        "Danny Tormoen",
+        "Saurabh Shah",
+        "Ali Farhadi",
+        "Tim Dettmers"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.20789",
+      "pdf_url": "https://arxiv.org/pdf/2601.20789.pdf",
+      "published": "2026-01-28T17:27:08Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 62
+      },
+      "score": 0.7874
     },
     {
       "id": "2601.16443",
@@ -1083,46 +1226,39 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 30
+        "gh_stars": 39
       },
-      "score": 0.5477
+      "score": 0.6245
     },
     {
-      "id": "2601.15380",
-      "title": "You Need Better Attention Priors",
+      "id": "2601.19494",
+      "title": "AACR-Bench: Evaluating Automatic Code Review with Holistic Repository-Level Context",
       "authors": [
-        "Elon Litman",
-        "Gabe Guo"
+        "Lei Zhang",
+        "Yongda Yu",
+        "Minghui Yu",
+        "Xinxin Guo",
+        "Zhengqi Zhuang",
+        "Guoping Rong",
+        "Dong Shao",
+        "Haifeng Shen",
+        "Hongyu Kuang",
+        "Zhengfeng Li",
+        "Boge Wang",
+        "Guoan Zhang",
+        "Bangyu Xiang",
+        "Xiaobing Xu"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.15380",
-      "pdf_url": "https://arxiv.org/pdf/2601.15380.pdf",
-      "published": "2026-01-21T19:00:08Z",
+      "abs_url": "https://arxiv.org/abs/2601.19494",
+      "pdf_url": "https://arxiv.org/pdf/2601.19494.pdf",
+      "published": "2026-01-27T11:28:44Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 11
+        "gh_stars": 17
       },
-      "score": 0.3317
-    },
-    {
-      "id": "2601.15715",
-      "title": "Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind",
-      "authors": [
-        "Zhitao He",
-        "Zongwei Lyu",
-        "Yi R Fung"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.15715",
-      "pdf_url": "https://arxiv.org/pdf/2601.15715.pdf",
-      "published": "2026-01-22T07:36:48Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 10
-      },
-      "score": 0.3162
+      "score": 0.4123
     },
     {
       "id": "2601.19362",
@@ -1142,9 +1278,31 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 6
+        "gh_stars": 8
       },
-      "score": 0.2449
+      "score": 0.2828
+    },
+    {
+      "id": "2601.20614",
+      "title": "Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation",
+      "authors": [
+        "Yanqi Dai",
+        "Yuxiang Ji",
+        "Xiao Zhang",
+        "Yong Wang",
+        "Xiangxiang Chu",
+        "Zhiwu Lu"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.20614",
+      "pdf_url": "https://arxiv.org/pdf/2601.20614.pdf",
+      "published": "2026-01-28T13:49:23Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 7
+      },
+      "score": 0.2646
     },
     {
       "id": "2601.17067",
@@ -1172,9 +1330,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 4
+        "gh_stars": 7
       },
-      "score": 0.2
+      "score": 0.2646
     },
     {
       "id": "2601.18081",
@@ -1192,9 +1350,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 3
+        "gh_stars": 6
       },
-      "score": 0.1732
+      "score": 0.2449
     },
     {
       "id": "2601.19375",
@@ -1210,37 +1368,19 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 1
+        "gh_stars": 3
       },
-      "score": 0.1
+      "score": 0.1732
     },
     {
-      "id": "2601.19867",
-      "title": "Bandits in Flux: Adversarial Constraints in Dynamic Environments",
+      "id": "2601.20830",
+      "title": "VSCOUT: A Hybrid Variational Autoencoder Approach to Outlier Detection in High-Dimensional Retrospective Monitoring",
       "authors": [
-        "Tareq Si Salem"
+        "Waldyn G. Martinez"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.19867",
-      "pdf_url": "https://arxiv.org/pdf/2601.19867.pdf",
-      "published": "2026-01-27T18:26:07Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 0.0
-    },
-    {
-      "id": "2601.19895",
-      "title": "Post-LayerNorm Is Back: Stable, ExpressivE, and Deep",
-      "authors": [
-        "Chen Chen",
-        "Lai Wei"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.19895",
-      "pdf_url": "https://arxiv.org/pdf/2601.19895.pdf",
-      "published": "2026-01-27T18:58:46Z",
+      "abs_url": "https://arxiv.org/abs/2601.20830",
+      "pdf_url": "https://arxiv.org/pdf/2601.20830.pdf",
+      "published": "2026-01-28T18:30:48Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
