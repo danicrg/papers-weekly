@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-01T08:38:37.485440Z",
+  "generated_utc": "2026-02-02T08:04:57.883920Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -81,12 +81,12 @@
       "pdf_url": "https://arxiv.org/pdf/2601.20103.pdf",
       "published": "2026-01-27T22:45:43Z",
       "signals": {
-        "reddit_mentions": 7,
+        "reddit_mentions": 8,
         "hn_mentions": 1,
         "hf_count": 1,
         "gh_stars": 0
       },
-      "score": 6.9315
+      "score": 7.167
     },
     {
       "id": "2601.18631",
@@ -107,9 +107,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 12,
-        "gh_stars": 58
+        "gh_stars": 60
       },
-      "score": 5.8915
+      "score": 5.9045
     },
     {
       "id": "2601.18491",
@@ -166,9 +166,30 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 7,
-        "gh_stars": 280
+        "gh_stars": 289
       },
-      "score": 5.8322
+      "score": 5.8589
+    },
+    {
+      "id": "2601.20789",
+      "title": "SERA: Soft-Verified Efficient Repository Agents",
+      "authors": [
+        "Ethan Shen",
+        "Danny Tormoen",
+        "Saurabh Shah",
+        "Ali Farhadi",
+        "Tim Dettmers"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.20789",
+      "pdf_url": "https://arxiv.org/pdf/2601.20789.pdf",
+      "published": "2026-01-28T17:27:08Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 4,
+        "gh_stars": 96
+      },
+      "score": 5.585
     },
     {
       "id": "2601.20614",
@@ -188,9 +209,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 101
+        "gh_stars": 105
       },
-      "score": 5.1639
+      "score": 5.1836
     },
     {
       "id": "2601.19325",
@@ -238,9 +259,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 7,
-        "gh_stars": 93
+        "gh_stars": 98
       },
-      "score": 5.1232
+      "score": 5.1488
     },
     {
       "id": "2601.22154",
@@ -264,9 +285,27 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 6,
-        "gh_stars": 21
+        "gh_stars": 22
       },
-      "score": 4.3501
+      "score": 4.3609
+    },
+    {
+      "id": "2601.21571",
+      "title": "Shaping capabilities with token-level data filtering",
+      "authors": [
+        "Neil Rathi",
+        "Alec Radford"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.21571",
+      "pdf_url": "https://arxiv.org/pdf/2601.21571.pdf",
+      "published": "2026-01-29T11:34:01Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 54
+      },
+      "score": 4.3184
     },
     {
       "id": "2601.18418",
@@ -297,9 +336,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 5,
-        "gh_stars": 35
+        "gh_stars": 36
       },
-      "score": 4.1751
+      "score": 4.1835
     },
     {
       "id": "2601.22146",
@@ -385,120 +424,94 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 56
+        "gh_stars": 57
       },
-      "score": 3.5209
+      "score": 3.5276
     },
     {
-      "id": "2601.18129",
-      "title": "Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models",
+      "id": "2601.20055",
+      "title": "VERGE: Formal Refinement and Guidance Engine for Verifiable LLM Reasoning",
       "authors": [
-        "Kunat Pipatanakul",
-        "Pittawat Taveekitworachai"
+        "Vikash Singh",
+        "Darion Cassel",
+        "Nathaniel Weir",
+        "Nick Feng",
+        "Sam Bayless"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.18129",
-      "pdf_url": "https://arxiv.org/pdf/2601.18129.pdf",
-      "published": "2026-01-26T04:20:59Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 7
-      },
-      "score": 3.4835
-    },
-    {
-      "id": "2601.21571",
-      "title": "Shaping capabilities with token-level data filtering",
-      "authors": [
-        "Neil Rathi",
-        "Alec Radford"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.21571",
-      "pdf_url": "https://arxiv.org/pdf/2601.21571.pdf",
-      "published": "2026-01-29T11:34:01Z",
+      "abs_url": "https://arxiv.org/abs/2601.20055",
+      "pdf_url": "https://arxiv.org/pdf/2601.20055.pdf",
+      "published": "2026-01-27T20:59:11Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 42
-      },
-      "score": 3.4207
-    },
-    {
-      "id": "2601.18207",
-      "title": "PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR",
-      "authors": [
-        "James Burgess",
-        "Jan N. Hansen",
-        "Duo Peng",
-        "Yuhui Zhang",
-        "Alejandro Lozano",
-        "Min Woo Sun",
-        "Emma Lundberg",
-        "Serena Yeung-Levy"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.18207",
-      "pdf_url": "https://arxiv.org/pdf/2601.18207.pdf",
-      "published": "2026-01-26T06:46:16Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 4,
         "gh_stars": 0
       },
-      "score": 3.2189
+      "score": 2.7726
     },
     {
-      "id": "2601.17761",
-      "title": "AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation",
+      "id": "2601.20209",
+      "title": "Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning",
       "authors": [
-        "Dongjie Cheng",
-        "Ruifeng Yuan",
-        "Yongqi Li",
-        "Runyang You",
-        "Wenjie Wang",
-        "Liqiang Nie",
-        "Lei Zhang",
-        "Wenjie Li"
+        "Jinyang Wu",
+        "Shuo Yang",
+        "Changpeng Yang",
+        "Yuhao Shen",
+        "Shuai Zhang",
+        "Zhengqi Wen",
+        "Jianhua Tao"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.17761",
-      "pdf_url": "https://arxiv.org/pdf/2601.17761.pdf",
-      "published": "2026-01-25T09:17:36Z",
+      "abs_url": "https://arxiv.org/abs/2601.20209",
+      "pdf_url": "https://arxiv.org/pdf/2601.20209.pdf",
+      "published": "2026-01-28T03:15:34Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 18
+        "gh_stars": 0
       },
-      "score": 3.1969
+      "score": 2.7726
     },
     {
-      "id": "2601.21459",
-      "title": "HER: Human-like Reasoning and Reinforcement Learning for LLM Role-playing",
+      "id": "2601.21105",
+      "title": "SteerEval: A Framework for Evaluating Steerability with Natural Language Profiles for Recommendation",
       "authors": [
-        "Chengyu Du",
-        "Xintao Wang",
-        "Aili Chen",
-        "Weiyuan Li",
-        "Rui Xu",
-        "Junteng Liu",
-        "Zishan Huang",
-        "Rong Tian",
-        "Zijun Sun",
-        "Yuhao Li",
-        "Liheng Feng",
-        "Deming Ding",
-        "Pengyu Zhao",
-        "Yanghua Xiao"
+        "Joyce Zhou",
+        "Weijie Zhou",
+        "Doug Turnbull",
+        "Thorsten Joachims"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.21459",
-      "pdf_url": "https://arxiv.org/pdf/2601.21459.pdf",
-      "published": "2026-01-29T09:35:27Z",
+      "abs_url": "https://arxiv.org/abs/2601.21105",
+      "pdf_url": "https://arxiv.org/pdf/2601.21105.pdf",
+      "published": "2026-01-28T22:54:35Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
+        "gh_stars": 0
+      },
+      "score": 2.7726
+    },
+    {
+      "id": "2601.21096",
+      "title": "Magellan: Autonomous Discovery of Novel Compiler Optimization Heuristics with AlphaEvolve",
+      "authors": [
+        "Hongzheng Chen",
+        "Alexander Novikov",
+        "Ng\u00e2n V\u0169",
+        "Hanna Alam",
+        "Zhiru Zhang",
+        "Aiden Grossman",
+        "Mircea Trofin",
+        "Amir Yazdanbakhsh"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.21096",
+      "pdf_url": "https://arxiv.org/pdf/2601.21096.pdf",
+      "published": "2026-01-28T22:34:56Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 1,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 2.7726
@@ -536,53 +549,6 @@
       "score": 2.7726
     },
     {
-      "id": "2601.21096",
-      "title": "Magellan: Autonomous Discovery of Novel Compiler Optimization Heuristics with AlphaEvolve",
-      "authors": [
-        "Hongzheng Chen",
-        "Alexander Novikov",
-        "Ng\u00e2n V\u0169",
-        "Hanna Alam",
-        "Zhiru Zhang",
-        "Aiden Grossman",
-        "Mircea Trofin",
-        "Amir Yazdanbakhsh"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.21096",
-      "pdf_url": "https://arxiv.org/pdf/2601.21096.pdf",
-      "published": "2026-01-28T22:34:56Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 2.7726
-    },
-    {
-      "id": "2601.20209",
-      "title": "Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning",
-      "authors": [
-        "Jinyang Wu",
-        "Shuo Yang",
-        "Changpeng Yang",
-        "Yuhao Shen",
-        "Shuai Zhang",
-        "Zhengqi Wen",
-        "Jianhua Tao"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.20209",
-      "pdf_url": "https://arxiv.org/pdf/2601.20209.pdf",
-      "published": "2026-01-28T03:15:34Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 3,
-        "gh_stars": 0
-      },
-      "score": 2.7726
-    },
-    {
       "id": "2601.19895",
       "title": "Post-LayerNorm Is Back: Stable, ExpressivE, and Deep",
       "authors": [
@@ -601,17 +567,27 @@
       "score": 2.7726
     },
     {
-      "id": "2601.21105",
-      "title": "SteerEval: A Framework for Evaluating Steerability with Natural Language Profiles for Recommendation",
+      "id": "2601.21459",
+      "title": "HER: Human-like Reasoning and Reinforcement Learning for LLM Role-playing",
       "authors": [
-        "Joyce Zhou",
-        "Weijie Zhou",
-        "Doug Turnbull",
-        "Thorsten Joachims"
+        "Chengyu Du",
+        "Xintao Wang",
+        "Aili Chen",
+        "Weiyuan Li",
+        "Rui Xu",
+        "Junteng Liu",
+        "Zishan Huang",
+        "Rong Tian",
+        "Zijun Sun",
+        "Yuhao Li",
+        "Liheng Feng",
+        "Deming Ding",
+        "Pengyu Zhao",
+        "Yanghua Xiao"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.21105",
-      "pdf_url": "https://arxiv.org/pdf/2601.21105.pdf",
-      "published": "2026-01-28T22:54:35Z",
+      "abs_url": "https://arxiv.org/abs/2601.21459",
+      "pdf_url": "https://arxiv.org/pdf/2601.21459.pdf",
+      "published": "2026-01-29T09:35:27Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -621,18 +597,19 @@
       "score": 2.7726
     },
     {
-      "id": "2601.20055",
-      "title": "VERGE: Formal Refinement and Guidance Engine for Verifiable LLM Reasoning",
+      "id": "2601.18778",
+      "title": "Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability",
       "authors": [
-        "Vikash Singh",
-        "Darion Cassel",
-        "Nathaniel Weir",
-        "Nick Feng",
-        "Sam Bayless"
+        "Shobhita Sundaram",
+        "John Quan",
+        "Ariel Kwiatkowski",
+        "Kartik Ahuja",
+        "Yann Ollivier",
+        "Julia Kempe"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.20055",
-      "pdf_url": "https://arxiv.org/pdf/2601.20055.pdf",
-      "published": "2026-01-27T20:59:11Z",
+      "abs_url": "https://arxiv.org/abs/2601.18778",
+      "pdf_url": "https://arxiv.org/pdf/2601.18778.pdf",
+      "published": "2026-01-26T18:46:56Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 1,
@@ -640,27 +617,6 @@
         "gh_stars": 0
       },
       "score": 2.7726
-    },
-    {
-      "id": "2601.20789",
-      "title": "SERA: Soft-Verified Efficient Repository Agents",
-      "authors": [
-        "Ethan Shen",
-        "Danny Tormoen",
-        "Saurabh Shah",
-        "Ali Farhadi",
-        "Tim Dettmers"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.20789",
-      "pdf_url": "https://arxiv.org/pdf/2601.20789.pdf",
-      "published": "2026-01-28T17:27:08Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 94
-      },
-      "score": 2.3558
     },
     {
       "id": "2601.19897",
@@ -678,9 +634,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 76
+        "gh_stars": 121
       },
-      "score": 2.2581
+      "score": 2.4863
     },
     {
       "id": "2601.20883",
@@ -696,30 +652,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 0
+        "gh_stars": 3
       },
-      "score": 2.1972
-    },
-    {
-      "id": "2601.18238",
-      "title": "TechING: Towards Real World Technical Image Understanding via VLMs",
-      "authors": [
-        "Tafazzul Nadeem",
-        "Bhavik Shangari",
-        "Manish Rai",
-        "Gagan Raj Gupta",
-        "Ashutosh Modi"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.18238",
-      "pdf_url": "https://arxiv.org/pdf/2601.18238.pdf",
-      "published": "2026-01-26T07:43:55Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 0
-      },
-      "score": 2.1972
+      "score": 2.3704
     },
     {
       "id": "2601.21083",
@@ -739,81 +674,24 @@
       "score": 2.1972
     },
     {
-      "id": "2601.18067",
-      "title": "EvolVE: Evolutionary Search for LLM-based Verilog Generation and Optimization",
+      "id": "2601.21839",
+      "title": "Test-Time Compute Games",
       "authors": [
-        "Wei-Po Hsin",
-        "Ren-Hao Deng",
-        "Yao-Ting Hsieh",
-        "En-Ming Huang",
-        "Shih-Hao Hung"
+        "Ander Artola Velasco",
+        "Dimitrios Rontogiannis",
+        "Stratis Tsirtsis",
+        "Manuel Gomez-Rodriguez"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.18067",
-      "pdf_url": "https://arxiv.org/pdf/2601.18067.pdf",
-      "published": "2026-01-26T01:53:54Z",
+      "abs_url": "https://arxiv.org/abs/2601.21839",
+      "pdf_url": "https://arxiv.org/pdf/2601.21839.pdf",
+      "published": "2026-01-29T15:18:01Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 6
+        "gh_stars": 0
       },
-      "score": 1.6312
-    },
-    {
-      "id": "2601.17737",
-      "title": "The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation",
-      "authors": [
-        "Chenyu Mu",
-        "Xin He",
-        "Qu Yang",
-        "Wanshun Chen",
-        "Jiadi Yao",
-        "Huang Liu",
-        "Zihao Yi",
-        "Bo Zhao",
-        "Xingyu Chen",
-        "Ruotian Ma",
-        "Fanghua Ye",
-        "Erkun Yang",
-        "Cheng Deng",
-        "Zhaopeng Tu",
-        "Xiaolong Li",
-        "Linus"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.17737",
-      "pdf_url": "https://arxiv.org/pdf/2601.17737.pdf",
-      "published": "2026-01-25T08:10:28Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 251
-      },
-      "score": 1.5843
-    },
-    {
-      "id": "2601.18226",
-      "title": "Yunjue Agent Tech Report: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks",
-      "authors": [
-        "Haotian Li",
-        "Shijun Yang",
-        "Weizhen Qi",
-        "Silei Zhao",
-        "Rui Hua",
-        "Mingzhu Song",
-        "Xiaojian Yang",
-        "Chao Peng"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.18226",
-      "pdf_url": "https://arxiv.org/pdf/2601.18226.pdf",
-      "published": "2026-01-26T07:27:47Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 223
-      },
-      "score": 1.4933
+      "score": 1.3863
     },
     {
       "id": "2601.21894",
@@ -839,17 +717,117 @@
       "score": 1.3863
     },
     {
-      "id": "2601.21839",
-      "title": "Test-Time Compute Games",
+      "id": "2601.19439",
+      "title": "OSIRIS: Bridging Analog Circuit Design and Machine Learning with Scalable Dataset Generation",
       "authors": [
-        "Ander Artola Velasco",
-        "Dimitrios Rontogiannis",
-        "Stratis Tsirtsis",
-        "Manuel Gomez-Rodriguez"
+        "Giuseppe Chiari",
+        "Michele Piccoli",
+        "Davide Zoni"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.21839",
-      "pdf_url": "https://arxiv.org/pdf/2601.21839.pdf",
-      "published": "2026-01-29T15:18:01Z",
+      "abs_url": "https://arxiv.org/abs/2601.19439",
+      "pdf_url": "https://arxiv.org/pdf/2601.19439.pdf",
+      "published": "2026-01-27T10:18:46Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.19532",
+      "title": "Benchmarks Saturate When The Model Gets Smarter Than The Judge",
+      "authors": [
+        "Marthe Ballon",
+        "Andres Algaba",
+        "Brecht Verbeken",
+        "Vincent Ginis"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.19532",
+      "pdf_url": "https://arxiv.org/pdf/2601.19532.pdf",
+      "published": "2026-01-27T12:20:44Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.21666",
+      "title": "SONIC-O1: A Real-World Benchmark for Evaluating Multimodal Large Language Models on Audio-Video Understanding",
+      "authors": [
+        "Ahmed Y. Radwan",
+        "Christos Emmanouilidis",
+        "Hina Tabassum",
+        "Deval Pandya",
+        "Shaina Raza"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.21666",
+      "pdf_url": "https://arxiv.org/pdf/2601.21666.pdf",
+      "published": "2026-01-29T13:01:07Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.19672",
+      "title": "ProToken: Token-Level Attribution for Federated Large Language Models",
+      "authors": [
+        "Waris Gill",
+        "Ahmad Humayun",
+        "Ali Anwar",
+        "Muhammad Ali Gulzar"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.19672",
+      "pdf_url": "https://arxiv.org/pdf/2601.19672.pdf",
+      "published": "2026-01-27T14:53:12Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.18401",
+      "title": "Superlinear Multi-Step Attention",
+      "authors": [
+        "Yufeng Huang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.18401",
+      "pdf_url": "https://arxiv.org/pdf/2601.18401.pdf",
+      "published": "2026-01-26T11:58:42Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.19194",
+      "title": "SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper",
+      "authors": [
+        "Alexander Polok",
+        "Dominik Klement",
+        "Samuele Cornell",
+        "Matthew Wiesner",
+        "Jan \u010cernock\u00fd",
+        "Sanjeev Khudanpur",
+        "Luk\u00e1\u0161 Burget"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.19194",
+      "pdf_url": "https://arxiv.org/pdf/2601.19194.pdf",
+      "published": "2026-01-27T04:51:07Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -916,27 +894,6 @@
       "score": 1.3863
     },
     {
-      "id": "2601.20834",
-      "title": "Linear representations in language models can change dramatically over a conversation",
-      "authors": [
-        "Andrew Kyle Lampinen",
-        "Yuxuan Li",
-        "Eghbal Hosseini",
-        "Sangnie Bhardwaj",
-        "Murray Shanahan"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.20834",
-      "pdf_url": "https://arxiv.org/pdf/2601.20834.pdf",
-      "published": "2026-01-28T18:33:17Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2601.20088",
       "title": "Quantization-Aware Distillation for NVFP4 Inference Accuracy Recovery",
       "authors": [
@@ -982,104 +939,39 @@
       "score": 1.3863
     },
     {
-      "id": "2601.19672",
-      "title": "ProToken: Token-Level Attribution for Federated Large Language Models",
+      "id": "2601.21711",
+      "title": "TACLer: Tailored Curriculum Reinforcement Learning for Efficient Reasoning",
       "authors": [
-        "Waris Gill",
-        "Ahmad Humayun",
-        "Ali Anwar",
-        "Muhammad Ali Gulzar"
+        "Huiyuan Lai",
+        "Malvina Nissim"
       ],
-      "abs_url": "https://arxiv.org/abs/2601.19672",
-      "pdf_url": "https://arxiv.org/pdf/2601.19672.pdf",
-      "published": "2026-01-27T14:53:12Z",
+      "abs_url": "https://arxiv.org/abs/2601.21711",
+      "pdf_url": "https://arxiv.org/pdf/2601.21711.pdf",
+      "published": "2026-01-29T13:40:35Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2601.20834",
+      "title": "Linear representations in language models can change dramatically over a conversation",
+      "authors": [
+        "Andrew Kyle Lampinen",
+        "Yuxuan Li",
+        "Eghbal Hosseini",
+        "Sangnie Bhardwaj",
+        "Murray Shanahan"
+      ],
+      "abs_url": "https://arxiv.org/abs/2601.20834",
+      "pdf_url": "https://arxiv.org/pdf/2601.20834.pdf",
+      "published": "2026-01-28T18:33:17Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.19532",
-      "title": "Benchmarks Saturate When The Model Gets Smarter Than The Judge",
-      "authors": [
-        "Marthe Ballon",
-        "Andres Algaba",
-        "Brecht Verbeken",
-        "Vincent Ginis"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.19532",
-      "pdf_url": "https://arxiv.org/pdf/2601.19532.pdf",
-      "published": "2026-01-27T12:20:44Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.19439",
-      "title": "OSIRIS: Bridging Analog Circuit Design and Machine Learning with Scalable Dataset Generation",
-      "authors": [
-        "Giuseppe Chiari",
-        "Michele Piccoli",
-        "Davide Zoni"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.19439",
-      "pdf_url": "https://arxiv.org/pdf/2601.19439.pdf",
-      "published": "2026-01-27T10:18:46Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.19194",
-      "title": "SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper",
-      "authors": [
-        "Alexander Polok",
-        "Dominik Klement",
-        "Samuele Cornell",
-        "Matthew Wiesner",
-        "Jan \u010cernock\u00fd",
-        "Sanjeev Khudanpur",
-        "Luk\u00e1\u0161 Burget"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.19194",
-      "pdf_url": "https://arxiv.org/pdf/2601.19194.pdf",
-      "published": "2026-01-27T04:51:07Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.18778",
-      "title": "Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability",
-      "authors": [
-        "Shobhita Sundaram",
-        "John Quan",
-        "Ariel Kwiatkowski",
-        "Kartik Ahuja",
-        "Yann Ollivier",
-        "Julia Kempe"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.18778",
-      "pdf_url": "https://arxiv.org/pdf/2601.18778.pdf",
-      "published": "2026-01-26T18:46:56Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
         "hf_count": 0,
         "gh_stars": 0
       },
@@ -1111,44 +1003,6 @@
       "score": 1.3863
     },
     {
-      "id": "2601.18401",
-      "title": "Superlinear Multi-Step Attention",
-      "authors": [
-        "Yufeng Huang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.18401",
-      "pdf_url": "https://arxiv.org/pdf/2601.18401.pdf",
-      "published": "2026-01-26T11:58:42Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.17786",
-      "title": "Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations",
-      "authors": [
-        "Yixin Liu",
-        "Kehan Yan",
-        "Shiyuan Li",
-        "Qingfeng Chen",
-        "Shirui Pan"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.17786",
-      "pdf_url": "https://arxiv.org/pdf/2601.17786.pdf",
-      "published": "2026-01-25T10:52:59Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
       "id": "2601.21920",
       "title": "From Future of Work to Future of Workers: Addressing Asymptomatic AI Harms for Dignified Human-AI Interaction",
       "authors": [
@@ -1166,45 +1020,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.21711",
-      "title": "TACLer: Tailored Curriculum Reinforcement Learning for Efficient Reasoning",
-      "authors": [
-        "Huiyuan Lai",
-        "Malvina Nissim"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.21711",
-      "pdf_url": "https://arxiv.org/pdf/2601.21711.pdf",
-      "published": "2026-01-29T13:40:35Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2601.21666",
-      "title": "SONIC-O1: A Real-World Benchmark for Evaluating Multimodal Large Language Models on Audio-Video Understanding",
-      "authors": [
-        "Ahmed Y. Radwan",
-        "Christos Emmanouilidis",
-        "Hina Tabassum",
-        "Deval Pandya",
-        "Shaina Raza"
-      ],
-      "abs_url": "https://arxiv.org/abs/2601.21666",
-      "pdf_url": "https://arxiv.org/pdf/2601.21666.pdf",
-      "published": "2026-01-29T13:01:07Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
