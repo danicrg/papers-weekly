@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-07T08:54:40.030610Z",
+  "generated_utc": "2026-02-08T08:53:28.193895Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -30,9 +30,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 4,
-        "gh_stars": 2399
+        "gh_stars": 2407
       },
-      "score": 8.1168
+      "score": 8.125
     },
     {
       "id": "2602.02276",
@@ -372,9 +372,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 780
+        "gh_stars": 814
       },
-      "score": 6.9517
+      "score": 7.012
     },
     {
       "id": "2602.02488",
@@ -393,9 +393,36 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 6,
-        "gh_stars": 230
+        "gh_stars": 236
       },
-      "score": 5.4084
+      "score": 5.428
+    },
+    {
+      "id": "2602.05192",
+      "title": "First Proof",
+      "authors": [
+        "Mohammed Abouzaid",
+        "Andrew J. Blumberg",
+        "Martin Hairer",
+        "Joe Kileel",
+        "Tamara G. Kolda",
+        "Paul D. Nelson",
+        "Daniel Spielman",
+        "Nikhil Srivastava",
+        "Rachel Ward",
+        "Shmuel Weinberger",
+        "Lauren Williams"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.05192",
+      "pdf_url": "https://arxiv.org/pdf/2602.05192.pdf",
+      "published": "2026-02-05T01:37:14Z",
+      "signals": {
+        "reddit_mentions": 4,
+        "hn_mentions": 2,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 5.4161
     },
     {
       "id": "2602.02343",
@@ -421,32 +448,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 2710
+        "gh_stars": 2711
       },
-      "score": 5.2058
-    },
-    {
-      "id": "2602.05885",
-      "title": "Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations",
-      "authors": [
-        "Wei Liu",
-        "Jiawei Xu",
-        "Yingru Li",
-        "Longtao Zheng",
-        "Tianjian Li",
-        "Qian Liu",
-        "Junxian He"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.05885",
-      "pdf_url": "https://arxiv.org/pdf/2602.05885.pdf",
-      "published": "2026-02-05T17:01:09Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 7,
-        "gh_stars": 0
-      },
-      "score": 4.1589
+      "score": 5.2067
     },
     {
       "id": "2602.05879",
@@ -474,6 +478,29 @@
       "abs_url": "https://arxiv.org/abs/2602.05879",
       "pdf_url": "https://arxiv.org/pdf/2602.05879.pdf",
       "published": "2026-02-05T16:53:47Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 7,
+        "gh_stars": 0
+      },
+      "score": 4.1589
+    },
+    {
+      "id": "2602.05885",
+      "title": "Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations",
+      "authors": [
+        "Wei Liu",
+        "Jiawei Xu",
+        "Yingru Li",
+        "Longtao Zheng",
+        "Tianjian Li",
+        "Qian Liu",
+        "Junxian He"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.05885",
+      "pdf_url": "https://arxiv.org/pdf/2602.05885.pdf",
+      "published": "2026-02-05T17:01:09Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -519,6 +546,30 @@
         "gh_stars": 5
       },
       "score": 4.1154
+    },
+    {
+      "id": "2602.05735",
+      "title": "CSRv2: Unlocking Ultra-Sparse Embeddings",
+      "authors": [
+        "Lixuan Guo",
+        "Yifei Wang",
+        "Tiansheng Wen",
+        "Yifan Wang",
+        "Aosong Feng",
+        "Bo Chen",
+        "Stefanie Jegelka",
+        "Chenyu You"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.05735",
+      "pdf_url": "https://arxiv.org/pdf/2602.05735.pdf",
+      "published": "2026-02-05T14:59:51Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 6,
+        "gh_stars": 0
+      },
+      "score": 3.8918
     },
     {
       "id": "2602.01539",
@@ -601,9 +652,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 170
+        "gh_stars": 183
       },
-      "score": 3.5011
+      "score": 3.55
     },
     {
       "id": "2602.01997",
@@ -669,24 +720,6 @@
       "score": 3.2189
     },
     {
-      "id": "2602.00913",
-      "title": "Do Schwartz Higher-Order Values Help Sentence-Level Human Value Detection? When Hard Gating Hurts",
-      "authors": [
-        "V\u00edctor Yeste",
-        "Paolo Rosso"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.00913",
-      "pdf_url": "https://arxiv.org/pdf/2602.00913.pdf",
-      "published": "2026-01-31T21:50:35Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 0
-      },
-      "score": 3.2189
-    },
-    {
       "id": "2602.02110",
       "title": "An Empirical Study of World Model Quantization",
       "authors": [
@@ -709,6 +742,26 @@
       "score": 3.0512
     },
     {
+      "id": "2602.04118",
+      "title": "Learning to Reason in 13 Parameters",
+      "authors": [
+        "John X. Morris",
+        "Niloofar Mireshghallah",
+        "Mark Ibrahim",
+        "Saeed Mahloujifar"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.04118",
+      "pdf_url": "https://arxiv.org/pdf/2602.04118.pdf",
+      "published": "2026-02-04T01:20:04Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 2.7726
+    },
+    {
       "id": "2602.03190",
       "title": "Prompt Augmentation Scales up GRPO Training on Mathematical Reasoning",
       "authors": [
@@ -728,28 +781,20 @@
       "score": 2.7726
     },
     {
-      "id": "2602.05192",
-      "title": "First Proof",
+      "id": "2602.02285",
+      "title": "Statistical Learning Theory in Lean 4: Empirical Processes from Scratch",
       "authors": [
-        "Mohammed Abouzaid",
-        "Andrew J. Blumberg",
-        "Martin Hairer",
-        "Joe Kileel",
-        "Tamara G. Kolda",
-        "Paul D. Nelson",
-        "Daniel Spielman",
-        "Nikhil Srivastava",
-        "Rachel Ward",
-        "Shmuel Weinberger",
-        "Lauren Williams"
+        "Yuanhe Zhang",
+        "Jason D. Lee",
+        "Fanghui Liu"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.05192",
-      "pdf_url": "https://arxiv.org/pdf/2602.05192.pdf",
-      "published": "2026-02-05T01:37:14Z",
+      "abs_url": "https://arxiv.org/abs/2602.02285",
+      "pdf_url": "https://arxiv.org/pdf/2602.02285.pdf",
+      "published": "2026-02-02T16:24:53Z",
       "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 1,
-        "hf_count": 0,
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 3,
         "gh_stars": 0
       },
       "score": 2.7726
@@ -839,31 +884,6 @@
       "score": 2.7726
     },
     {
-      "id": "2602.00950",
-      "title": "MindGuard: Guardrail Classifiers for Multi-Turn Mental Health Support",
-      "authors": [
-        "Ant\u00f3nio Farinhas",
-        "Nuno M. Guerreiro",
-        "Jos\u00e9 Pombal",
-        "Pedro Henrique Martins",
-        "Laura Melton",
-        "Alex Conway",
-        "Cara Dochat",
-        "Maya D'Eon",
-        "Ricardo Rei"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.00950",
-      "pdf_url": "https://arxiv.org/pdf/2602.00950.pdf",
-      "published": "2026-02-01T01:03:20Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 3,
-        "gh_stars": 0
-      },
-      "score": 2.7726
-    },
-    {
       "id": "2602.01576",
       "title": "Generative Visual Code Mobile World Models",
       "authors": [
@@ -880,9 +900,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 29
+        "gh_stars": 30
       },
-      "score": 2.7357
+      "score": 2.7449
     },
     {
       "id": "2602.02619",
@@ -1117,6 +1137,28 @@
       "score": 2.1972
     },
     {
+      "id": "2602.02961",
+      "title": "Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth",
+      "authors": [
+        "Faye Zhang",
+        "Qianyu Cheng",
+        "Jasmine Wan",
+        "Vishwakarma Singh",
+        "Jinfeng Rao",
+        "Kofi Boakye"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.02961",
+      "pdf_url": "https://arxiv.org/pdf/2602.02961.pdf",
+      "published": "2026-02-03T00:58:50Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 2.1972
+    },
+    {
       "id": "2602.03012",
       "title": "CVE-Factory: Scaling Expert-Level Agentic Tasks for Code Security Vulnerability",
       "authors": [
@@ -1139,28 +1181,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
-      "id": "2602.02961",
-      "title": "Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth",
-      "authors": [
-        "Faye Zhang",
-        "Qianyu Cheng",
-        "Jasmine Wan",
-        "Vishwakarma Singh",
-        "Jinfeng Rao",
-        "Kofi Boakye"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.02961",
-      "pdf_url": "https://arxiv.org/pdf/2602.02961.pdf",
-      "published": "2026-02-03T00:58:50Z",
-      "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 0,
-        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 2.1972
@@ -1245,9 +1265,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 26
+        "gh_stars": 27
       },
-      "score": 1.8962
+      "score": 1.9059
     },
     {
       "id": "2602.02486",
@@ -1281,9 +1301,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 20
+        "gh_stars": 22
       },
-      "score": 1.8335
+      "score": 1.8553
     },
     {
       "id": "2602.05986",
@@ -1309,9 +1329,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 19
+        "gh_stars": 20
       },
-      "score": 1.8222
+      "score": 1.8335
     },
     {
       "id": "2602.03036",
@@ -1334,9 +1354,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 16
+        "gh_stars": 19
       },
-      "score": 1.7863
+      "score": 1.8222
     },
     {
       "id": "2602.03955",
@@ -1359,9 +1379,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 11
+        "gh_stars": 16
       },
-      "score": 1.718
+      "score": 1.7863
     },
     {
       "id": "2602.05386",
@@ -1461,6 +1481,35 @@
       "score": 1.5595
     },
     {
+      "id": "2602.02338",
+      "title": "Rethinking Generative Recommender Tokenizer: Recsys-Native Encoding and Semantic Quantization Beyond LLMs",
+      "authors": [
+        "Yu Liang",
+        "Zhongjin Zhang",
+        "Yuxuan Zhu",
+        "Kerui Zhang",
+        "Zhiluohan Guo",
+        "Wenhang Zhou",
+        "Zonqi Yang",
+        "Kangle Wu",
+        "Yabo Ni",
+        "Anxiang Zeng",
+        "Cong Fu",
+        "Jianxin Wang",
+        "Jiazhi Xia"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.02338",
+      "pdf_url": "https://arxiv.org/pdf/2602.02338.pdf",
+      "published": "2026-02-02T17:00:04Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 2
+      },
+      "score": 1.5277
+    },
+    {
       "id": "2602.02405",
       "title": "Didactic to Constructive: Turning Expert Solutions into Learnable Reasoning",
       "authors": [
@@ -1500,6 +1549,23 @@
       "score": 1.3863
     },
     {
+      "id": "2602.05269",
+      "title": "Hybrid Gated Flow (HGF): Stabilizing 1.58-bit LLMs via Selective Low-Rank Correction",
+      "authors": [
+        "David Alejandro Trejo Pizzo"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.05269",
+      "pdf_url": "https://arxiv.org/pdf/2602.05269.pdf",
+      "published": "2026-02-05T03:47:17Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2602.05541",
       "title": "Reducing the Complexity of Matrix Multiplication to $O(N^2log_2N)$ by an Asymptotically Optimal Quantum Algorithm",
       "authors": [
@@ -1513,23 +1579,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.05269",
-      "title": "Hybrid Gated Flow (HGF): Stabilizing 1.58-bit LLMs via Selective Low-Rank Correction",
-      "authors": [
-        "David Alejandro Trejo Pizzo"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.05269",
-      "pdf_url": "https://arxiv.org/pdf/2602.05269.pdf",
-      "published": "2026-02-05T03:47:17Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -1556,54 +1605,6 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.04770",
-      "title": "Generative Modeling via Drifting",
-      "authors": [
-        "Mingyang Deng",
-        "He Li",
-        "Tianhong Li",
-        "Yilun Du",
-        "Kaiming He"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.04770",
-      "pdf_url": "https://arxiv.org/pdf/2602.04770.pdf",
-      "published": "2026-02-04T17:06:49Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.04581",
-      "title": "Trust The Typical",
-      "authors": [
-        "Debargha Ganguly",
-        "Sreehari Sankar",
-        "Biyao Zhang",
-        "Vikash Singh",
-        "Kanan Gupta",
-        "Harshini Kavuru",
-        "Alan Luo",
-        "Weicong Chen",
-        "Warren Morningstar",
-        "Raghu Machiraju",
-        "Vipin Chaudhary"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.04581",
-      "pdf_url": "https://arxiv.org/pdf/2602.04581.pdf",
-      "published": "2026-02-04T14:06:46Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
