@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-08T08:53:28.193895Z",
+  "generated_utc": "2026-02-09T09:01:48.596281Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -29,10 +29,10 @@
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 2407
+        "hf_count": 5,
+        "gh_stars": 2414
       },
-      "score": 8.125
+      "score": 8.4968
     },
     {
       "id": "2602.02276",
@@ -372,9 +372,9 @@
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 814
+        "gh_stars": 839
       },
-      "score": 7.012
+      "score": 7.0554
     },
     {
       "id": "2602.02488",
@@ -393,9 +393,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 6,
-        "gh_stars": 236
+        "gh_stars": 239
       },
-      "score": 5.428
+      "score": 5.4378
     },
     {
       "id": "2602.05192",
@@ -448,9 +448,30 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 2711
+        "gh_stars": 2712
       },
-      "score": 5.2067
+      "score": 5.2077
+    },
+    {
+      "id": "2602.06964",
+      "title": "Learning a Generative Meta-Model of LLM Activations",
+      "authors": [
+        "Grace Luo",
+        "Jiahai Feng",
+        "Trevor Darrell",
+        "Alec Radford",
+        "Jacob Steinhardt"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.06964",
+      "pdf_url": "https://arxiv.org/pdf/2602.06964.pdf",
+      "published": "2026-02-06T18:59:56Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 11,
+        "gh_stars": 0
+      },
+      "score": 4.9698
     },
     {
       "id": "2602.05879",
@@ -481,10 +502,10 @@
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 7,
+        "hf_count": 8,
         "gh_stars": 0
       },
-      "score": 4.1589
+      "score": 4.3944
     },
     {
       "id": "2602.05885",
@@ -572,32 +593,6 @@
       "score": 3.8918
     },
     {
-      "id": "2602.01539",
-      "title": "MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety",
-      "authors": [
-        "Xiaoyu Wen",
-        "Zhida He",
-        "Han Qi",
-        "Ziyu Wan",
-        "Zhongtian Ma",
-        "Ying Wen",
-        "Tianhang Zheng",
-        "Xingcheng Xu",
-        "Chaochao Lu",
-        "Qiaosheng Zhang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.01539",
-      "pdf_url": "https://arxiv.org/pdf/2602.01539.pdf",
-      "published": "2026-02-02T02:12:28Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 32
-      },
-      "score": 3.7846
-    },
-    {
       "id": "2602.04605",
       "title": "RexBERT: Context Specialized Bidirectional Encoders for E-commerce",
       "authors": [
@@ -652,9 +647,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 183
+        "gh_stars": 189
       },
-      "score": 3.55
+      "score": 3.572
     },
     {
       "id": "2602.01997",
@@ -737,9 +732,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 931
+        "gh_stars": 932
       },
-      "score": 3.0512
+      "score": 3.0529
     },
     {
       "id": "2602.04118",
@@ -884,27 +879,6 @@
       "score": 2.7726
     },
     {
-      "id": "2602.01576",
-      "title": "Generative Visual Code Mobile World Models",
-      "authors": [
-        "Woosung Koh",
-        "Sungjun Han",
-        "Segyu Lee",
-        "Se-Young Yun",
-        "Jamin Shin"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.01576",
-      "pdf_url": "https://arxiv.org/pdf/2602.01576.pdf",
-      "published": "2026-02-02T03:12:16Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 30
-      },
-      "score": 2.7449
-    },
-    {
       "id": "2602.02619",
       "title": "daVinci-Agency: Unlocking Long-Horizon Agency Data-Efficiently",
       "authors": [
@@ -953,37 +927,6 @@
       "score": 2.5578
     },
     {
-      "id": "2602.01541",
-      "title": "Toward Cognitive Supersensing in Multimodal Large Language Model",
-      "authors": [
-        "Boyi Li",
-        "Yifan Shen",
-        "Yuanzhe Liu",
-        "Yifan Xu",
-        "Jiateng Liu",
-        "Xinzhuo Li",
-        "Zhengyuan Li",
-        "Jingyuan Zhu",
-        "Yunhan Zhong",
-        "Fangzhou Lan",
-        "Jianguo Cao",
-        "James M. Rehg",
-        "Heng Ji",
-        "Ismini Lourentzou",
-        "Xu Cao"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.01541",
-      "pdf_url": "https://arxiv.org/pdf/2602.01541.pdf",
-      "published": "2026-02-02T02:19:50Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 7
-      },
-      "score": 2.4618
-    },
-    {
       "id": "2602.03806",
       "title": "Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation",
       "authors": [
@@ -1001,9 +944,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 6
+        "gh_stars": 7
       },
-      "score": 2.4422
+      "score": 2.4618
     },
     {
       "id": "2602.02494",
@@ -1024,27 +967,27 @@
       "score": 2.3704
     },
     {
-      "id": "2602.01660",
-      "title": "CoDiQ: Test-Time Scaling for Controllable Difficult Question Generation",
+      "id": "2602.03392",
+      "title": "On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models",
       "authors": [
-        "Zhongyuan Peng",
-        "Caijun Xu",
-        "Changyi Xiao",
-        "Shibo Hong",
-        "Eli Zhang",
-        "Stephen Huang",
-        "Yixin Cao"
+        "Shumin Wang",
+        "Yuexiang Xie",
+        "Wenhao Zhang",
+        "Yuchang Sun",
+        "Yanxi Chen",
+        "Yaliang Li",
+        "Yanyong Zhang"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.01660",
-      "pdf_url": "https://arxiv.org/pdf/2602.01660.pdf",
-      "published": "2026-02-02T05:28:26Z",
+      "abs_url": "https://arxiv.org/abs/2602.03392",
+      "pdf_url": "https://arxiv.org/pdf/2602.03392.pdf",
+      "published": "2026-02-03T11:14:58Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 2
+        "hf_count": 0,
+        "gh_stars": 520
       },
-      "score": 2.3386
+      "score": 2.2804
     },
     {
       "id": "2602.05910",
@@ -1103,31 +1046,6 @@
       "abs_url": "https://arxiv.org/abs/2602.02103",
       "pdf_url": "https://arxiv.org/pdf/2602.02103.pdf",
       "published": "2026-02-02T13:46:56Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
-      "id": "2602.01511",
-      "title": "Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training",
-      "authors": [
-        "Ran Xu",
-        "Tianci Liu",
-        "Zihan Dong",
-        "Tony You",
-        "Ilgee Hong",
-        "Carl Yang",
-        "Linjun Zhang",
-        "Tao Zhao",
-        "Haoyu Wang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.01511",
-      "pdf_url": "https://arxiv.org/pdf/2602.01511.pdf",
-      "published": "2026-02-02T00:50:53Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1270,6 +1188,31 @@
       "score": 1.9059
     },
     {
+      "id": "2602.03955",
+      "title": "AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent",
+      "authors": [
+        "Yinyi Luo",
+        "Yiqiao Jin",
+        "Weichen Yu",
+        "Mengqi Zhang",
+        "Srijan Kumar",
+        "Xiaoxiao Li",
+        "Weijie Xu",
+        "Xin Chen",
+        "Jindong Wang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.03955",
+      "pdf_url": "https://arxiv.org/pdf/2602.03955.pdf",
+      "published": "2026-02-03T19:18:28Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 22
+      },
+      "score": 1.8553
+    },
+    {
       "id": "2602.02486",
       "title": "RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents",
       "authors": [
@@ -1306,6 +1249,31 @@
       "score": 1.8553
     },
     {
+      "id": "2602.03036",
+      "title": "LatentMem: Customizing Latent Memory for Multi-Agent Systems",
+      "authors": [
+        "Muxin Fu",
+        "Guibin Zhang",
+        "Xiangyuan Xue",
+        "Yafu Li",
+        "Zefeng He",
+        "Siyuan Huang",
+        "Xiaoye Qu",
+        "Yu Cheng",
+        "Yang Yang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.03036",
+      "pdf_url": "https://arxiv.org/pdf/2602.03036.pdf",
+      "published": "2026-02-03T03:03:16Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 21
+      },
+      "score": 1.8446
+    },
+    {
       "id": "2602.05986",
       "title": "RISE-Video: Can Video Generators Decode Implicit World Rules?",
       "authors": [
@@ -1332,56 +1300,6 @@
         "gh_stars": 20
       },
       "score": 1.8335
-    },
-    {
-      "id": "2602.03036",
-      "title": "LatentMem: Customizing Latent Memory for Multi-Agent Systems",
-      "authors": [
-        "Muxin Fu",
-        "Guibin Zhang",
-        "Xiangyuan Xue",
-        "Yafu Li",
-        "Zefeng He",
-        "Siyuan Huang",
-        "Xiaoye Qu",
-        "Yu Cheng",
-        "Yang Yang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.03036",
-      "pdf_url": "https://arxiv.org/pdf/2602.03036.pdf",
-      "published": "2026-02-03T03:03:16Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 19
-      },
-      "score": 1.8222
-    },
-    {
-      "id": "2602.03955",
-      "title": "AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent",
-      "authors": [
-        "Yinyi Luo",
-        "Yiqiao Jin",
-        "Weichen Yu",
-        "Mengqi Zhang",
-        "Srijan Kumar",
-        "Xiaoxiao Li",
-        "Weijie Xu",
-        "Xin Chen",
-        "Jindong Wang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.03955",
-      "pdf_url": "https://arxiv.org/pdf/2602.03955.pdf",
-      "published": "2026-02-03T19:18:28Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 16
-      },
-      "score": 1.7863
     },
     {
       "id": "2602.05386",
@@ -1417,9 +1335,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 10
+        "gh_stars": 11
       },
-      "score": 1.7025
+      "score": 1.718
     },
     {
       "id": "2602.05327",
@@ -1529,6 +1447,51 @@
       "score": 1.4863
     },
     {
+      "id": "2602.06446",
+      "title": "CORE: Comprehensive Ontological Relation Evaluation for Large Language Models",
+      "authors": [
+        "Satyam Dwivedi",
+        "Sanjukta Ghosh",
+        "Shivam Dwivedi",
+        "Nishi Kumari",
+        "Anil Thakur",
+        "Anurag Purushottam",
+        "Deepak Alok",
+        "Praveen Gatla",
+        "Manjuprasad B",
+        "Bipasha Patgiri"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.06446",
+      "pdf_url": "https://arxiv.org/pdf/2602.06446.pdf",
+      "published": "2026-02-06T07:16:33Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.06268",
+      "title": "MPIB: A Benchmark for Medical Prompt Injection Attacks and Clinical Safety in LLMs",
+      "authors": [
+        "Junhyeok Lee",
+        "Han Jang",
+        "Kyu Sung Choi"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.06268",
+      "pdf_url": "https://arxiv.org/pdf/2602.06268.pdf",
+      "published": "2026-02-06T00:03:09Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2602.05951",
       "title": "Better Source, Better Flow: Learning Condition-Dependent Source Distribution for Flow Matching",
       "authors": [
@@ -1540,23 +1503,6 @@
       "abs_url": "https://arxiv.org/abs/2602.05951",
       "pdf_url": "https://arxiv.org/pdf/2602.05951.pdf",
       "published": "2026-02-05T18:08:20Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.05269",
-      "title": "Hybrid Gated Flow (HGF): Stabilizing 1.58-bit LLMs via Selective Low-Rank Correction",
-      "authors": [
-        "David Alejandro Trejo Pizzo"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.05269",
-      "pdf_url": "https://arxiv.org/pdf/2602.05269.pdf",
-      "published": "2026-02-05T03:47:17Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1584,6 +1530,23 @@
       "score": 1.3863
     },
     {
+      "id": "2602.05269",
+      "title": "Hybrid Gated Flow (HGF): Stabilizing 1.58-bit LLMs via Selective Low-Rank Correction",
+      "authors": [
+        "David Alejandro Trejo Pizzo"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.05269",
+      "pdf_url": "https://arxiv.org/pdf/2602.05269.pdf",
+      "published": "2026-02-05T03:47:17Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2602.05234",
       "title": "Faithful Bi-Directional Model Steering via Distribution Matching and Distributed Interchange Interventions",
       "authors": [
@@ -1605,6 +1568,27 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.04770",
+      "title": "Generative Modeling via Drifting",
+      "authors": [
+        "Mingyang Deng",
+        "He Li",
+        "Tianhong Li",
+        "Yilun Du",
+        "Kaiming He"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.04770",
+      "pdf_url": "https://arxiv.org/pdf/2602.04770.pdf",
+      "published": "2026-02-04T17:06:49Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
