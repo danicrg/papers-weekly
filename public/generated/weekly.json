@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-17T08:55:58.908671Z",
+  "generated_utc": "2026-02-18T08:51:57.717988Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -9,427 +9,252 @@
   "top_n": 50,
   "papers": [
     {
-      "id": "2602.10604",
-      "title": "Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters",
+      "id": "2602.15763",
+      "title": "GLM-5: from Vibe Coding to Agentic Engineering",
       "authors": [
-        "Ailin Huang",
-        "Ang Li",
-        "Aobo Kong",
-        "Bin Wang",
-        "Binxing Jiao",
-        "Bo Dong",
-        "Bojun Wang",
-        "Boyu Chen",
-        "Brian Li",
-        "Buyun Ma",
-        "Chang Su",
-        "Changxin Miao",
-        "Changyi Wan",
-        "Chao Lou",
-        "Chen Hu",
-        "Chen Xu",
-        "Chenfeng Yu",
-        "Chengting Feng",
-        "Chengyuan Yao",
-        "Chunrui Han",
-        "Dan Ma",
-        "Dapeng Shi",
-        "Daxin Jiang",
-        "Dehua Ma",
-        "Deshan Sun",
-        "Di Qi",
-        "Enle Liu",
-        "Fajie Zhang",
-        "Fanqi Wan",
-        "Guanzhe Huang",
-        "Gulin Yan",
-        "Guoliang Cao",
-        "Guopeng Li",
-        "Han Cheng",
-        "Hangyu Guo",
-        "Hanshan Zhang",
-        "Hao Nie",
-        "Haonan Jia",
-        "Haoran Lv",
-        "Hebin Zhou",
-        "Hekun Lv",
-        "Heng Wang",
-        "Heung-Yeung Shum",
-        "Hongbo Huang",
-        "Hongbo Peng",
-        "Hongyu Zhou",
-        "Hongyuan Wang",
-        "Houyong Chen",
-        "Huangxi Zhu",
-        "Huimin Wu",
-        "Huiyong Guo",
-        "Jia Wang",
-        "Jian Zhou",
-        "Jianjian Sun",
-        "Jiaoren Wu",
-        "Jiaran Zhang",
-        "Jiashu Lv",
-        "Jiashuo Liu",
-        "Jiayi Fu",
-        "Jiayu Liu",
-        "Jie Cheng",
-        "Jie Luo",
-        "Jie Yang",
-        "Jie Zhou",
-        "Jieyi Hou",
-        "Jing Bai",
-        "Jingcheng Hu",
-        "Jingjing Xie",
-        "Jingwei Wu",
-        "Jingyang Zhang",
-        "Jishi Zhou",
-        "Junfeng Liu",
-        "Junzhe Lin",
-        "Ka Man Lo",
-        "Kai Liang",
-        "Kaibo Liu",
-        "Kaijun Tan",
-        "Kaiwen Yan",
-        "Kaixiang Li",
-        "Kang An",
-        "Kangheng Lin",
-        "Lei Yang",
-        "Liang Lv",
-        "Liang Zhao",
-        "Liangyu Chen",
-        "Lieyu Shi",
-        "Liguo Tan",
-        "Lin Lin",
-        "Lina Chen",
-        "Luck Ma",
-        "Mengqiang Ren",
-        "Michael Li",
-        "Ming Li",
-        "Mingliang Li",
-        "Mingming Zhang",
-        "Mingrui Chen",
-        "Mitt Huang",
-        "Na Wang",
-        "Peng Liu",
-        "Qi Han",
-        "Qian Zhao",
-        "Qinglin He",
-        "Qinxin Du",
-        "Qiuping Wu",
-        "Quan Sun",
-        "Rongqiu Yang",
-        "Ruihang Miao",
-        "Ruixin Han",
-        "Ruosi Wan",
-        "Ruyan Guo",
-        "Shan Wang",
-        "Shaoliang Pang",
-        "Shaowen Yang",
-        "Shengjie Fan",
-        "Shijie Shang",
-        "Shiliang Yang",
-        "Shiwei Li",
-        "Shuangshuang Tian",
-        "Siqi Liu",
-        "Siye Wu",
-        "Siyu Chen",
-        "Song Yuan",
-        "Tiancheng Cao",
-        "Tianchi Yue",
-        "Tianhao Cheng",
-        "Tianning Li",
-        "Tingdan Luo",
-        "Wang You",
-        "Wei Ji",
-        "Wei Yuan",
-        "Wei Zhang",
-        "Weibo Wu",
-        "Weihao Xie",
-        "Wen Sun",
-        "Wenjin Deng",
-        "Wenzhen Zheng",
-        "Wuxun Xie",
-        "Xiangfeng Wang",
-        "Xiangwen Kong",
-        "Xiangyu Liu",
-        "Xiangyu Zhang",
-        "Xiaobo Yang",
-        "Xiaojia Liu",
-        "Xiaolan Yuan",
-        "Xiaoran Jiao",
-        "Xiaoxiao Ren",
-        "Xiaoyun Zhang",
-        "Xin Li",
-        "Xin Liu",
-        "Xin Wu",
-        "Xing Chen",
-        "Xingping Yang",
-        "Xinran Wang",
-        "Xu Zhao",
-        "Xuan He",
-        "Xuanti Feng",
-        "Xuedan Cai",
-        "Xuqiang Zhou",
-        "Yanbo Yu",
-        "Yang Li",
-        "Yang Xu",
-        "Yanlin Lai",
-        "Yanming Xu",
-        "Yaoyu Wang",
-        "Yeqing Shen",
-        "Yibo Zhu",
-        "Yichen Lv",
-        "Yicheng Cao",
-        "Yifeng Gong",
-        "Yijing Yang",
-        "Yikun Yang",
-        "Yin Zhao",
-        "Yingxiu Zhao",
-        "Yinmin Zhang",
-        "Yitong Zhang",
-        "Yixuan Zhang",
-        "Yiyang Chen",
-        "Yongchi Zhao",
-        "Yongshen Long",
-        "Yongyao Wang",
-        "Yousong Guan",
-        "Yu Zhou",
-        "Yuang Peng",
-        "Yuanhao Ding",
-        "Yuantao Fan",
-        "Yuanzhen Yang",
-        "Yuchu Luo",
-        "Yudi Zhao",
-        "Yue Peng",
-        "Yueqiang Lin",
-        "Yufan Lu",
-        "Yuling Zhao",
-        "Yunzhou Ju",
-        "Yurong Zhang",
-        "Yusheng Li",
-        "Yuxiang Yang",
-        "Yuyang Chen",
-        "Yuzhu Cai",
-        "Zejia Weng",
-        "Zetao Hong",
-        "Zexi Li",
-        "Zhe Xie",
-        "Zheng Ge",
-        "Zheng Gong",
-        "Zheng Zeng",
-        "Zhenyi Lu",
-        "Zhewei Huang",
-        "Zhichao Chang",
-        "Zhiguo Huang",
-        "Zhiheng Hu",
-        "Zidong Yang",
-        "Zili Wang",
-        "Ziqi Ren",
-        "Zixin Zhang",
-        "Zixuan Wang"
+        "GLM-5 Team",
+        ":",
+        "Aohan Zeng",
+        "Xin Lv",
+        "Zhenyu Hou",
+        "Zhengxiao Du",
+        "Qinkai Zheng",
+        "Bin Chen",
+        "Da Yin",
+        "Chendi Ge",
+        "Chengxing Xie",
+        "Cunxiang Wang",
+        "Gengzheng Pan",
+        "Hao Zeng",
+        "Haoke Zhang",
+        "Haoran Wang",
+        "Huilong Chen",
+        "Jiajie Zhang",
+        "Jian Jiao",
+        "Jiaqi Guo",
+        "Jingsen Wang",
+        "Jingzhao Du",
+        "Jinzhu Wu",
+        "Kedong Wang",
+        "Lei Li",
+        "Lin Fan",
+        "Lucen Zhong",
+        "Mingdao Liu",
+        "Mingming Zhao",
+        "Pengfan Du",
+        "Qian Dong",
+        "Rui Lu",
+        "Shuang-Li",
+        "Shulin Cao",
+        "Song Liu",
+        "Ting Jiang",
+        "Xiaodong Chen",
+        "Xiaohan Zhang",
+        "Xuancheng Huang",
+        "Xuezhen Dong",
+        "Yabo Xu",
+        "Yao Wei",
+        "Yifan An",
+        "Yilin Niu",
+        "Yitong Zhu",
+        "Yuanhao Wen",
+        "Yukuo Cen",
+        "Yushi Bai",
+        "Zhongpei Qiao",
+        "Zihan Wang",
+        "Zikang Wang",
+        "Zilin Zhu",
+        "Ziqiang Liu",
+        "Zixuan Li",
+        "Bojie Wang",
+        "Bosi Wen",
+        "Can Huang",
+        "Changpeng Cai",
+        "Chao Yu",
+        "Chen Li",
+        "Chen Li",
+        "Chenghua Huang",
+        "Chengwei Hu",
+        "Chenhui Zhang",
+        "Chenzheng Zhu",
+        "Congfeng Yin",
+        "Daoyan Lin",
+        "Dayong Yang",
+        "Di Wang",
+        "Ding Ai",
+        "Erle Zhu",
+        "Fangzhou Yi",
+        "Feiyu Chen",
+        "Guohong Wen",
+        "Hailong Sun",
+        "Haisha Zhao",
+        "Haiyi Hu",
+        "Hanchen Zhang",
+        "Hanrui Liu",
+        "Hanyu Zhang",
+        "Hao Peng",
+        "Hao Tai",
+        "Haobo Zhang",
+        "He Liu",
+        "Hongwei Wang",
+        "Hongxi Yan",
+        "Hongyu Ge",
+        "Huan Liu",
+        "Huan Liu",
+        "Huanpeng Chu",
+        "Jia'ni Zhao",
+        "Jiachen Wang",
+        "Jiajing Zhao",
+        "Jiamin Ren",
+        "Jiapeng Wang",
+        "Jiaxin Zhang",
+        "Jiayi Gui",
+        "Jiayue Zhao",
+        "Jijie Li",
+        "Jing An",
+        "Jing Li",
+        "Jingwei Yuan",
+        "Jinhua Du",
+        "Jinxin Liu",
+        "Junkai Zhi",
+        "Junwen Duan",
+        "Kaiyue Zhou",
+        "Kangjian Wei",
+        "Ke Wang",
+        "Keyun Luo",
+        "Laiqiang Zhang",
+        "Leigang Sha",
+        "Liang Xu",
+        "Lindong Wu",
+        "Lintao Ding",
+        "Lu Chen",
+        "Minghao Li",
+        "Nianyi Lin",
+        "Pan Ta",
+        "Qiang Zou",
+        "Rongjun Song",
+        "Ruiqi Yang",
+        "Shangqing Tu",
+        "Shangtong Yang",
+        "Shaoxiang Wu",
+        "Shengyan Zhang",
+        "Shijie Li",
+        "Shuang Li",
+        "Shuyi Fan",
+        "Wei Qin",
+        "Wei Tian",
+        "Weining Zhang",
+        "Wenbo Yu",
+        "Wenjie Liang",
+        "Xiang Kuang",
+        "Xiangmeng Cheng",
+        "Xiangyang Li",
+        "Xiaoquan Yan",
+        "Xiaowei Hu",
+        "Xiaoying Ling",
+        "Xing Fan",
+        "Xingye Xia",
+        "Xinyuan Zhang",
+        "Xinze Zhang",
+        "Xirui Pan",
+        "Xunkai Zhang",
+        "Yandong Wu",
+        "Yanfu Li",
+        "Yidong Wang",
+        "Yifan Zhu",
+        "Yijun Tan",
+        "Yilin Zhou",
+        "Yiming Pan",
+        "Ying Zhang",
+        "Yinpei Su",
+        "Yipeng Geng",
+        "Yipeng Geng",
+        "Yong Yan",
+        "Yonglin Tan",
+        "Yuean Bi",
+        "Yuhan Shen",
+        "Yuhao Yang",
+        "Yujiang Li",
+        "Yunan Liu",
+        "Yunqing Wang",
+        "Yuntao Li",
+        "Yurong Wu",
+        "Yutao Zhang",
+        "Yuxi Duan",
+        "Yuxuan Zhang",
+        "Zezhen Liu",
+        "Zhengtao Jiang",
+        "Zhenhe Yan",
+        "Zheyu Zhang",
+        "Zhixiang Wei",
+        "Zhuo Chen",
+        "Zhuoer Feng",
+        "Zijun Yao",
+        "Ziwei Chai",
+        "Ziyuan Wang",
+        "Zuzhou Zhang",
+        "Bin Xu",
+        "Minlie Huang",
+        "Hongning Wang",
+        "Juanzi Li",
+        "Yuxiao Dong",
+        "Jie Tang"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.10604",
-      "pdf_url": "https://arxiv.org/pdf/2602.10604.pdf",
-      "published": "2026-02-11T07:53:51Z",
+      "abs_url": "https://arxiv.org/abs/2602.15763",
+      "pdf_url": "https://arxiv.org/pdf/2602.15763.pdf",
+      "published": "2026-02-17T17:50:56Z",
       "signals": {
-        "reddit_mentions": 0,
+        "reddit_mentions": 2,
         "hn_mentions": 1,
-        "hf_count": 7,
-        "gh_stars": 1276
+        "hf_count": 0,
+        "gh_stars": 1049
       },
-      "score": 9.1173
+      "score": 6.8223
     },
     {
-      "id": "2602.10090",
-      "title": "Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning",
+      "id": "2602.14041",
+      "title": "BitDance: Scaling Autoregressive Generative Models with Binary Tokens",
       "authors": [
-        "Zhaoyang Wang",
-        "Canwen Xu",
-        "Boyi Liu",
-        "Yite Wang",
-        "Siwei Han",
-        "Zhewei Yao",
-        "Huaxiu Yao",
-        "Yuxiong He"
+        "Yuang Ai",
+        "Jiaming Han",
+        "Shaobin Zhuang",
+        "Weijia Mao",
+        "Xuefeng Hu",
+        "Ziyan Yang",
+        "Zhenheng Yang",
+        "Huaibo Huang",
+        "Xiangyu Yue",
+        "Hao Chen"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.10090",
-      "pdf_url": "https://arxiv.org/pdf/2602.10090.pdf",
-      "published": "2026-02-10T18:55:41Z",
+      "abs_url": "https://arxiv.org/abs/2602.14041",
+      "pdf_url": "https://arxiv.org/pdf/2602.14041.pdf",
+      "published": "2026-02-15T08:09:05Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 8,
+        "gh_stars": 153
+      },
+      "score": 5.6314
+    },
+    {
+      "id": "2602.14012",
+      "title": "From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection",
+      "authors": [
+        "Youpeng Li",
+        "Fuxun Yu",
+        "Xinda Wang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.14012",
+      "pdf_url": "https://arxiv.org/pdf/2602.14012.pdf",
+      "published": "2026-02-15T06:33:25Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 205
-      },
-      "score": 6.037
-    },
-    {
-      "id": "2602.10117",
-      "title": "Biases in the Blind Spot: Detecting What LLMs Fail to Mention",
-      "authors": [
-        "Iv\u00e1n Arcuschin",
-        "David Chanin",
-        "Adri\u00e0 Garriga-Alonso",
-        "Oana-Maria Camburu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.10117",
-      "pdf_url": "https://arxiv.org/pdf/2602.10117.pdf",
-      "published": "2026-02-10T18:59:56Z",
-      "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 3,
-        "hf_count": 0,
+        "hf_count": 6,
         "gh_stars": 0
       },
-      "score": 4.9698
-    },
-    {
-      "id": "2602.10177",
-      "title": "Towards Autonomous Mathematics Research",
-      "authors": [
-        "Tony Feng",
-        "Trieu H. Trinh",
-        "Garrett Bingham",
-        "Dawsen Hwang",
-        "Yuri Chervonyi",
-        "Junehyuk Jung",
-        "Joonkyung Lee",
-        "Carlo Pagano",
-        "Sang-hyun Kim",
-        "Federico Pasqualotto",
-        "Sergei Gukov",
-        "Jonathan N. Lee",
-        "Junsu Kim",
-        "Kaiying Hou",
-        "Golnaz Ghiasi",
-        "Yi Tay",
-        "YaGuang Li",
-        "Chenkai Kuang",
-        "Yuan Liu",
-        "Hanzhao Lin",
-        "Evan Zheran Liu",
-        "Nigamaa Nayakanti",
-        "Xiaomeng Yang",
-        "Heng-Tze Cheng",
-        "Demis Hassabis",
-        "Koray Kavukcuoglu",
-        "Quoc V. Le",
-        "Thang Luong"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.10177",
-      "pdf_url": "https://arxiv.org/pdf/2602.10177.pdf",
-      "published": "2026-02-10T18:50:15Z",
-      "signals": {
-        "reddit_mentions": 3,
-        "hn_mentions": 2,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 4.9698
-    },
-    {
-      "id": "2602.12205",
-      "title": "DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing",
-      "authors": [
-        "Dianyi Wang",
-        "Ruihang Li",
-        "Feng Han",
-        "Chaofan Ma",
-        "Wei Song",
-        "Siyuan Wang",
-        "Yibin Wang",
-        "Yi Xin",
-        "Hongjian Liu",
-        "Zhixiong Zhang",
-        "Shengyuan Ding",
-        "Tianhang Wang",
-        "Zhenglin Cheng",
-        "Tao Lin",
-        "Cheng Jin",
-        "Kaicheng Yu",
-        "Jingjing Chen",
-        "Wenjie Wang",
-        "Zhongyu Wei",
-        "Jiaqi Wang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.12205",
-      "pdf_url": "https://arxiv.org/pdf/2602.12205.pdf",
-      "published": "2026-02-12T17:44:24Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 5,
-        "gh_stars": 91
-      },
-      "score": 4.5375
-    },
-    {
-      "id": "2602.10575",
-      "title": "MetaphorStar: Image Metaphor Understanding and Reasoning with End-to-End Visual Reinforcement Learning",
-      "authors": [
-        "Chenhao Zhang",
-        "Yazhe Niu",
-        "Hongsheng Li"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.10575",
-      "pdf_url": "https://arxiv.org/pdf/2602.10575.pdf",
-      "published": "2026-02-11T06:59:36Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 7,
-        "gh_stars": 4
-      },
-      "score": 4.3589
-    },
-    {
-      "id": "2602.11858",
-      "title": "Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception",
-      "authors": [
-        "Lai Wei",
-        "Liangbo He",
-        "Jun Lan",
-        "Lingzhong Dong",
-        "Yutong Cai",
-        "Siyuan Li",
-        "Huijia Zhu",
-        "Weiqiang Wang",
-        "Linghe Kong",
-        "Yue Wang",
-        "Zhuosheng Zhang",
-        "Weiran Huang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.11858",
-      "pdf_url": "https://arxiv.org/pdf/2602.11858.pdf",
-      "published": "2026-02-12T12:00:35Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 5,
-        "gh_stars": 55
-      },
-      "score": 4.3251
-    },
-    {
-      "id": "2602.14814",
-      "title": "Learning State-Tracking from Code Using Linear RNNs",
-      "authors": [
-        "Julien Siems",
-        "Riccardo Grazzi",
-        "Kirill Kalinin",
-        "Hitesh Ballani",
-        "Babak Rahmani"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.14814",
-      "pdf_url": "https://arxiv.org/pdf/2602.14814.pdf",
-      "published": "2026-02-16T15:07:51Z",
-      "signals": {
-        "reddit_mentions": 3,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 4.1589
+      "score": 5.2781
     },
     {
       "id": "2602.12670",
@@ -480,31 +305,156 @@
       "pdf_url": "https://arxiv.org/pdf/2602.12670.pdf",
       "published": "2026-02-13T07:06:06Z",
       "signals": {
+        "reddit_mentions": 5,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 4.9698
+    },
+    {
+      "id": "2602.11988",
+      "title": "Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?",
+      "authors": [
+        "Thibaud Gloaguen",
+        "Niels M\u00fcndler",
+        "Mark M\u00fcller",
+        "Veselin Raychev",
+        "Martin Vechev"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.11988",
+      "pdf_url": "https://arxiv.org/pdf/2602.11988.pdf",
+      "published": "2026-02-12T14:15:22Z",
+      "signals": {
+        "reddit_mentions": 5,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 4.9698
+    },
+    {
+      "id": "2602.12500",
+      "title": "Favia: Forensic Agent for Vulnerability-fix Identification and Analysis",
+      "authors": [
+        "Andr\u00e9 Storhaug",
+        "Jiamou Sun",
+        "Jingyue Li"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.12500",
+      "pdf_url": "https://arxiv.org/pdf/2602.12500.pdf",
+      "published": "2026-02-13T00:51:22Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 4,
+        "gh_stars": 0
+      },
+      "score": 4.6052
+    },
+    {
+      "id": "2602.12205",
+      "title": "DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing",
+      "authors": [
+        "Dianyi Wang",
+        "Ruihang Li",
+        "Feng Han",
+        "Chaofan Ma",
+        "Wei Song",
+        "Siyuan Wang",
+        "Yibin Wang",
+        "Yi Xin",
+        "Hongjian Liu",
+        "Zhixiong Zhang",
+        "Shengyuan Ding",
+        "Tianhang Wang",
+        "Zhenglin Cheng",
+        "Tao Lin",
+        "Cheng Jin",
+        "Kaicheng Yu",
+        "Jingjing Chen",
+        "Wenjie Wang",
+        "Zhongyu Wei",
+        "Jiaqi Wang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.12205",
+      "pdf_url": "https://arxiv.org/pdf/2602.12205.pdf",
+      "published": "2026-02-12T17:44:24Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 5,
+        "gh_stars": 100
+      },
+      "score": 4.5835
+    },
+    {
+      "id": "2602.11865",
+      "title": "Intelligent AI Delegation",
+      "authors": [
+        "Nenad Toma\u0161ev",
+        "Matija Franklin",
+        "Simon Osindero"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.11865",
+      "pdf_url": "https://arxiv.org/pdf/2602.11865.pdf",
+      "published": "2026-02-12T12:11:42Z",
+      "signals": {
+        "reddit_mentions": 2,
+        "hn_mentions": 2,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 4.3944
+    },
+    {
+      "id": "2602.11858",
+      "title": "Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception",
+      "authors": [
+        "Lai Wei",
+        "Liangbo He",
+        "Jun Lan",
+        "Lingzhong Dong",
+        "Yutong Cai",
+        "Siyuan Li",
+        "Huijia Zhu",
+        "Weiqiang Wang",
+        "Linghe Kong",
+        "Yue Wang",
+        "Zhuosheng Zhang",
+        "Weiran Huang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.11858",
+      "pdf_url": "https://arxiv.org/pdf/2602.11858.pdf",
+      "published": "2026-02-12T12:00:35Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 5,
+        "gh_stars": 56
+      },
+      "score": 4.3319
+    },
+    {
+      "id": "2602.14814",
+      "title": "Learning State-Tracking from Code Using Linear RNNs",
+      "authors": [
+        "Julien Siems",
+        "Riccardo Grazzi",
+        "Kirill Kalinin",
+        "Hitesh Ballani",
+        "Babak Rahmani"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.14814",
+      "pdf_url": "https://arxiv.org/pdf/2602.14814.pdf",
+      "published": "2026-02-16T15:07:51Z",
+      "signals": {
         "reddit_mentions": 3,
         "hn_mentions": 1,
         "hf_count": 0,
         "gh_stars": 0
       },
       "score": 4.1589
-    },
-    {
-      "id": "2602.14012",
-      "title": "From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection",
-      "authors": [
-        "Youpeng Li",
-        "Fuxun Yu",
-        "Xinda Wang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.14012",
-      "pdf_url": "https://arxiv.org/pdf/2602.14012.pdf",
-      "published": "2026-02-15T06:33:25Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 6,
-        "gh_stars": 0
-      },
-      "score": 3.8918
     },
     {
       "id": "2602.12395",
@@ -521,76 +471,29 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 5,
-        "gh_stars": 5
+        "gh_stars": 6
       },
-      "score": 3.8071
+      "score": 3.8285
     },
     {
-      "id": "2602.09924",
-      "title": "LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations",
+      "id": "2602.12249",
+      "title": "\"Sorry, I Didn't Catch That\": How Speech Models Miss What Matters Most",
       "authors": [
-        "William Lugoloobi",
-        "Thomas Foster",
-        "William Bankes",
-        "Chris Russell"
+        "Kaitlyn Zhou",
+        "Martijn Bartelds",
+        "Federico Bianchi",
+        "James Zou"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.09924",
-      "pdf_url": "https://arxiv.org/pdf/2602.09924.pdf",
-      "published": "2026-02-10T15:57:00Z",
+      "abs_url": "https://arxiv.org/abs/2602.12249",
+      "pdf_url": "https://arxiv.org/pdf/2602.12249.pdf",
+      "published": "2026-02-12T18:36:09Z",
       "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
         "hf_count": 2,
         "gh_stars": 0
       },
       "score": 3.5835
-    },
-    {
-      "id": "2602.11988",
-      "title": "Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?",
-      "authors": [
-        "Thibaud Gloaguen",
-        "Niels M\u00fcndler",
-        "Mark M\u00fcller",
-        "Veselin Raychev",
-        "Martin Vechev"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.11988",
-      "pdf_url": "https://arxiv.org/pdf/2602.11988.pdf",
-      "published": "2026-02-12T14:15:22Z",
-      "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 3.5835
-    },
-    {
-      "id": "2602.14041",
-      "title": "BitDance: Scaling Autoregressive Generative Models with Binary Tokens",
-      "authors": [
-        "Yuang Ai",
-        "Jiaming Han",
-        "Shaobin Zhuang",
-        "Weijia Mao",
-        "Xuefeng Hu",
-        "Ziyan Yang",
-        "Zhenheng Yang",
-        "Huaibo Huang",
-        "Xiangyu Yue",
-        "Hao Chen"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.14041",
-      "pdf_url": "https://arxiv.org/pdf/2602.14041.pdf",
-      "published": "2026-02-15T08:09:05Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 11
-      },
-      "score": 3.5505
     },
     {
       "id": "2602.12108",
@@ -611,9 +514,31 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 4,
-        "gh_stars": 7
+        "gh_stars": 8
       },
-      "score": 3.4835
+      "score": 3.5017
+    },
+    {
+      "id": "2602.11151",
+      "title": "Diffusion-Pretrained Dense and Contextual Embeddings",
+      "authors": [
+        "Sedigheh Eslami",
+        "Maksim Gaiduk",
+        "Markus Krimmel",
+        "Louis Milliken",
+        "Bo Wang",
+        "Denis Bykov"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.11151",
+      "pdf_url": "https://arxiv.org/pdf/2602.11151.pdf",
+      "published": "2026-02-11T18:59:08Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 4,
+        "gh_stars": 0
+      },
+      "score": 3.2189
     },
     {
       "id": "2602.11081",
@@ -634,28 +559,6 @@
       "abs_url": "https://arxiv.org/abs/2602.11081",
       "pdf_url": "https://arxiv.org/pdf/2602.11081.pdf",
       "published": "2026-02-11T17:46:01Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 4,
-        "gh_stars": 0
-      },
-      "score": 3.2189
-    },
-    {
-      "id": "2602.11151",
-      "title": "Diffusion-Pretrained Dense and Contextual Embeddings",
-      "authors": [
-        "Sedigheh Eslami",
-        "Maksim Gaiduk",
-        "Markus Krimmel",
-        "Louis Milliken",
-        "Bo Wang",
-        "Denis Bykov"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.11151",
-      "pdf_url": "https://arxiv.org/pdf/2602.11151.pdf",
-      "published": "2026-02-11T18:59:08Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -744,9 +647,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 36
+        "gh_stars": 37
       },
-      "score": 2.7972
+      "score": 2.8055
     },
     {
       "id": "2602.12237",
@@ -795,35 +698,21 @@
       "score": 2.5972
     },
     {
-      "id": "2602.10063",
-      "title": "Chain of Mindset: Reasoning with Adaptive Cognitive Modes",
+      "id": "2602.11358",
+      "title": "When Models Examine Themselves: Vocabulary-Activation Correspondence in Self-Referential Processing",
       "authors": [
-        "Tianyi Jiang",
-        "Arctanx An",
-        "Hengyi Feng",
-        "Naixin Zhai",
-        "Haodong Li",
-        "Xiaomin Yu",
-        "Jiahui Liu",
-        "Hanwen Du",
-        "Shuo Zhang",
-        "Zhi Yang",
-        "Jie Huang",
-        "Yuhua Li",
-        "Yongxin Ni",
-        "Huacan Wang",
-        "Ronghao Chen"
+        "Zachary Pedram Dadfar"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.10063",
-      "pdf_url": "https://arxiv.org/pdf/2602.10063.pdf",
-      "published": "2026-02-10T18:31:47Z",
+      "abs_url": "https://arxiv.org/abs/2602.11358",
+      "pdf_url": "https://arxiv.org/pdf/2602.11358.pdf",
+      "published": "2026-02-11T20:44:33Z",
       "signals": {
-        "reddit_mentions": 1,
+        "reddit_mentions": 2,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 74
+        "gh_stars": 0
       },
-      "score": 2.2465
+      "score": 2.1972
     },
     {
       "id": "2602.11000",
@@ -849,41 +738,28 @@
       "score": 2.1972
     },
     {
-      "id": "2602.10458",
-      "title": "Found-RL: foundation model-enhanced reinforcement learning for autonomous driving",
+      "id": "2602.13367",
+      "title": "Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts",
       "authors": [
-        "Yansong Qu",
-        "Zihao Sheng",
-        "Zilin Huang",
-        "Jiancong Chen",
-        "Yuhao Luo",
-        "Tianyi Wang",
-        "Yiheng Feng",
-        "Samuel Labi",
-        "Sikai Chen"
+        "Chen Yang",
+        "Guangyue Peng",
+        "Jiaying Zhu",
+        "Ran Le",
+        "Ruixiang Feng",
+        "Tao Zhang",
+        "Xiyun Xu",
+        "Yang Song",
+        "Yiming Jia",
+        "Yuntao Wen",
+        "Yunzhi Xu",
+        "Zekai Wang",
+        "Zhenwei An",
+        "Zhicong Sun",
+        "Zongchao Chen"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.10458",
-      "pdf_url": "https://arxiv.org/pdf/2602.10458.pdf",
-      "published": "2026-02-11T02:56:04Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
-      "id": "2602.10300",
-      "title": "Configuration-to-Performance Scaling Law with Neural Ansatz",
-      "authors": [
-        "Huaqing Zhang",
-        "Kaiyue Wen",
-        "Tengyu Ma"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.10300",
-      "pdf_url": "https://arxiv.org/pdf/2602.10300.pdf",
-      "published": "2026-02-10T21:16:59Z",
+      "abs_url": "https://arxiv.org/abs/2602.13367",
+      "pdf_url": "https://arxiv.org/pdf/2602.13367.pdf",
+      "published": "2026-02-13T13:10:46Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1043,31 +919,6 @@
       "score": 2.1972
     },
     {
-      "id": "2602.09653",
-      "title": "ClinAlign: Scaling Healthcare Alignment from Clinician Preference",
-      "authors": [
-        "Shiwei Lyu",
-        "Xidong Wang",
-        "Lei Liu",
-        "Hao Zhu",
-        "Chaohe Zhang",
-        "Jian Wang",
-        "Jinjie Gu",
-        "Benyou Wang",
-        "Yue Shen"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.09653",
-      "pdf_url": "https://arxiv.org/pdf/2602.09653.pdf",
-      "published": "2026-02-10T11:02:57Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 2,
-        "gh_stars": 0
-      },
-      "score": 2.1972
-    },
-    {
       "id": "2602.12125",
       "title": "Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation",
       "authors": [
@@ -1085,9 +936,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 19
+        "gh_stars": 21
       },
-      "score": 1.8222
+      "score": 1.8446
     },
     {
       "id": "2602.10999",
@@ -1152,9 +1003,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 4
+        "gh_stars": 5
       },
-      "score": 1.5863
+      "score": 1.6099
     },
     {
       "id": "2602.12684",
@@ -1191,9 +1042,153 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 231
+        "gh_stars": 241
       },
-      "score": 1.5199
+      "score": 1.5524
+    },
+    {
+      "id": "2602.14299",
+      "title": "Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook",
+      "authors": [
+        "Ming Li",
+        "Xirui Li",
+        "Tianyi Zhou"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.14299",
+      "pdf_url": "https://arxiv.org/pdf/2602.14299.pdf",
+      "published": "2026-02-15T20:15:28Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 1
+      },
+      "score": 1.4863
+    },
+    {
+      "id": "2602.14687",
+      "title": "SynthSAEBench: Evaluating Sparse Autoencoders on Scalable Realistic Synthetic Data",
+      "authors": [
+        "David Chanin",
+        "Adri\u00e0 Garriga-Alonso"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.14687",
+      "pdf_url": "https://arxiv.org/pdf/2602.14687.pdf",
+      "published": "2026-02-16T12:22:00Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.14404",
+      "title": "Boule or Baguette? A Study on Task Topology, Length Generalization, and the Benefit of Reasoning Traces",
+      "authors": [
+        "William L. Tong",
+        "Ege Cakar",
+        "Cengiz Pehlevan"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.14404",
+      "pdf_url": "https://arxiv.org/pdf/2602.14404.pdf",
+      "published": "2026-02-16T02:20:37Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.13937",
+      "title": "A Multi-Agent Framework for Code-Guided, Modular, and Verifiable Automated Machine Learning",
+      "authors": [
+        "Dat Le",
+        "Duc-Cuong Le",
+        "Anh-Son Nguyen",
+        "Tuan-Dung Bui",
+        "Thu-Trang Nguyen",
+        "Son Nguyen",
+        "Hieu Dinh Vo"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.13937",
+      "pdf_url": "https://arxiv.org/pdf/2602.13937.pdf",
+      "published": "2026-02-15T00:20:58Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.13921",
+      "title": "GREPO: A Benchmark for Graph Neural Networks on Repository-Level Bug Localization",
+      "authors": [
+        "Juntong Wang",
+        "Libin Chen",
+        "Xiyuan Wang",
+        "Shijia Kang",
+        "Haotong Yang",
+        "Da Zheng",
+        "Muhan Zhang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.13921",
+      "pdf_url": "https://arxiv.org/pdf/2602.13921.pdf",
+      "published": "2026-02-14T23:22:15Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.13379",
+      "title": "Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents",
+      "authors": [
+        "Xu Li",
+        "Simon Yu",
+        "Minzhou Pan",
+        "Yiyou Sun",
+        "Bo Li",
+        "Dawn Song",
+        "Xue Lin",
+        "Weiyan Shi"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.13379",
+      "pdf_url": "https://arxiv.org/pdf/2602.13379.pdf",
+      "published": "2026-02-13T18:38:18Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.12902",
+      "title": "Robustness of Object Detection of Autonomous Vehicles in Adverse Weather Conditions",
+      "authors": [
+        "Fox Pettersen",
+        "Hong Zhu"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.12902",
+      "pdf_url": "https://arxiv.org/pdf/2602.12902.pdf",
+      "published": "2026-02-13T13:02:44Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
     },
     {
       "id": "2602.12413",
@@ -1213,6 +1208,28 @@
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.12323",
+      "title": "The Appeal and Reality of Recycling LoRAs with Adaptive Merging",
+      "authors": [
+        "Haokun Liu",
+        "Gyung Hyun Je",
+        "Marco Ciccone",
+        "Zhenlin Xu",
+        "Prasanth YSS",
+        "Colin Raffel"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.12323",
+      "pdf_url": "https://arxiv.org/pdf/2602.12323.pdf",
+      "published": "2026-02-12T18:59:20Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
         "hf_count": 0,
         "gh_stars": 0
       },
@@ -1243,16 +1260,16 @@
       "score": 1.3863
     },
     {
-      "id": "2602.12181",
-      "title": "Convex Markov Games and Beyond: New Proof of Existence, Characterization and Learning Algorithms for Nash Equilibria",
+      "id": "2602.12105",
+      "title": "Iskra: A System for Inverse Geometry Processing",
       "authors": [
-        "Anas Barakat",
-        "Ioannis Panageas",
-        "Antonios Varvitsiotis"
+        "Ana Dodik",
+        "Ahmed H. Mahmoud",
+        "Justin Solomon"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.12181",
-      "pdf_url": "https://arxiv.org/pdf/2602.12181.pdf",
-      "published": "2026-02-12T17:11:20Z",
+      "abs_url": "https://arxiv.org/abs/2602.12105",
+      "pdf_url": "https://arxiv.org/pdf/2602.12105.pdf",
+      "published": "2026-02-12T15:59:06Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -1281,20 +1298,42 @@
       "score": 1.3863
     },
     {
-      "id": "2602.12105",
-      "title": "Iskra: A System for Inverse Geometry Processing",
+      "id": "2602.12181",
+      "title": "Convex Markov Games and Beyond: New Proof of Existence, Characterization and Learning Algorithms for Nash Equilibria",
       "authors": [
-        "Ana Dodik",
-        "Ahmed H. Mahmoud",
-        "Justin Solomon"
+        "Anas Barakat",
+        "Ioannis Panageas",
+        "Antonios Varvitsiotis"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.12105",
-      "pdf_url": "https://arxiv.org/pdf/2602.12105.pdf",
-      "published": "2026-02-12T15:59:06Z",
+      "abs_url": "https://arxiv.org/abs/2602.12181",
+      "pdf_url": "https://arxiv.org/pdf/2602.12181.pdf",
+      "published": "2026-02-12T17:11:20Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
         "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.12129",
+      "title": "Towards Personalized Bangla Book Recommendation: A Large-Scale Multi-Entity Book Graph Dataset",
+      "authors": [
+        "Rahin Arefin Ahmed",
+        "Md. Anik Chowdhury",
+        "Sakil Ahmed Sheikh Reza",
+        "Devnil Bhattacharjee",
+        "Muhammad Abdullah Adnan",
+        "Nafis Sadeq"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.12129",
+      "pdf_url": "https://arxiv.org/pdf/2602.12129.pdf",
+      "published": "2026-02-12T16:18:55Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -1363,14 +1402,19 @@
       "score": 1.3863
     },
     {
-      "id": "2602.11358",
-      "title": "When Models Examine Themselves: Vocabulary-Activation Correspondence in Self-Referential Processing",
+      "id": "2602.12305",
+      "title": "OptiML: An End-to-End Framework for Program Synthesis and CUDA Kernel Optimization",
       "authors": [
-        "Zachary Pedram Dadfar"
+        "Arijit Bhattacharjee",
+        "Heng Ping",
+        "Son Vu Le",
+        "Paul Bogdan",
+        "Nesreen K. Ahmed",
+        "Ali Jannesari"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.11358",
-      "pdf_url": "https://arxiv.org/pdf/2602.11358.pdf",
-      "published": "2026-02-11T20:44:33Z",
+      "abs_url": "https://arxiv.org/abs/2602.12305",
+      "pdf_url": "https://arxiv.org/pdf/2602.12305.pdf",
+      "published": "2026-02-12T04:50:19Z",
       "signals": {
         "reddit_mentions": 1,
         "hn_mentions": 0,
@@ -1390,36 +1434,6 @@
       "abs_url": "https://arxiv.org/abs/2602.11374",
       "pdf_url": "https://arxiv.org/pdf/2602.11374.pdf",
       "published": "2026-02-11T21:05:00Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.11150",
-      "title": "YOR: Your Own Mobile Manipulator for Generalizable Robotics",
-      "authors": [
-        "Manan H Anjaria",
-        "Mehmet Enes Erciyes",
-        "Vedant Ghatnekar",
-        "Neha Navarkar",
-        "Haritheja Etukuru",
-        "Xiaole Jiang",
-        "Kanad Patel",
-        "Dhawal Kabra",
-        "Nicholas Wojno",
-        "Radhika Ajay Prayage",
-        "Soumith Chintala",
-        "Lerrel Pinto",
-        "Nur Muhammad Mahi Shafiullah",
-        "Zichen Jeff Cui"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.11150",
-      "pdf_url": "https://arxiv.org/pdf/2602.11150.pdf",
-      "published": "2026-02-11T18:59:00Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 1,
@@ -1456,119 +1470,31 @@
       "score": 1.3863
     },
     {
-      "id": "2602.11139",
-      "title": "TabICLv2: A better, faster, scalable, and open tabular foundation model",
+      "id": "2602.11150",
+      "title": "YOR: Your Own Mobile Manipulator for Generalizable Robotics",
       "authors": [
-        "Jingang Qu",
-        "David Holzm\u00fcller",
-        "Ga\u00ebl Varoquaux",
-        "Marine Le Morvan"
+        "Manan H Anjaria",
+        "Mehmet Enes Erciyes",
+        "Vedant Ghatnekar",
+        "Neha Navarkar",
+        "Haritheja Etukuru",
+        "Xiaole Jiang",
+        "Kanad Patel",
+        "Dhawal Kabra",
+        "Nicholas Wojno",
+        "Radhika Ajay Prayage",
+        "Soumith Chintala",
+        "Lerrel Pinto",
+        "Nur Muhammad Mahi Shafiullah",
+        "Zichen Jeff Cui"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.11139",
-      "pdf_url": "https://arxiv.org/pdf/2602.11139.pdf",
-      "published": "2026-02-11T18:51:02Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.10908",
-      "title": "SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora",
-      "authors": [
-        "Masataka Yoneda",
-        "Yusuke Matsushita",
-        "Go Kamoda",
-        "Kohei Suenaga",
-        "Takuya Akiba",
-        "Masaki Waga",
-        "Sho Yokoi"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.10908",
-      "pdf_url": "https://arxiv.org/pdf/2602.10908.pdf",
-      "published": "2026-02-11T14:40:15Z",
+      "abs_url": "https://arxiv.org/abs/2602.11150",
+      "pdf_url": "https://arxiv.org/pdf/2602.11150.pdf",
+      "published": "2026-02-11T18:59:00Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 1,
         "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.10525",
-      "title": "LHAW: Controllable Underspecification for Long-Horizon Tasks",
-      "authors": [
-        "George Pu",
-        "Michael S. Lee",
-        "Udari Madhushani Sehwag",
-        "David J. Lee",
-        "Bryan Zhu",
-        "Yash Maurya",
-        "Mohit Raghavendra",
-        "Yuan Xue",
-        "Samuel Marc Denton"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.10525",
-      "pdf_url": "https://arxiv.org/pdf/2602.10525.pdf",
-      "published": "2026-02-11T04:49:50Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.11210",
-      "title": "SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents",
-      "authors": [
-        "Danlong Yuan",
-        "Wei Wu",
-        "Zhengren Wang",
-        "Xueliang Zhao",
-        "Huishuai Zhang",
-        "Dongyan Zhao"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.11210",
-      "pdf_url": "https://arxiv.org/pdf/2602.11210.pdf",
-      "published": "2026-02-11T02:33:04Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.10168",
-      "title": "EVA: Towards a universal model of the immune system",
-      "authors": [
-        "Scienta Team",
-        "Ethan Bandasack",
-        "Vincent Bouget",
-        "Apolline Bruley",
-        "Yannis Cattan",
-        "Charlotte Claye",
-        "Matthew Corney",
-        "Julien Duquesne",
-        "Karim El Kanbi",
-        "Aziz Fouch\u00e9",
-        "Pierre Marschall",
-        "Francesco Strozzi"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.10168",
-      "pdf_url": "https://arxiv.org/pdf/2602.10168.pdf",
-      "published": "2026-02-10T13:51:09Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
