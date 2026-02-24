@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-23T08:39:58.549470Z",
+  "generated_utc": "2026-02-24T08:47:22.767457Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -227,9 +227,9 @@
         "reddit_mentions": 2,
         "hn_mentions": 2,
         "hf_count": 0,
-        "gh_stars": 1303
+        "gh_stars": 1336
       },
-      "score": 8.0042
+      "score": 8.0496
     },
     {
       "id": "2602.16800",
@@ -274,25 +274,22 @@
       "score": 4.1589
     },
     {
-      "id": "2602.14814",
-      "title": "Learning State-Tracking from Code Using Linear RNNs",
+      "id": "2602.18915",
+      "title": "AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting",
       "authors": [
-        "Julien Siems",
-        "Riccardo Grazzi",
-        "Kirill Kalinin",
-        "Hitesh Ballani",
-        "Babak Rahmani"
+        "Mohammadreza Ghaffarzadeh-Esfahani",
+        "Yousof Gheisari"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.14814",
-      "pdf_url": "https://arxiv.org/pdf/2602.14814.pdf",
-      "published": "2026-02-16T15:07:51Z",
+      "abs_url": "https://arxiv.org/abs/2602.18915",
+      "pdf_url": "https://arxiv.org/pdf/2602.18915.pdf",
+      "published": "2026-02-21T17:46:34Z",
       "signals": {
-        "reddit_mentions": 3,
-        "hn_mentions": 1,
-        "hf_count": 0,
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 5,
         "gh_stars": 0
       },
-      "score": 4.1589
+      "score": 3.5835
     },
     {
       "id": "2602.17288",
@@ -307,27 +304,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 2
+        "gh_stars": 4
       },
-      "score": 2.914
-    },
-    {
-      "id": "2602.17363",
-      "title": "2Mamba2Furious: Linear in Complexity, Competitive in Accuracy",
-      "authors": [
-        "Gabriel Mongaras",
-        "Eric C. Larson"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.17363",
-      "pdf_url": "https://arxiv.org/pdf/2602.17363.pdf",
-      "published": "2026-02-19T13:45:23Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 3,
-        "gh_stars": 1
-      },
-      "score": 2.8726
+      "score": 2.9726
     },
     {
       "id": "2602.15922",
@@ -377,47 +356,27 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 819
+        "gh_stars": 836
       },
-      "score": 2.8618
+      "score": 2.8914
     },
     {
-      "id": "2602.15238",
-      "title": "Closing the Distribution Gap in Adversarial Training for LLMs",
+      "id": "2602.17363",
+      "title": "2Mamba2Furious: Linear in Complexity, Competitive in Accuracy",
       "authors": [
-        "Chengzhi Hu",
-        "Jonas Dornbusch",
-        "David L\u00fcdke",
-        "Stephan G\u00fcnnemann",
-        "Leo Schwinn"
+        "Gabriel Mongaras",
+        "Eric C. Larson"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.15238",
-      "pdf_url": "https://arxiv.org/pdf/2602.15238.pdf",
-      "published": "2026-02-16T22:34:52Z",
+      "abs_url": "https://arxiv.org/abs/2602.17363",
+      "pdf_url": "https://arxiv.org/pdf/2602.17363.pdf",
+      "published": "2026-02-19T13:45:23Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 3,
-        "gh_stars": 0
+        "gh_stars": 1
       },
-      "score": 2.7726
-    },
-    {
-      "id": "2602.15257",
-      "title": "How to Train Your Long-Context Visual Document Model",
-      "authors": [
-        "Austin Veselka"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.15257",
-      "pdf_url": "https://arxiv.org/pdf/2602.15257.pdf",
-      "published": "2026-02-16T23:26:51Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 3,
-        "gh_stars": 0
-      },
-      "score": 2.7726
+      "score": 2.8726
     },
     {
       "id": "2602.15814",
@@ -433,34 +392,105 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 3
+        "gh_stars": 13
       },
-      "score": 2.3704
+      "score": 2.5578
     },
     {
-      "id": "2602.14857",
-      "title": "World Models for Policy Refinement in StarCraft II",
+      "id": "2602.16742",
+      "title": "DeepVision-103K: A Visually Diverse, Broad-Coverage, and Verifiable Mathematical Dataset for Multimodal Reasoning",
       "authors": [
-        "Yixin Zhang",
-        "Ziyi Wang",
-        "Yiming Rong",
-        "Haoxi Wang",
-        "Jinling Jiang",
-        "Shuang Xu",
-        "Haoran Wu",
-        "Shiyu Zhou",
-        "Bo Xu"
+        "Haoxiang Sun",
+        "Lizhen Xu",
+        "Bing Zhao",
+        "Wotao Yin",
+        "Wei Wang",
+        "Boyu Yang",
+        "Rui Wang",
+        "Hu Wei"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.14857",
-      "pdf_url": "https://arxiv.org/pdf/2602.14857.pdf",
-      "published": "2026-02-16T15:51:59Z",
+      "abs_url": "https://arxiv.org/abs/2602.16742",
+      "pdf_url": "https://arxiv.org/pdf/2602.16742.pdf",
+      "published": "2026-02-18T01:51:21Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 2,
-        "gh_stars": 2
+        "gh_stars": 4
       },
-      "score": 2.3386
+      "score": 2.3972
+    },
+    {
+      "id": "2602.20159",
+      "title": "A Very Big Video Reasoning Suite",
+      "authors": [
+        "Maijunxian Wang",
+        "Ruisi Wang",
+        "Juyi Lin",
+        "Ran Ji",
+        "Thadd\u00e4us Wiedemer",
+        "Qingying Gao",
+        "Dezhi Luo",
+        "Yaoyao Qian",
+        "Lianyu Huang",
+        "Zelong Hong",
+        "Jiahui Ge",
+        "Qianli Ma",
+        "Hang He",
+        "Yifan Zhou",
+        "Lingzi Guo",
+        "Lantao Mei",
+        "Jiachen Li",
+        "Hanwen Xing",
+        "Tianqi Zhao",
+        "Fengyuan Yu",
+        "Weihang Xiao",
+        "Yizheng Jiao",
+        "Jianheng Hou",
+        "Danyang Zhang",
+        "Pengcheng Xu",
+        "Boyang Zhong",
+        "Zehong Zhao",
+        "Gaoyun Fang",
+        "John Kitaoka",
+        "Yile Xu",
+        "Hua Xu",
+        "Kenton Blacutt",
+        "Tin Nguyen",
+        "Siyuan Song",
+        "Haoran Sun",
+        "Shaoyue Wen",
+        "Linyang He",
+        "Runming Wang",
+        "Yanzhi Wang",
+        "Mengyue Yang",
+        "Ziqiao Ma",
+        "Rapha\u00ebl Milli\u00e8re",
+        "Freda Shi",
+        "Nuno Vasconcelos",
+        "Daniel Khashabi",
+        "Alan Yuille",
+        "Yilun Du",
+        "Ziming Liu",
+        "Bo Li",
+        "Dahua Lin",
+        "Ziwei Liu",
+        "Vikash Kumar",
+        "Yijiang Li",
+        "Lei Yang",
+        "Zhongang Cai",
+        "Hokin Deng"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.20159",
+      "pdf_url": "https://arxiv.org/pdf/2602.20159.pdf",
+      "published": "2026-02-23T18:59:41Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 0
+      },
+      "score": 2.1972
     },
     {
       "id": "2602.15950",
@@ -480,39 +510,79 @@
       "score": 2.1972
     },
     {
-      "id": "2602.15322",
-      "title": "On Surprising Effectiveness of Masking Updates in Adaptive Optimizers",
+      "id": "2602.15727",
+      "title": "Spanning the Visual Analogy Space with a Weight Basis of LoRAs",
       "authors": [
-        "Taejong Joo",
-        "Wenhan Xia",
-        "Cheolmin Kim",
-        "Ming Zhang",
-        "Eugene Ie"
+        "Hila Manor",
+        "Rinon Gal",
+        "Haggai Maron",
+        "Tomer Michaeli",
+        "Gal Chechik"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.15322",
-      "pdf_url": "https://arxiv.org/pdf/2602.15322.pdf",
-      "published": "2026-02-17T02:57:12Z",
+      "abs_url": "https://arxiv.org/abs/2602.15727",
+      "pdf_url": "https://arxiv.org/pdf/2602.15727.pdf",
+      "published": "2026-02-17T17:02:38Z",
       "signals": {
         "reddit_mentions": 0,
-        "hn_mentions": 2,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 10
+      },
+      "score": 1.7025
+    },
+    {
+      "id": "2602.19357",
+      "title": "MentalBlackboard: Evaluating Spatial Visualization via Mathematical Transformations",
+      "authors": [
+        "Nilay Yilmaz",
+        "Maitreya Patel",
+        "Naga Sai Abhiram Kusumba",
+        "Yixuan He",
+        "Yezhou Yang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.19357",
+      "pdf_url": "https://arxiv.org/pdf/2602.19357.pdf",
+      "published": "2026-02-22T22:05:11Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.18308",
+      "title": "JPmHC Dynamical Isometry via Orthogonal Hyper-Connections",
+      "authors": [
+        "Biswa Sengupta",
+        "Jinhua Wang",
+        "Leo Brunswic"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.18308",
+      "pdf_url": "https://arxiv.org/pdf/2602.18308.pdf",
+      "published": "2026-02-20T16:06:01Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
         "hf_count": 0,
         "gh_stars": 0
       },
-      "score": 2.1972
+      "score": 1.3863
     },
     {
-      "id": "2602.17645",
-      "title": "Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting",
+      "id": "2602.18224",
+      "title": "SimVLA: A Simple VLA Baseline for Robotic Manipulation",
       "authors": [
-        "Xiaohan Zhao",
-        "Zhaoyi Li",
-        "Yaxin Luo",
-        "Jiacheng Cui",
-        "Zhiqiang Shen"
+        "Yuankai Luo",
+        "Woping Chen",
+        "Tong Liang",
+        "Baiqiao Wang",
+        "Zhenguo Li"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.17645",
-      "pdf_url": "https://arxiv.org/pdf/2602.17645.pdf",
-      "published": "2026-02-19T18:54:32Z",
+      "abs_url": "https://arxiv.org/abs/2602.18224",
+      "pdf_url": "https://arxiv.org/pdf/2602.18224.pdf",
+      "published": "2026-02-20T14:04:27Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -561,6 +631,47 @@
       "score": 1.3863
     },
     {
+      "id": "2602.17645",
+      "title": "Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting",
+      "authors": [
+        "Xiaohan Zhao",
+        "Zhaoyi Li",
+        "Yaxin Luo",
+        "Jiacheng Cui",
+        "Zhiqiang Shen"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.17645",
+      "pdf_url": "https://arxiv.org/pdf/2602.17645.pdf",
+      "published": "2026-02-19T18:54:32Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.17270",
+      "title": "Unified Latents (UL): How to train your latents",
+      "authors": [
+        "Jonathan Heek",
+        "Emiel Hoogeboom",
+        "Thomas Mensink",
+        "Tim Salimans"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.17270",
+      "pdf_url": "https://arxiv.org/pdf/2602.17270.pdf",
+      "published": "2026-02-19T11:18:12Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2602.17004",
       "title": "Arcee Trinity Large Technical Report",
       "authors": [
@@ -603,6 +714,28 @@
       "score": 1.3863
     },
     {
+      "id": "2602.16902",
+      "title": "LLM-WikiRace Benchmark: How Far Can LLMs Plan over Real-World Knowledge Graphs?",
+      "authors": [
+        "Juliusz Ziomek",
+        "William Bankes",
+        "Lorenz Wolf",
+        "Shyam Sundhar Ramesh",
+        "Xiaohang Tang",
+        "Ilija Bogunovic"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.16902",
+      "pdf_url": "https://arxiv.org/pdf/2602.16902.pdf",
+      "published": "2026-02-18T21:33:59Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2602.16666",
       "title": "Towards a Science of AI Agent Reliability",
       "authors": [
@@ -636,30 +769,6 @@
       "abs_url": "https://arxiv.org/abs/2602.16400",
       "pdf_url": "https://arxiv.org/pdf/2602.16400.pdf",
       "published": "2026-02-18T12:20:32Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.16742",
-      "title": "DeepVision-103K: A Visually Diverse, Broad-Coverage, and Verifiable Mathematical Dataset for Multimodal Reasoning",
-      "authors": [
-        "Haoxiang Sun",
-        "Lizhen Xu",
-        "Bing Zhao",
-        "Wotao Yin",
-        "Wei Wang",
-        "Boyu Yang",
-        "Rui Wang",
-        "Hu Wei"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16742",
-      "pdf_url": "https://arxiv.org/pdf/2602.16742.pdf",
-      "published": "2026-02-18T01:51:21Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -718,18 +827,18 @@
       "score": 1.3863
     },
     {
-      "id": "2602.15727",
-      "title": "Spanning the Visual Analogy Space with a Weight Basis of LoRAs",
+      "id": "2602.19948",
+      "title": "Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming",
       "authors": [
-        "Hila Manor",
-        "Rinon Gal",
-        "Haggai Maron",
-        "Tomer Michaeli",
-        "Gal Chechik"
+        "Ian Steenstra",
+        "Paola Pedrelli",
+        "Weiyan Shi",
+        "Stacy Marsella",
+        "Timothy W. Bickmore"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.15727",
-      "pdf_url": "https://arxiv.org/pdf/2602.15727.pdf",
-      "published": "2026-02-17T17:02:38Z",
+      "abs_url": "https://arxiv.org/abs/2602.19948",
+      "pdf_url": "https://arxiv.org/pdf/2602.19948.pdf",
+      "published": "2026-02-23T15:17:18Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -739,16 +848,22 @@
       "score": 1.3863
     },
     {
-      "id": "2602.14589",
-      "title": "MATEO: A Multimodal Benchmark for Temporal Reasoning and Planning in LVLMs",
+      "id": "2602.18532",
+      "title": "VLANeXt: Recipes for Building Strong VLA Models",
       "authors": [
-        "Gabriel Roccabruna",
-        "Olha Khomyn",
-        "Giuseppe Riccardi"
+        "Xiao-Ming Wu",
+        "Bin Fan",
+        "Kang Liao",
+        "Jian-Jian Jiang",
+        "Runze Yang",
+        "Yihang Luo",
+        "Zhonghua Wu",
+        "Wei-Shi Zheng",
+        "Chen Change Loy"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.14589",
-      "pdf_url": "https://arxiv.org/pdf/2602.14589.pdf",
-      "published": "2026-02-16T09:41:50Z",
+      "abs_url": "https://arxiv.org/abs/2602.18532",
+      "pdf_url": "https://arxiv.org/pdf/2602.18532.pdf",
+      "published": "2026-02-20T09:26:17Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -758,15 +873,40 @@
       "score": 1.3863
     },
     {
-      "id": "2602.14687",
-      "title": "SynthSAEBench: Evaluating Sparse Autoencoders on Scalable Realistic Synthetic Data",
+      "id": "2602.17402",
+      "title": "A Contrastive Variational AutoEncoder for NSCLC Survival Prediction with Missing Modalities",
       "authors": [
-        "David Chanin",
-        "Adri\u00e0 Garriga-Alonso"
+        "Michele Zanitti",
+        "Vanja Miskovic",
+        "Francesco Trov\u00f2",
+        "Alessandra Laura Giulia Pedrocchi",
+        "Ming Shen",
+        "Yan Kyaw Tun",
+        "Arsela Prelaj",
+        "Sokol Kosta"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.14687",
-      "pdf_url": "https://arxiv.org/pdf/2602.14687.pdf",
-      "published": "2026-02-16T12:22:00Z",
+      "abs_url": "https://arxiv.org/abs/2602.17402",
+      "pdf_url": "https://arxiv.org/pdf/2602.17402.pdf",
+      "published": "2026-02-19T14:29:34Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.17053",
+      "title": "RFEval: Benchmarking Reasoning Faithfulness under Counterfactual Reasoning Intervention in Large Reasoning Models",
+      "authors": [
+        "Yunseok Han",
+        "Yejoon Lee",
+        "Jaeyoung Do"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.17053",
+      "pdf_url": "https://arxiv.org/pdf/2602.17053.pdf",
+      "published": "2026-02-19T03:49:37Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -830,20 +970,19 @@
       "score": 1.3863
     },
     {
-      "id": "2602.16301",
-      "title": "Multi-agent cooperation through in-context co-player inference",
+      "id": "2602.17729",
+      "title": "Stop Saying \"AI\"",
       "authors": [
-        "Marissa A. Weis",
-        "Maciej Wo\u0142czyk",
-        "Rajai Nasser",
-        "Rif A. Saurous",
-        "Blaise Ag\u00fcera y Arcas",
-        "Jo\u00e3o Sacramento",
-        "Alexander Meulemans"
+        "Nathan G. Wood",
+        "Scott Robbins",
+        "Eduardo Zegarra Berodt",
+        "Anton Graf von Westerholt",
+        "Michelle Behrndt",
+        "Daniel Kloock-Schreiber"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.16301",
-      "pdf_url": "https://arxiv.org/pdf/2602.16301.pdf",
-      "published": "2026-02-18T09:31:43Z",
+      "abs_url": "https://arxiv.org/abs/2602.17729",
+      "pdf_url": "https://arxiv.org/pdf/2602.17729.pdf",
+      "published": "2026-02-18T10:11:31Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 1,
@@ -868,6 +1007,29 @@
       "abs_url": "https://arxiv.org/abs/2602.16066",
       "pdf_url": "https://arxiv.org/pdf/2602.16066.pdf",
       "published": "2026-02-17T22:44:10Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
+      "id": "2602.16301",
+      "title": "Multi-agent cooperation through in-context co-player inference",
+      "authors": [
+        "Marissa A. Weis",
+        "Maciej Wo\u0142czyk",
+        "Rajai Nasser",
+        "Rif A. Saurous",
+        "Blaise Ag\u00fcera y Arcas",
+        "Jo\u00e3o Sacramento",
+        "Alexander Meulemans"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.16301",
+      "pdf_url": "https://arxiv.org/pdf/2602.16301.pdf",
+      "published": "2026-02-18T09:31:43Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 1,
@@ -926,196 +1088,6 @@
       "score": 1.3863
     },
     {
-      "id": "2602.15019",
-      "title": "Hunt Globally: Wide Search AI Agents for Drug Asset Scouting in Investing, Business Development, and Competitive Intelligence",
-      "authors": [
-        "Alisa Vinogradova",
-        "Vlad Vinogradov",
-        "Luba Greenwood",
-        "Ilya Yasny",
-        "Dmitry Kobyzev",
-        "Shoman Kasbekar",
-        "Kong Nguyen",
-        "Dmitrii Radkevich",
-        "Roman Doronin",
-        "Andrey Doronichev"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.15019",
-      "pdf_url": "https://arxiv.org/pdf/2602.15019.pdf",
-      "published": "2026-02-16T18:57:49Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.15241",
-      "title": "GenAI for Systems: Recurring Challenges and Design Principles from Software to Silicon",
-      "authors": [
-        "Arya Tschand",
-        "Chenyu Wang",
-        "Zishen Wan",
-        "Andrew Cheng",
-        "Ioana Cristescu",
-        "Kevin He",
-        "Howard Huang",
-        "Alexander Ingare",
-        "Akseli Kangaslahti",
-        "Sara Kangaslahti",
-        "Theo Lebryk",
-        "Hongjin Lin",
-        "Jeffrey Jian Ma",
-        "Alexandru Meterez",
-        "Clara Mohri",
-        "Depen Morwani",
-        "Sunny Qin",
-        "Roy Rinberg",
-        "Paula Rodriguez-Diaz",
-        "Alyssa Mia Taliotis",
-        "Pernille Undrum Fathi",
-        "Rosie Zhao",
-        "Todd Zhou",
-        "Vijay Janapa Reddi"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.15241",
-      "pdf_url": "https://arxiv.org/pdf/2602.15241.pdf",
-      "published": "2026-02-16T22:45:33Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.14721",
-      "title": "WebWorld: A Large-Scale World Model for Web Agent Training",
-      "authors": [
-        "Zikai Xiao",
-        "Jianhong Tu",
-        "Chuhang Zou",
-        "Yuxin Zuo",
-        "Zhi Li",
-        "Peng Wang",
-        "Bowen Yu",
-        "Fei Huang",
-        "Junyang Lin",
-        "Zuozhu Liu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.14721",
-      "pdf_url": "https://arxiv.org/pdf/2602.14721.pdf",
-      "published": "2026-02-16T13:06:49Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.14922",
-      "title": "ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI",
-      "authors": [
-        "Gaoyang Zhang",
-        "Shanghong Zou",
-        "Yafang Wang",
-        "He Zhang",
-        "Ruohua Xu",
-        "Feng Zhao"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.14922",
-      "pdf_url": "https://arxiv.org/pdf/2602.14922.pdf",
-      "published": "2026-02-16T16:56:53Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.14865",
-      "title": "EmbeWebAgent: Embedding Web Agents into Any Customized UI",
-      "authors": [
-        "Chenyang Ma",
-        "Clyde Fare",
-        "Matthew Wilson",
-        "Dave Braines"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.14865",
-      "pdf_url": "https://arxiv.org/pdf/2602.14865.pdf",
-      "published": "2026-02-16T15:59:56Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.14740",
-      "title": "AI Arms and Influence: Frontier Models Exhibit Sophisticated Reasoning in Simulated Nuclear Crises",
-      "authors": [
-        "Kenneth Payne"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.14740",
-      "pdf_url": "https://arxiv.org/pdf/2602.14740.pdf",
-      "published": "2026-02-16T13:35:01Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.14591",
-      "title": "Automated Classification of Source Code Changes Based on Metrics Clustering in the Software Development Process",
-      "authors": [
-        "Evgenii Kniazev"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.14591",
-      "pdf_url": "https://arxiv.org/pdf/2602.14591.pdf",
-      "published": "2026-02-16T09:47:39Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.14941",
-      "title": "AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories",
-      "authors": [
-        "Zun Wang",
-        "Han Lin",
-        "Jaehong Yoon",
-        "Jaemin Cho",
-        "Yue Zhang",
-        "Mohit Bansal"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.14941",
-      "pdf_url": "https://arxiv.org/pdf/2602.14941.pdf",
-      "published": "2026-02-16T17:23:08Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 61
-      },
-      "score": 0.781
-    },
-    {
       "id": "2602.16173",
       "title": "Learning Personalized Agents from Human Feedback",
       "authors": [
@@ -1139,80 +1111,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 21
+        "gh_stars": 29
       },
-      "score": 0.4583
-    },
-    {
-      "id": "2602.15112",
-      "title": "ResearchGym: Evaluating Language Model Agents on Real-World AI Research",
-      "authors": [
-        "Aniketh Garikaparthi",
-        "Manasi Patwardhan",
-        "Arman Cohan"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.15112",
-      "pdf_url": "https://arxiv.org/pdf/2602.15112.pdf",
-      "published": "2026-02-16T19:00:03Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 10
-      },
-      "score": 0.3162
-    },
-    {
-      "id": "2602.14699",
-      "title": "Qute: Towards Quantum-Native Database",
-      "authors": [
-        "Muzhi Chen",
-        "Xuanhe Zhou",
-        "Wei Zhou",
-        "Bangrui Xu",
-        "Surui Tang",
-        "Guoliang Li",
-        "Bingsheng He",
-        "Yeye He",
-        "Yitong Song",
-        "Fan Wu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.14699",
-      "pdf_url": "https://arxiv.org/pdf/2602.14699.pdf",
-      "published": "2026-02-16T12:39:46Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 10
-      },
-      "score": 0.3162
-    },
-    {
-      "id": "2602.15382",
-      "title": "The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems",
-      "authors": [
-        "Xiaoze Liu",
-        "Ruowang Zhang",
-        "Weichen Yu",
-        "Siheng Xiong",
-        "Liu He",
-        "Feijie Wu",
-        "Hoin Jung",
-        "Matt Fredrikson",
-        "Xiaoqian Wang",
-        "Jing Gao"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.15382",
-      "pdf_url": "https://arxiv.org/pdf/2602.15382.pdf",
-      "published": "2026-02-17T06:31:53Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 7
-      },
-      "score": 0.2646
+      "score": 0.5385
     },
     {
       "id": "2602.16699",
@@ -1234,24 +1135,25 @@
       "score": 0.2646
     },
     {
-      "id": "2602.16849",
-      "title": "On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking",
+      "id": "2602.17664",
+      "title": "Sink-Aware Pruning for Diffusion Language Models",
       "authors": [
-        "Jianliang He",
-        "Leda Wang",
-        "Siyu Chen",
-        "Zhuoran Yang"
+        "Aidar Myrzakhan",
+        "Tianyi Li",
+        "Bowei Guo",
+        "Shengkun Tang",
+        "Zhiqiang Shen"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.16849",
-      "pdf_url": "https://arxiv.org/pdf/2602.16849.pdf",
-      "published": "2026-02-18T20:25:13Z",
+      "abs_url": "https://arxiv.org/abs/2602.17664",
+      "pdf_url": "https://arxiv.org/pdf/2602.17664.pdf",
+      "published": "2026-02-19T18:59:50Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 4
+        "gh_stars": 5
       },
-      "score": 0.2
+      "score": 0.2236
     },
     {
       "id": "2602.15772",
@@ -1267,6 +1169,26 @@
       "abs_url": "https://arxiv.org/abs/2602.15772",
       "pdf_url": "https://arxiv.org/pdf/2602.15772.pdf",
       "published": "2026-02-17T18:04:13Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 5
+      },
+      "score": 0.2236
+    },
+    {
+      "id": "2602.16849",
+      "title": "On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking",
+      "authors": [
+        "Jianliang He",
+        "Leda Wang",
+        "Siyu Chen",
+        "Zhuoran Yang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.16849",
+      "pdf_url": "https://arxiv.org/pdf/2602.16849.pdf",
+      "published": "2026-02-18T20:25:13Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1317,6 +1239,107 @@
         "gh_stars": 2
       },
       "score": 0.1414
+    },
+    {
+      "id": "2602.15449",
+      "title": "TAROT: Test-driven and Capability-adaptive Curriculum Reinforcement Fine-tuning for Code Generation with Large Language Models",
+      "authors": [
+        "Chansung Park",
+        "Juyong Jiang",
+        "Fan Wang",
+        "Sayak Paul",
+        "Jiasi Shen",
+        "Jing Tang",
+        "Jianguo Li"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.15449",
+      "pdf_url": "https://arxiv.org/pdf/2602.15449.pdf",
+      "published": "2026-02-17T09:29:18Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 2
+      },
+      "score": 0.1414
+    },
+    {
+      "id": "2602.15927",
+      "title": "Visual Memory Injection Attacks for Multi-Turn Conversations",
+      "authors": [
+        "Christian Schlarmann",
+        "Matthias Hein"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.15927",
+      "pdf_url": "https://arxiv.org/pdf/2602.15927.pdf",
+      "published": "2026-02-17T18:34:59Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 1
+      },
+      "score": 0.1
+    },
+    {
+      "id": "2602.20078",
+      "title": "Descent-Guided Policy Gradient for Scalable Cooperative Multi-Agent Learning",
+      "authors": [
+        "Shan Yang",
+        "Yang Liu"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.20078",
+      "pdf_url": "https://arxiv.org/pdf/2602.20078.pdf",
+      "published": "2026-02-23T17:45:08Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
+    },
+    {
+      "id": "2602.20122",
+      "title": "NanoKnow: How to Know What Your Language Model Knows",
+      "authors": [
+        "Lingwei Gu",
+        "Nour Jedidi",
+        "Jimmy Lin"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.20122",
+      "pdf_url": "https://arxiv.org/pdf/2602.20122.pdf",
+      "published": "2026-02-23T18:37:49Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
+    },
+    {
+      "id": "2602.20117",
+      "title": "ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models",
+      "authors": [
+        "Andre He",
+        "Nathaniel Weir",
+        "Kaj Bostrom",
+        "Allen Nie",
+        "Darion Cassel",
+        "Sam Bayless",
+        "Huzefa Rangwala"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.20117",
+      "pdf_url": "https://arxiv.org/pdf/2602.20117.pdf",
+      "published": "2026-02-23T18:34:29Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
     }
   ]
 }
