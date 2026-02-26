@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-02-25T08:48:05.230366Z",
+  "generated_utc": "2026-02-26T08:45:59.467071Z",
   "window_days": 7,
   "categories": [
     "cs.LG",
@@ -8,28 +8,6 @@
   ],
   "top_n": 50,
   "papers": [
-    {
-      "id": "2602.16800",
-      "title": "Large-scale online deanonymization with LLMs",
-      "authors": [
-        "Simon Lermen",
-        "Daniel Paleka",
-        "Joshua Swanson",
-        "Michael Aerni",
-        "Nicholas Carlini",
-        "Florian Tram\u00e8r"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16800",
-      "pdf_url": "https://arxiv.org/pdf/2602.16800.pdf",
-      "published": "2026-02-18T19:02:50Z",
-      "signals": {
-        "reddit_mentions": 2,
-        "hn_mentions": 2,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 4.3944
-    },
     {
       "id": "2602.20739",
       "title": "PyVision-RL: Forging Open Agentic Vision Models via RL",
@@ -49,29 +27,61 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 8,
-        "gh_stars": 0
+        "gh_stars": 43
       },
-      "score": 4.3944
+      "score": 5.0502
     },
     {
-      "id": "2602.16284",
-      "title": "Fast KV Compaction via Attention Matching",
+      "id": "2602.21201",
+      "title": "Aletheia tackles FirstProof autonomously",
       "authors": [
-        "Adam Zweiger",
-        "Xinghong Fu",
-        "Han Guo",
-        "Yoon Kim"
+        "Tony Feng",
+        "Junehyuk Jung",
+        "Sang-hyun Kim",
+        "Carlo Pagano",
+        "Sergei Gukov",
+        "Chiang-Chiang Tsai",
+        "David Woodruff",
+        "Adel Javanmard",
+        "Aryan Mokhtari",
+        "Dawsen Hwang",
+        "Yuri Chervonyi",
+        "Jonathan N. Lee",
+        "Garrett Bingham",
+        "Trieu H. Trinh",
+        "Vahab Mirrokni",
+        "Quoc V. Le",
+        "Thang Luong"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.16284",
-      "pdf_url": "https://arxiv.org/pdf/2602.16284.pdf",
-      "published": "2026-02-18T09:06:53Z",
+      "abs_url": "https://arxiv.org/abs/2602.21201",
+      "pdf_url": "https://arxiv.org/pdf/2602.21201.pdf",
+      "published": "2026-02-24T18:56:10Z",
       "signals": {
-        "reddit_mentions": 3,
+        "reddit_mentions": 4,
         "hn_mentions": 1,
         "hf_count": 0,
         "gh_stars": 0
       },
-      "score": 4.1589
+      "score": 4.6052
+    },
+    {
+      "id": "2602.18589",
+      "title": "DM4CT: Benchmarking Diffusion Models for Computed Tomography Reconstruction",
+      "authors": [
+        "Jiayang Shi",
+        "Daniel M. Pelt",
+        "K. Joost Batenburg"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.18589",
+      "pdf_url": "https://arxiv.org/pdf/2602.18589.pdf",
+      "published": "2026-02-20T19:54:47Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 6,
+        "gh_stars": 0
+      },
+      "score": 3.8918
     },
     {
       "id": "2602.18915",
@@ -181,6 +191,29 @@
       "score": 2.9962
     },
     {
+      "id": "2602.20731",
+      "title": "Communication-Inspired Tokenization for Structured Image Representations",
+      "authors": [
+        "Aram Davtyan",
+        "Yusuf Sahin",
+        "Yasaman Haghighi",
+        "Sebastian Stapf",
+        "Pablo Acuaviva",
+        "Alexandre Alahi",
+        "Paolo Favaro"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.20731",
+      "pdf_url": "https://arxiv.org/pdf/2602.20731.pdf",
+      "published": "2026-02-24T09:53:50Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 3,
+        "gh_stars": 3
+      },
+      "score": 2.9458
+    },
+    {
       "id": "2602.17363",
       "title": "2Mamba2Furious: Linear in Complexity, Competitive in Accuracy",
       "authors": [
@@ -197,28 +230,6 @@
         "gh_stars": 2
       },
       "score": 2.914
-    },
-    {
-      "id": "2602.16666",
-      "title": "Towards a Science of AI Agent Reliability",
-      "authors": [
-        "Stephan Rabanser",
-        "Sayash Kapoor",
-        "Peter Kirgis",
-        "Kangheng Liu",
-        "Saiteja Utpala",
-        "Arvind Narayanan"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16666",
-      "pdf_url": "https://arxiv.org/pdf/2602.16666.pdf",
-      "published": "2026-02-18T18:05:44Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 2.7726
     },
     {
       "id": "2602.20021",
@@ -275,6 +286,85 @@
       "score": 2.7726
     },
     {
+      "id": "2602.19762",
+      "title": "Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)",
+      "authors": [
+        "Mohammed Javed Absar",
+        "Muthu Baskaran",
+        "Abhikrant Sharma",
+        "Abhilash Bhandari",
+        "Ankit Aggarwal",
+        "Arun Rangasamy",
+        "Dibyendu Das",
+        "Fateme Hosseini",
+        "Franck Slama",
+        "Iulian Brumar",
+        "Jyotsna Verma",
+        "Krishnaprasad Bindumadhavan",
+        "Mitesh Kothari",
+        "Mohit Gupta",
+        "Ravishankar Kolachana",
+        "Richard Lethin",
+        "Samarth Narang",
+        "Sanjay Motilal Ladwa",
+        "Shalini Jain",
+        "Snigdha Suresh Dalvi",
+        "Tasmia Rahman",
+        "Venkat Rasagna Reddy Komatireddy",
+        "Vivek Vasudevbhai Pandya",
+        "Xiyue Shi",
+        "Zachary Zipper"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.19762",
+      "pdf_url": "https://arxiv.org/pdf/2602.19762.pdf",
+      "published": "2026-02-23T12:12:39Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 2.7726
+    },
+    {
+      "id": "2602.20204",
+      "title": "Analyzing Latency Hiding and Parallelism in an MLIR-based AI Kernel Compiler",
+      "authors": [
+        "Javed Absar",
+        "Samarth Narang",
+        "Muthu Baskaran"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.20204",
+      "pdf_url": "https://arxiv.org/pdf/2602.20204.pdf",
+      "published": "2026-02-22T19:14:23Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 1,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 2.7726
+    },
+    {
+      "id": "2602.20122",
+      "title": "NanoKnow: How to Know What Your Language Model Knows",
+      "authors": [
+        "Lingwei Gu",
+        "Nour Jedidi",
+        "Jimmy Lin"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.20122",
+      "pdf_url": "https://arxiv.org/pdf/2602.20122.pdf",
+      "published": "2026-02-23T18:37:49Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 2,
+        "gh_stars": 5
+      },
+      "score": 2.4208
+    },
+    {
       "id": "2602.20399",
       "title": "GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training",
       "authors": [
@@ -318,9 +408,9 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 53
+        "gh_stars": 65
       },
-      "score": 2.1143
+      "score": 2.1925
     },
     {
       "id": "2602.18224",
@@ -339,9 +429,31 @@
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 1,
-        "gh_stars": 21
+        "gh_stars": 32
       },
-      "score": 1.8446
+      "score": 1.952
+    },
+    {
+      "id": "2602.20951",
+      "title": "See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis",
+      "authors": [
+        "Jaehyun Park",
+        "Minyoung Ahn",
+        "Minkyu Kim",
+        "Jonghyun Lee",
+        "Jae-Gil Lee",
+        "Dongmin Park"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.20951",
+      "pdf_url": "https://arxiv.org/pdf/2602.20951.pdf",
+      "published": "2026-02-24T14:34:13Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 1,
+        "gh_stars": 4
+      },
+      "score": 1.5863
     },
     {
       "id": "2602.19948",
@@ -365,20 +477,20 @@
       "score": 1.4863
     },
     {
-      "id": "2602.20122",
-      "title": "NanoKnow: How to Know What Your Language Model Knows",
+      "id": "2602.20946",
+      "title": "Some Simple Economics of AGI",
       "authors": [
-        "Lingwei Gu",
-        "Nour Jedidi",
-        "Jimmy Lin"
+        "Christian Catalini",
+        "Xiang Hui",
+        "Jane Wu"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.20122",
-      "pdf_url": "https://arxiv.org/pdf/2602.20122.pdf",
-      "published": "2026-02-23T18:37:49Z",
+      "abs_url": "https://arxiv.org/abs/2602.20946",
+      "pdf_url": "https://arxiv.org/pdf/2602.20946.pdf",
+      "published": "2026-02-24T14:29:45Z",
       "signals": {
         "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
+        "hn_mentions": 1,
+        "hf_count": 0,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -425,6 +537,25 @@
       "score": 1.3863
     },
     {
+      "id": "2602.18308",
+      "title": "JPmHC Dynamical Isometry via Orthogonal Hyper-Connections",
+      "authors": [
+        "Biswa Sengupta",
+        "Jinhua Wang",
+        "Leo Brunswic"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.18308",
+      "pdf_url": "https://arxiv.org/pdf/2602.18308.pdf",
+      "published": "2026-02-20T16:06:01Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2602.18297",
       "title": "Analyzing and Improving Chain-of-Thought Monitorability Through Information Theory",
       "authors": [
@@ -446,20 +577,22 @@
       "score": 1.3863
     },
     {
-      "id": "2602.18308",
-      "title": "JPmHC Dynamical Isometry via Orthogonal Hyper-Connections",
+      "id": "2602.17645",
+      "title": "Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting",
       "authors": [
-        "Biswa Sengupta",
-        "Jinhua Wang",
-        "Leo Brunswic"
+        "Xiaohan Zhao",
+        "Zhaoyi Li",
+        "Yaxin Luo",
+        "Jiacheng Cui",
+        "Zhiqiang Shen"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.18308",
-      "pdf_url": "https://arxiv.org/pdf/2602.18308.pdf",
-      "published": "2026-02-20T16:06:01Z",
+      "abs_url": "https://arxiv.org/abs/2602.17645",
+      "pdf_url": "https://arxiv.org/pdf/2602.17645.pdf",
+      "published": "2026-02-19T18:54:32Z",
       "signals": {
-        "reddit_mentions": 1,
+        "reddit_mentions": 0,
         "hn_mentions": 0,
-        "hf_count": 0,
+        "hf_count": 1,
         "gh_stars": 0
       },
       "score": 1.3863
@@ -476,27 +609,6 @@
       "abs_url": "https://arxiv.org/abs/2602.17634",
       "pdf_url": "https://arxiv.org/pdf/2602.17634.pdf",
       "published": "2026-02-19T18:48:08Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.17645",
-      "title": "Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting",
-      "authors": [
-        "Xiaohan Zhao",
-        "Zhaoyi Li",
-        "Yaxin Luo",
-        "Jiacheng Cui",
-        "Zhiqiang Shen"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.17645",
-      "pdf_url": "https://arxiv.org/pdf/2602.17645.pdf",
-      "published": "2026-02-19T18:54:32Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -545,103 +657,17 @@
       "score": 1.3863
     },
     {
-      "id": "2602.17004",
-      "title": "Arcee Trinity Large Technical Report",
+      "id": "2602.20945",
+      "title": "The Art of Efficient Reasoning: Data, Reward, and Optimization",
       "authors": [
-        "Varun Singh",
-        "Lucas Krauss",
-        "Sami Jaghouar",
-        "Matej Sirovatka",
-        "Charles Goddard",
-        "Fares Obied",
-        "Jack Min Ong",
-        "Jannik Straube",
-        "Fern",
-        "Aria Harley",
-        "Conner Stewart",
-        "Colin Kealty",
-        "Maziyar Panahi",
-        "Simon Kirsten",
-        "Anushka Deshpande",
-        "Anneketh Vij",
-        "Arthur Bresnu",
-        "Pranav Veldurthi",
-        "Raghav Ravishankar",
-        "Hardik Bishnoi",
-        "DatologyAI Team",
-        "Arcee AI Team",
-        "Prime Intellect Team",
-        "Mark McQuade",
-        "Johannes Hagemann",
-        "Lucas Atkins"
+        "Taiqiang Wu",
+        "Zenan Xu",
+        "Bo Zhou",
+        "Ngai Wong"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.17004",
-      "pdf_url": "https://arxiv.org/pdf/2602.17004.pdf",
-      "published": "2026-02-19T01:58:50Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.16902",
-      "title": "LLM-WikiRace Benchmark: How Far Can LLMs Plan over Real-World Knowledge Graphs?",
-      "authors": [
-        "Juliusz Ziomek",
-        "William Bankes",
-        "Lorenz Wolf",
-        "Shyam Sundhar Ramesh",
-        "Xiaohang Tang",
-        "Ilija Bogunovic"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16902",
-      "pdf_url": "https://arxiv.org/pdf/2602.16902.pdf",
-      "published": "2026-02-18T21:33:59Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.16400",
-      "title": "Easy Data Unlearning Bench",
-      "authors": [
-        "Roy Rinberg",
-        "Pol Puigdemont",
-        "Martin Pawelczyk",
-        "Volkan Cevher"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16400",
-      "pdf_url": "https://arxiv.org/pdf/2602.16400.pdf",
-      "published": "2026-02-18T12:20:32Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.20951",
-      "title": "See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis",
-      "authors": [
-        "Jaehyun Park",
-        "Minyoung Ahn",
-        "Minkyu Kim",
-        "Jonghyun Lee",
-        "Jae-Gil Lee",
-        "Dongmin Park"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.20951",
-      "pdf_url": "https://arxiv.org/pdf/2602.20951.pdf",
-      "published": "2026-02-24T14:34:13Z",
+      "abs_url": "https://arxiv.org/abs/2602.20945",
+      "pdf_url": "https://arxiv.org/pdf/2602.20945.pdf",
+      "published": "2026-02-24T14:28:16Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -677,6 +703,31 @@
       "score": 1.3863
     },
     {
+      "id": "2602.20317",
+      "title": "Fast Spectrogram Event Extraction via Offline Self-Supervised Learning: From Fusion Diagnostics to Bioacoustics",
+      "authors": [
+        "Nathaniel Chen",
+        "Kouroche Bouchiat",
+        "Peter Steiner",
+        "Andrew Rothstein",
+        "David Smith",
+        "Max Austin",
+        "Mike van Zeeland",
+        "Azarakhsh Jalalvand",
+        "Egemen Kolemen"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.20317",
+      "pdf_url": "https://arxiv.org/pdf/2602.20317.pdf",
+      "published": "2026-02-23T20:03:10Z",
+      "signals": {
+        "reddit_mentions": 1,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 1.3863
+    },
+    {
       "id": "2602.18094",
       "title": "OODBench: Out-of-Distribution Benchmark for Large Vision-Language Models",
       "authors": [
@@ -701,203 +752,45 @@
       "score": 1.3863
     },
     {
-      "id": "2602.17402",
-      "title": "A Contrastive Variational AutoEncoder for NSCLC Survival Prediction with Missing Modalities",
+      "id": "2602.19089",
+      "title": "Ani3DHuman: Photorealistic 3D Human Animation with Self-guided Stochastic Sampling",
       "authors": [
-        "Michele Zanitti",
-        "Vanja Miskovic",
-        "Francesco Trov\u00f2",
-        "Alessandra Laura Giulia Pedrocchi",
-        "Ming Shen",
-        "Yan Kyaw Tun",
-        "Arsela Prelaj",
-        "Sokol Kosta"
+        "Qi Sun",
+        "Can Wang",
+        "Jiaxiang Shang",
+        "Yingchun Liu",
+        "Jing Liao"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.17402",
-      "pdf_url": "https://arxiv.org/pdf/2602.17402.pdf",
-      "published": "2026-02-19T14:29:34Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.17053",
-      "title": "RFEval: Benchmarking Reasoning Faithfulness under Counterfactual Reasoning Intervention in Large Reasoning Models",
-      "authors": [
-        "Yunseok Han",
-        "Yejoon Lee",
-        "Jaeyoung Do"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.17053",
-      "pdf_url": "https://arxiv.org/pdf/2602.17053.pdf",
-      "published": "2026-02-19T03:49:37Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.16943",
-      "title": "Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents",
-      "authors": [
-        "Arnold Cartagena",
-        "Ariane Teixeira"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16943",
-      "pdf_url": "https://arxiv.org/pdf/2602.16943.pdf",
-      "published": "2026-02-18T23:17:15Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.16873",
-      "title": "AdaptOrch: Task-Adaptive Multi-Agent Orchestration in the Era of LLM Performance Convergence",
-      "authors": [
-        "Geunbin Yu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16873",
-      "pdf_url": "https://arxiv.org/pdf/2602.16873.pdf",
-      "published": "2026-02-18T21:00:05Z",
-      "signals": {
-        "reddit_mentions": 1,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.17729",
-      "title": "Stop Saying \"AI\"",
-      "authors": [
-        "Nathan G. Wood",
-        "Scott Robbins",
-        "Eduardo Zegarra Berodt",
-        "Anton Graf von Westerholt",
-        "Michelle Behrndt",
-        "Daniel Kloock-Schreiber"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.17729",
-      "pdf_url": "https://arxiv.org/pdf/2602.17729.pdf",
-      "published": "2026-02-18T10:11:31Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.16811",
-      "title": "Evaluating Monolingual and Multilingual Large Language Models for Greek Question Answering: The DemosQA Benchmark",
-      "authors": [
-        "Charalampos Mastrokostas",
-        "Nikolaos Giarelis",
-        "Nikos Karacapilidis"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16811",
-      "pdf_url": "https://arxiv.org/pdf/2602.16811.pdf",
-      "published": "2026-02-18T19:15:30Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 1,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.16301",
-      "title": "Multi-agent cooperation through in-context co-player inference",
-      "authors": [
-        "Marissa A. Weis",
-        "Maciej Wo\u0142czyk",
-        "Rajai Nasser",
-        "Rif A. Saurous",
-        "Blaise Ag\u00fcera y Arcas",
-        "Jo\u00e3o Sacramento",
-        "Alexander Meulemans"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16301",
-      "pdf_url": "https://arxiv.org/pdf/2602.16301.pdf",
-      "published": "2026-02-18T09:31:43Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 1,
-        "hf_count": 0,
-        "gh_stars": 0
-      },
-      "score": 1.3863
-    },
-    {
-      "id": "2602.16863",
-      "title": "SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation",
-      "authors": [
-        "Kushal Kedia",
-        "Tyler Ga Wei Lum",
-        "Jeannette Bohg",
-        "C. Karen Liu"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16863",
-      "pdf_url": "https://arxiv.org/pdf/2602.16863.pdf",
-      "published": "2026-02-18T20:42:39Z",
+      "abs_url": "https://arxiv.org/abs/2602.19089",
+      "pdf_url": "https://arxiv.org/pdf/2602.19089.pdf",
+      "published": "2026-02-22T08:07:28Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
         "hf_count": 0,
-        "gh_stars": 43
+        "gh_stars": 9
       },
-      "score": 0.6557
+      "score": 0.3
     },
     {
-      "id": "2602.16813",
-      "title": "One-step Language Modeling via Continuous Denoising",
+      "id": "2602.19320",
+      "title": "Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations",
       "authors": [
-        "Chanhyuk Lee",
-        "Jaehoon Yoo",
-        "Manan Agarwal",
-        "Sheel Shah",
-        "Jerry Huang",
-        "Aditi Raghunathan",
-        "Seunghoon Hong",
-        "Nicholas M. Boffi",
-        "Jinwoo Kim"
+        "Dongming Jiang",
+        "Yi Li",
+        "Songtao Wei",
+        "Jinxin Yang",
+        "Ayushi Kishore",
+        "Alysa Zhao",
+        "Dingyi Kang",
+        "Xu Hu",
+        "Feng Chen",
+        "Qiannan Li",
+        "Bingzhe Li"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.16813",
-      "pdf_url": "https://arxiv.org/pdf/2602.16813.pdf",
-      "published": "2026-02-18T19:23:07Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 42
-      },
-      "score": 0.6481
-    },
-    {
-      "id": "2602.16699",
-      "title": "Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents",
-      "authors": [
-        "Wenxuan Ding",
-        "Nicholas Tomlin",
-        "Greg Durrett"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16699",
-      "pdf_url": "https://arxiv.org/pdf/2602.16699.pdf",
-      "published": "2026-02-18T18:46:14Z",
+      "abs_url": "https://arxiv.org/abs/2602.19320",
+      "pdf_url": "https://arxiv.org/pdf/2602.19320.pdf",
+      "published": "2026-02-22T19:50:01Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -928,16 +821,22 @@
       "score": 0.2646
     },
     {
-      "id": "2602.17080",
-      "title": "Adam Improves Muon: Adaptive Moment Estimation with Orthogonalized Momentum",
+      "id": "2602.18998",
+      "title": "Benchmark Test-Time Scaling of General LLM Agents",
       "authors": [
-        "Minxin Zhang",
-        "Yuxuan Liu",
-        "Hayden Schaeffer"
+        "Xiaochuan Li",
+        "Ryan Ming",
+        "Pranav Setlur",
+        "Abhijay Paladugu",
+        "Andy Tang",
+        "Hao Kang",
+        "Shuai Shao",
+        "Rong Jin",
+        "Chenyan Xiong"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.17080",
-      "pdf_url": "https://arxiv.org/pdf/2602.17080.pdf",
-      "published": "2026-02-19T05:00:39Z",
+      "abs_url": "https://arxiv.org/abs/2602.18998",
+      "pdf_url": "https://arxiv.org/pdf/2602.18998.pdf",
+      "published": "2026-02-22T01:08:02Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -947,66 +846,24 @@
       "score": 0.2646
     },
     {
-      "id": "2602.19320",
-      "title": "Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations",
+      "id": "2602.22190",
+      "title": "GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL",
       "authors": [
-        "Dongming Jiang",
-        "Yi Li",
-        "Songtao Wei",
-        "Jinxin Yang",
-        "Ayushi Kishore",
-        "Alysa Zhao",
-        "Dingyi Kang",
-        "Xu Hu",
-        "Feng Chen",
-        "Qiannan Li",
-        "Bingzhe Li"
+        "Rui Yang",
+        "Qianhui Wu",
+        "Zhaoyang Wang",
+        "Hanyang Chen",
+        "Ke Yang",
+        "Hao Cheng",
+        "Huaxiu Yao",
+        "Baoling Peng",
+        "Huan Zhang",
+        "Jianfeng Gao",
+        "Tong Zhang"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.19320",
-      "pdf_url": "https://arxiv.org/pdf/2602.19320.pdf",
-      "published": "2026-02-22T19:50:01Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 6
-      },
-      "score": 0.2449
-    },
-    {
-      "id": "2602.16849",
-      "title": "On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking",
-      "authors": [
-        "Jianliang He",
-        "Leda Wang",
-        "Siyu Chen",
-        "Zhuoran Yang"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16849",
-      "pdf_url": "https://arxiv.org/pdf/2602.16849.pdf",
-      "published": "2026-02-18T20:25:13Z",
-      "signals": {
-        "reddit_mentions": 0,
-        "hn_mentions": 0,
-        "hf_count": 0,
-        "gh_stars": 5
-      },
-      "score": 0.2236
-    },
-    {
-      "id": "2602.16802",
-      "title": "References Improve LLM Alignment in Non-Verifiable Domains",
-      "authors": [
-        "Kejian Shi",
-        "Yixin Liu",
-        "Peifeng Wang",
-        "Alexander R. Fabbri",
-        "Shafiq Joty",
-        "Arman Cohan"
-      ],
-      "abs_url": "https://arxiv.org/abs/2602.16802",
-      "pdf_url": "https://arxiv.org/pdf/2602.16802.pdf",
-      "published": "2026-02-18T19:03:34Z",
+      "abs_url": "https://arxiv.org/abs/2602.22190",
+      "pdf_url": "https://arxiv.org/pdf/2602.22190.pdf",
+      "published": "2026-02-25T18:34:57Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1016,19 +873,27 @@
       "score": 0.1732
     },
     {
-      "id": "2602.16603",
-      "title": "FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving",
+      "id": "2602.21534",
+      "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
       "authors": [
-        "Chia-chi Hsieh",
-        "Zan Zong",
-        "Xinyang Chen",
-        "Jianjiang Li",
-        "Jidong Zhai",
-        "Lijie Wen"
+        "Xiaoxuan Wang",
+        "Han Zhang",
+        "Haixin Wang",
+        "Yidan Shi",
+        "Ruoyan Li",
+        "Kaiqiao Han",
+        "Chenyi Tong",
+        "Haoran Deng",
+        "Renliang Sun",
+        "Alexander Taylor",
+        "Yanqiao Zhu",
+        "Jason Cong",
+        "Yizhou Sun",
+        "Wei Wang"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.16603",
-      "pdf_url": "https://arxiv.org/pdf/2602.16603.pdf",
-      "published": "2026-02-18T16:57:45Z",
+      "abs_url": "https://arxiv.org/abs/2602.21534",
+      "pdf_url": "https://arxiv.org/pdf/2602.21534.pdf",
+      "published": "2026-02-25T03:43:34Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1036,6 +901,48 @@
         "gh_stars": 3
       },
       "score": 0.1732
+    },
+    {
+      "id": "2602.21198",
+      "title": "Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs",
+      "authors": [
+        "Yining Hong",
+        "Huang Huang",
+        "Manling Li",
+        "Li Fei-Fei",
+        "Jiajun Wu",
+        "Yejin Choi"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.21198",
+      "pdf_url": "https://arxiv.org/pdf/2602.21198.pdf",
+      "published": "2026-02-24T18:55:18Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 1
+      },
+      "score": 0.1
+    },
+    {
+      "id": "2602.21196",
+      "title": "Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking",
+      "authors": [
+        "Ravi Ghadia",
+        "Maksim Abraham",
+        "Sergei Vorobyov",
+        "Max Ryabinin"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.21196",
+      "pdf_url": "https://arxiv.org/pdf/2602.21196.pdf",
+      "published": "2026-02-24T18:54:39Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 1
+      },
+      "score": 0.1
     },
     {
       "id": "2602.19313",
@@ -1063,27 +970,14 @@
       "score": 0.1
     },
     {
-      "id": "2602.16990",
-      "title": "Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation",
+      "id": "2602.17929",
+      "title": "ZACH-ViT: Regime-Dependent Inductive Bias in Compact Vision Transformers for Medical Imaging",
       "authors": [
-        "Yan Wang",
-        "Yi Han",
-        "Lingfei Qian",
-        "Yueru He",
-        "Xueqing Peng",
-        "Dongji Feng",
-        "Zhuohan Xie",
-        "Vincent Jim Zhang",
-        "Rosie Guo",
-        "Fengran Mo",
-        "Jimin Huang",
-        "Yankai Chen",
-        "Xue Liu",
-        "Jian-Yun Nie"
+        "Athanasios Angelakis"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.16990",
-      "pdf_url": "https://arxiv.org/pdf/2602.16990.pdf",
-      "published": "2026-02-19T01:29:50Z",
+      "abs_url": "https://arxiv.org/abs/2602.17929",
+      "pdf_url": "https://arxiv.org/pdf/2602.17929.pdf",
+      "published": "2026-02-20T01:38:59Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1093,18 +987,57 @@
       "score": 0.1
     },
     {
-      "id": "2602.21204",
-      "title": "Test-Time Training with KV Binding Is Secretly Linear Attention",
+      "id": "2602.22144",
+      "title": "NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors",
       "authors": [
-        "Junchen Liu",
-        "Sven Elflein",
-        "Or Litany",
-        "Zan Gojcic",
-        "Ruilong Li"
+        "Lingfeng Ren",
+        "Weihao Yu",
+        "Runpeng Yu",
+        "Xinchao Wang"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.21204",
-      "pdf_url": "https://arxiv.org/pdf/2602.21204.pdf",
-      "published": "2026-02-24T18:59:30Z",
+      "abs_url": "https://arxiv.org/abs/2602.22144",
+      "pdf_url": "https://arxiv.org/pdf/2602.22144.pdf",
+      "published": "2026-02-25T17:50:41Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 1
+      },
+      "score": 0.1
+    },
+    {
+      "id": "2602.19633",
+      "title": "TAPE: Tool-Guided Adaptive Planning and Constrained Execution in Language Model Agents",
+      "authors": [
+        "Jongwon Jeong",
+        "Jungtaek Kim",
+        "Kangwook Lee"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.19633",
+      "pdf_url": "https://arxiv.org/pdf/2602.19633.pdf",
+      "published": "2026-02-23T09:19:56Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 1
+      },
+      "score": 0.1
+    },
+    {
+      "id": "2602.22056",
+      "title": "FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation",
+      "authors": [
+        "Edgar Welte",
+        "Yitian Shi",
+        "Rosa Wolf",
+        "Maximillian Gilles",
+        "Rania Rayyes"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.22056",
+      "pdf_url": "https://arxiv.org/pdf/2602.22056.pdf",
+      "published": "2026-02-25T16:06:49Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1114,30 +1047,16 @@
       "score": 0.0
     },
     {
-      "id": "2602.21201",
-      "title": "Aletheia tackles FirstProof autonomously",
+      "id": "2602.22207",
+      "title": "Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets",
       "authors": [
-        "Tony Feng",
-        "Junehyuk Jung",
-        "Sang-hyun Kim",
-        "Carlo Pagano",
-        "Sergei Gukov",
-        "Chiang-Chiang Tsai",
-        "David Woodruff",
-        "Adel Javanmard",
-        "Aryan Mokhtari",
-        "Dawsen Hwang",
-        "Yuri Chervonyi",
-        "Jonathan N. Lee",
-        "Garrett Bingham",
-        "Trieu H. Trinh",
-        "Vahab Mirrokni",
-        "Quoc V. Le",
-        "Thang Luong"
+        "Hanna Yukhymenko",
+        "Anton Alexandrov",
+        "Martin Vechev"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.21201",
-      "pdf_url": "https://arxiv.org/pdf/2602.21201.pdf",
-      "published": "2026-02-24T18:56:10Z",
+      "abs_url": "https://arxiv.org/abs/2602.22207",
+      "pdf_url": "https://arxiv.org/pdf/2602.22207.pdf",
+      "published": "2026-02-25T18:58:25Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1147,23 +1066,15 @@
       "score": 0.0
     },
     {
-      "id": "2602.21142",
-      "title": "LUMEN: Longitudinal Multi-Modal Radiology Model for Prognosis and Diagnosis",
+      "id": "2602.21995",
+      "title": "Outpatient Appointment Scheduling Optimization with a Genetic Algorithm Approach",
       "authors": [
-        "Zhifan Jiang",
-        "Dong Yang",
-        "Vishwesh Nath",
-        "Abhijeet Parida",
-        "Nishad P. Kulkarni",
-        "Ziyue Xu",
-        "Daguang Xu",
-        "Syed Muhammad Anwar",
-        "Holger R. Roth",
-        "Marius George Linguraru"
+        "Ana Rodrigues",
+        "Rui Rego"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.21142",
-      "pdf_url": "https://arxiv.org/pdf/2602.21142.pdf",
-      "published": "2026-02-24T17:42:46Z",
+      "abs_url": "https://arxiv.org/abs/2602.21995",
+      "pdf_url": "https://arxiv.org/pdf/2602.21995.pdf",
+      "published": "2026-02-25T15:15:57Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
@@ -1173,15 +1084,103 @@
       "score": 0.0
     },
     {
-      "id": "2602.21052",
-      "title": "Position-Aware Sequential Attention for Accurate Next Item Recommendations",
+      "id": "2602.22188",
+      "title": "Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach",
       "authors": [
-        "Timur Nabiev",
-        "Evgeny Frolov"
+        "Nathalie C. Pinheiro",
+        "Donghu Guo",
+        "Hannah P. Menke",
+        "Aniket C. Joshi",
+        "Claire E. Heaney",
+        "Ahmed H. ElSheikh",
+        "Christopher C. Pain"
       ],
-      "abs_url": "https://arxiv.org/abs/2602.21052",
-      "pdf_url": "https://arxiv.org/pdf/2602.21052.pdf",
-      "published": "2026-02-24T16:09:47Z",
+      "abs_url": "https://arxiv.org/abs/2602.22188",
+      "pdf_url": "https://arxiv.org/pdf/2602.22188.pdf",
+      "published": "2026-02-25T18:34:03Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
+    },
+    {
+      "id": "2602.22179",
+      "title": "Learning and Naming Subgroups with Exceptional Survival Characteristics",
+      "authors": [
+        "Mhd Jawad Al Rahwanji",
+        "Sascha Xu",
+        "Nils Philipp Walter",
+        "Jilles Vreeken"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.22179",
+      "pdf_url": "https://arxiv.org/pdf/2602.22179.pdf",
+      "published": "2026-02-25T18:25:47Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
+    },
+    {
+      "id": "2602.22146",
+      "title": "Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual",
+      "authors": [
+        "Yining Li",
+        "Peizhong Ju",
+        "Ness Shroff"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.22146",
+      "pdf_url": "https://arxiv.org/pdf/2602.22146.pdf",
+      "published": "2026-02-25T17:54:52Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
+    },
+    {
+      "id": "2602.22018",
+      "title": "Disease Progression and Subtype Modeling for Combined Discrete and Continuous Input Data",
+      "authors": [
+        "Sterre de Jonge",
+        "Elisabeth J. Vinke",
+        "Meike W. Vernooij",
+        "Daniel C. Alexander",
+        "Alexandra L. Young",
+        "Esther E. Bron"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.22018",
+      "pdf_url": "https://arxiv.org/pdf/2602.22018.pdf",
+      "published": "2026-02-25T15:31:30Z",
+      "signals": {
+        "reddit_mentions": 0,
+        "hn_mentions": 0,
+        "hf_count": 0,
+        "gh_stars": 0
+      },
+      "score": 0.0
+    },
+    {
+      "id": "2602.22066",
+      "title": "DualWeaver: Synergistic Feature Weaving Surrogates for Multivariate Forecasting with Univariate Time Series Foundation Models",
+      "authors": [
+        "Jinpeng Li",
+        "Zhongyi Pei",
+        "Huaze Xue",
+        "Bojian Zheng",
+        "Chen Wang",
+        "Jianmin Wang"
+      ],
+      "abs_url": "https://arxiv.org/abs/2602.22066",
+      "pdf_url": "https://arxiv.org/pdf/2602.22066.pdf",
+      "published": "2026-02-25T16:13:12Z",
       "signals": {
         "reddit_mentions": 0,
         "hn_mentions": 0,
